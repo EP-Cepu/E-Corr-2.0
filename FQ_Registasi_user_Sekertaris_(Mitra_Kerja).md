@@ -1,6 +1,6 @@
 \*\* Registasi User Sekertaris (Mitra Kerja)
 
-Untuk permasalahan ini terjadi ketika user akan menambahkan akun P-Office untuk sekretaris atau mitra kerja baru.
+Untuk permasalahan ini terjadi ketika user akan menambahkan akun E-Corr untuk sekretaris atau mitra kerja baru.
 
 Berikut ini adalah langkah-langkah registrasi user sekretaris atau mitra kerja. Langkah-langkah Register user sekretaris / Mitrakerja:
 
@@ -52,7 +52,7 @@ Berikut ini adalah langkah-langkah registrasi user sekretaris atau mitra kerja. 
 
 ![gambar](FAQ/13RMK.png)
 
-12. Pilih P-Office 2.0 kemudian pada dropdown Application list pilih P-Office 2.0, kemudian pada dropdown Roles centang Member User dan Secretary User. Setelah itu klik Submit.
+12. Pilih E-Corr 2.0 kemudian pada dropdown Application list pilih E-Corr 2.0, kemudian pada dropdown Roles centang Member User dan Secretary User. Setelah itu klik Submit.
 
 ![gambar](FAQ/14RMK.png)
 
@@ -62,7 +62,7 @@ Berikut ini adalah langkah-langkah registrasi user sekretaris atau mitra kerja. 
 
 ![gambar](FAQ/16RMK.png)
 
-14. Selanjutnya Buka Aplikasi P-Office untuk melakukan Secretary Mapping. Kemudian pilih Menu Resources lalu pilih Secretary > Mapping.
+14. Selanjutnya Buka Aplikasi E-Corr untuk melakukan Secretary Mapping. Kemudian pilih Menu Resources lalu pilih Secretary > Mapping.
 
 ![gambar](FAQ/17RMK.png)
 
@@ -88,6 +88,6 @@ Berikut ini adalah langkah-langkah registrasi user sekretaris atau mitra kerja. 
 
 ![gambar](FAQ/23RMK.png)
 
-20. Pastikan kembali user sudah ada di P-Office. Klik Data – Users lalu cari dengan email atau username user.
+20. Pastikan kembali user sudah ada di E-Corr. Klik Data – Users lalu cari dengan email atau username user.
 
 ![gambar](FAQ/24RMK.png)

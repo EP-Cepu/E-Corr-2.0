@@ -8,7 +8,7 @@ pesan eror **“To start seeing previews, please log on by opening the document�
 
 - Berikut ini langkah-langkah untuk mengatasi eror preview dokumen:
 
-1.	Masuk aplikasi P-Office, lalu tekan **CTRL+H**, klik **Hapus data penjelajahan**.
+1.	Masuk aplikasi E-Corr, lalu tekan **CTRL+H**, klik **Hapus data penjelajahan**.
 
 ![gambar](FAQ/E32.jpg)
 
@@ -20,7 +20,7 @@ pesan eror **“To start seeing previews, please log on by opening the document�
 
 ![gambar](FAQ/E34.jpg)
 
-4.	Masuk kembali ke browser dan akses P-Office
+4.	Masuk kembali ke browser dan akses E-Corr
 5.	Cari kembali surat yang akan di-preview, apabila masih terjadi eror “To start seeing previews, please log on by opening the document“ , silakan klik kanan lalu buka tab baru
 6.	Abaikan apabila di tab baru tersebut terdapat informasi “Access Denied “
 7.	Refresh tab sebelumnya, lalu preview kembali dokumen tersebut

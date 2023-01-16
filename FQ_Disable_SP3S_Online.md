@@ -3,7 +3,7 @@
 Masa aktif jabatan Pjs pada SP3S masih berlaku sehingga Pjs masih aktif, namun Pejabat Definitifnya sudah aktif kembali, maka diperlukan disable untuk SP3S Pjs tersebut.
 
 - Untuk melakukan disable SP3S Online, pejabat definitif dapat melakukannya dengan mengikuti langkah-langkah sebagai berikut: 
-1. Login ke P-Office
+1. Login ke E-Corr
 2. Kemudian pilih Menu Inbox > Direct, lalu pilih SP3S yang akan di-disable. 
 
 ![gambar](FAQ/01DS0.png)

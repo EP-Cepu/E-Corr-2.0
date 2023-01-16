@@ -7,7 +7,7 @@
 
 *User* dapat melihat dokumen memorandum pada menu Archive. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat dokumen memorandum via Web adalah sebagai berikut
 
@@ -17,7 +17,7 @@ Langkah - langkah untuk melihat dokumen memorandum via Web adalah sebagai beriku
 
 2. Sistem menampilkan dokumen memorandum yang tersimpan di menu Archive
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat daftar dokumem memorandum via Teams adalah sebagai berikut :
 
@@ -27,7 +27,7 @@ Langkah - langkah untuk melihat daftar dokumem memorandum via Teams adalah sebag
 
  2. Sistem menampilkan dokumen memorandum yang tersimpan di menu _Archive_
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk melihat daftar dokumem Memorandum via Android dan iOS adalah sebagai berikut :
 

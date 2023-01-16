@@ -5,7 +5,7 @@
 
 *User* dapat melakukan *recall* / tarik disposisi memorandum yang sudah dikirim kepada pejabat penerima disposisi. Memorandum yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu **"Sent Item Disposisi"**. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan recall disposisi memorandum via Web adalah sebagai berikut
 
@@ -17,7 +17,7 @@ Langkah - langkah untuk melakukan recall disposisi memorandum via Web adalah seb
 
 ![gambar](Memorandum/MM_Web/02MM-79.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk recall Memorandum via Teams adalah sebagai berikut :
 
@@ -29,7 +29,7 @@ Langkah-langkah untuk recall Memorandum via Teams adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Teams/MM81.png)
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Langkah-langkah untuk Recall Memorandum via Android adalah sebagai berikut :
 

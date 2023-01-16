@@ -7,7 +7,7 @@
 
 *User* dapat melihat daftar fax masuk pada pada menu **Inbox atau Disposisi** pada masing - masing akun. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar disposisi fax masuk via Web adalah sebagai berikut :
 
@@ -15,7 +15,7 @@ Langkah - langkah untuk melihat daftar disposisi fax masuk via Web adalah sebaga
 
 ![gambar](FaxMasuk/FM_WEB/02DaftarDisposisi01.png) 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat daftar disposisi fax masuk via Teams adalah sebagai berikut:
 
@@ -24,7 +24,7 @@ Langkah - langkah untuk melihat daftar disposisi fax masuk via Teams adalah seba
 ![gambar](FaxMasuk/FM_Teams/FM23.png)
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk melihat daftar disposisi fax masuk via Android dan iOS adalah sebagai berikut :
 

@@ -7,7 +7,7 @@
 
 *User* dapat melihat daftar surat keluar pada pada menu **Inbox, Draft atau Sent Item** pada masing - masing akun. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar surat keluar via Web adalah sebagai berikut :
 
@@ -15,7 +15,7 @@ Langkah - langkah untuk melihat daftar surat keluar via Web adalah sebagai berik
 
 ![gambar](SuratKeluar/SK_Web/02SK01.png)
 
-### **P-Office Versi Teams**
+### **E-Corr Versi Teams**
 
 Langkah - langkah untuk daftar surat keluar via Teams adalah sebagai berikut :
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk daftar surat keluar via Teams adalah sebagai berikut :
 
  ![gambar](SuratKeluar/SK_Teams/SK01.png)
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat daftar surat keluar via Mobile(Android & iOS) adalah sebagai berikut :
 

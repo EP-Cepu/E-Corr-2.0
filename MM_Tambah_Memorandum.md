@@ -2,9 +2,9 @@
 
 - *Member User* (Pekerja)
 
-Konseptor dapat menambah memorandum pada aplikasi P-Office. 
+Konseptor dapat menambah memorandum pada aplikasi E-Corr. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 langkah untuk menambah memorandum via Web adalah sebagai berikut
 
@@ -61,7 +61,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 1. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Sent Item - Direct"**
 
 
-## **P-Office Versi Android**
+## **E-Corr Versi Android**
 
 Langkah-langkah untuk menambah Memorandum adalah sebagai berikut :
 

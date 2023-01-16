@@ -7,7 +7,7 @@
 
 *User* dapat melihat daftar fax masuk yang ditujukan pada sekretaris tersebut. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar fax masuk via Web adalah sebagai berikut :
 
@@ -15,7 +15,7 @@ Langkah - langkah untuk melihat daftar fax masuk via Web adalah sebagai berikut 
 
 ![gambar](FaxMasuk/FM_WEB/02DaftarFM01.png) 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat daftar fax masuk via Teams adalah sebagai berikut:
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk melihat daftar fax masuk via Teams adalah sebagai beriku
 
 ![gambar](FaxMasuk/FM_Teams/FM01.png)
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk melihat daftar fax masuk via Android dan iOS adalah sebagai berikut :
 

@@ -4,7 +4,7 @@
 
 Sekretaris dapat melihat daftar surat yang masih berada di draft pejabat atasan dan belum ditindak lanjuti
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melihat daftar dokumen draft via Web adalah sebagai berikut:
 
@@ -15,7 +15,7 @@ Langkah-langkah untuk melihat daftar dokumen draft via Web adalah sebagai beriku
 2. Sistem menampilkan dokumen draft yang meliputi number, Agenda, from, about, type, last Modified dan secretary note.
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk melihat daftar dokumen draft via Teams adalah sebagai berikut:
 

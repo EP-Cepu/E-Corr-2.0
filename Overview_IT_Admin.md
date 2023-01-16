@@ -1,9 +1,9 @@
 ### **Data Master** 
 
-Pada modul ini mendukung pengelolaan data master yang dilakukan oleh seorang Admin P-Office meliputi data master menu akses, grup akses, kode simpan, klasifikasi surat, prioritas surat, kategori surat, _task list_ SP3S, tempat, mengelola secretary mapping, mengelola justifikasi
+Pada modul ini mendukung pengelolaan data master yang dilakukan oleh seorang Admin E-Corr meliputi data master menu akses, grup akses, kode simpan, klasifikasi surat, prioritas surat, kategori surat, _task list_ SP3S, tempat, mengelola secretary mapping, mengelola justifikasi
 dan mendukung custom template surat. 
 
-Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master antara lain: 
+Hal-hal yang dapat dilakukan oleh Admin E-Corr dalam mengelola data master antara lain: 
 
 - [Mengelola Akses Menu](https://docs.poffice.pertamina.com/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/it-admins#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master-it/4e8c2fadcd744c219a29ef6f094775a8)
 - [Mengelola Grup Akses](https://docs.poffice.pertamina.com/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/it-admins#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master-it/6fc823a1f9124724a2bb1c917193e039)
@@ -20,7 +20,7 @@ Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master ant
 
 ### **Konfigurasi**
 
-Pada modul ini mendukung pengelolaan konfigurasi aplikasi P-Office yang dilakukan oleh seorang IT Admin meliputi informasi aplikasi, menampilkan informasi user, unit organisasi dan jabatan, pengelolaan pindah/*move* dokumen serta dapat melakukan konfigurasi notifikasi aplikasi P-Office
+Pada modul ini mendukung pengelolaan konfigurasi aplikasi E-Corr yang dilakukan oleh seorang IT Admin meliputi informasi aplikasi, menampilkan informasi user, unit organisasi dan jabatan, pengelolaan pindah/*move* dokumen serta dapat melakukan konfigurasi notifikasi aplikasi E-Corr
 
 Hal-hal yang dapat dilakukan oleh IT Admin dalam mengelola konfigurasi antara lain: 
 

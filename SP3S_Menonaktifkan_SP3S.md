@@ -5,7 +5,7 @@
 
 SP3S yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa jabatan pejabat yang sedang di PJS-kan.  Namun, apabila pejabat definitif kembali bekerja sebelum masa PJS nya habis, maka pejabat tersebut harus menon-aktifkan SP3S yang berlaku dengan cara sebagai berikut:
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menonaktifkan SP3S via Web adalah sebagai berikut :
 
@@ -19,7 +19,7 @@ Langkah - langkah untuk menonaktifkan SP3S via Web adalah sebagai berikut :
 
 3. SP3S yang sudah tidak aktif akan tersimpan di menu **"Sent Item - Direct - SP3S"** approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - Direct - SP3S"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk menonaktifkan SP3S via Teams adalah sebagai berikut :
 
@@ -33,7 +33,7 @@ Langkah - langkah untuk menonaktifkan SP3S via Teams adalah sebagai berikut :
 
 3. SP3S yang sudah tidak aktif akan tersimpan di menu “**Sent Item – SP3S**” approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SP3S”**
 
-## **P-Office Versi Android**
+## **E-Corr Versi Android**
 
 Langkah - langkah untuk menonaktifkan SP3S via Android adalah sebagai berikut : 
 

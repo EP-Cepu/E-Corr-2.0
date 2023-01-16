@@ -2,9 +2,9 @@
 
 - *Member User* (Pekerja)
 
-Konseptor dapat menambah surat keluar pada aplikasi P-Office.
+Konseptor dapat menambah surat keluar pada aplikasi E-Corr.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk menambah surat keluar via Web adalah sebagai berikut:
 
@@ -74,7 +74,7 @@ Langkah - langkah untuk mengirim surat keluar adalah sebagai berikut
 
 2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **"Sent Item - Surat Keluar"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 
 Langkah - langkah untuk tambah surat keluar via Teams adalah sebagai berikut :
@@ -154,7 +154,7 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut :
 
 2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk menambah surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 

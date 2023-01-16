@@ -2,9 +2,9 @@
 
 - Sekretaris
 
-Sekretaris dapat menambah surat masuk pada aplikasi P-Office.
+Sekretaris dapat menambah surat masuk pada aplikasi E-Corr.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk menambah surat masuk via Web adalah sebagai berikut.
 
@@ -22,7 +22,7 @@ Langkah-langkah untuk menambah surat masuk via Web adalah sebagai berikut.
 
 4.  Sistem berhasil menyimpan perubahan
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tambah surat masuk via Teams adalah sebagai berikut :
 
@@ -42,7 +42,7 @@ Langkah - langkah untuk tambah surat masuk via Teams adalah sebagai berikut :
 
 4.  Sistem berhasil menyimpan perubahan
 
-## **P-Office Versi Mobile (Android & iOS**
+## **E-Corr Versi Mobile (Android & iOS**
 
 Langkah-langkah untuk tambah surat masuk adalah sebagai berikut.
 

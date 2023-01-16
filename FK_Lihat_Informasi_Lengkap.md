@@ -34,7 +34,7 @@ Pada tab **History**, ditampilkan riwayat fax keluar yang terdapat informasi jab
 
 ![gambar](FaxKeluar/FK_Web/02FK32.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat informasi via Teams adalah sebagai berikut:
 
@@ -69,7 +69,7 @@ Pada tab **History**, ditampilkan riwayat fax keluar yang terdapat informasi jab
 ![gambar](FaxKeluar/FK_Teams/FK35.png)
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk melihat informasi via Android dan iOS adalah sebagai berikut:
 

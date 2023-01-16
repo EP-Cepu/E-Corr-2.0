@@ -1,15 +1,15 @@
 **Role yang sesuai**
 
-- Admin P-Office
+- Admin E-Corr
 
-Admin P-Office dapat mengelola akses menu yang digunakan dalam dalam pemberian hak akses pada setiap role-nya. Pengelolaan akses menu yang dilakukan admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola akses menu yang digunakan dalam dalam pemberian hak akses pada setiap role-nya. Pengelolaan akses menu yang dilakukan admin E-Corr antara lain yaitu
 
 - Mencari akses menu
 - Menambah akses menu
 - Mengubah akses menu
 - Menghapus akses menu
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan pengelolaan akses menu via Web adalah sebagai berikut :
 

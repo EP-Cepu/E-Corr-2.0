@@ -4,7 +4,7 @@
 
 *User* dapat menyimpan surat sebagai *template*. *Template* ini digunakan jika sewaktu - waktu *user* akan melanjutkan surat keluar yang sudah dibuat dan diubah kembali kemudian dikirimkan ke pejabat tujuan tanpa harus mengisi *form* surat keluar. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk Save as template via Web adalah sebagai berikut :
 
@@ -26,7 +26,7 @@ Langkah - langkah untuk Save as template via Web adalah sebagai berikut :
 
 5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **"Draft - Surat Keluar"** sebagai draft atau klik **Send document** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Surat Keluar"**.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk save as template via Teams adalah sebagai berikut :
 
@@ -48,7 +48,7 @@ Langkah - langkah untuk save as template via Teams adalah sebagai berikut :
 
 5.	Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Surat Keluar”**.
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah – langkah untuk save as template via Mobile (Android & iOS) adalah sebagai berikut : 
 

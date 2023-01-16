@@ -5,7 +5,7 @@
 
 *User* dapat menyetujui surat keluar yang sudah dilakukan review dan surat keluar akan dikirimkan ke *reviewer* selanjutnya atau *approver*. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menyetujui surat keluar via Web adalah sebagai berikut
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk menyetujui surat keluar via Web adalah sebagai berikut
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah dikirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk setujui surat keluar via Teams adalah sebagai berikut :
 
@@ -41,7 +41,7 @@ Langkah - langkah untuk setujui surat keluar via Teams adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk melihat informasi surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 

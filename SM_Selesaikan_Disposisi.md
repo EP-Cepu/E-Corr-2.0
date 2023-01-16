@@ -9,7 +9,7 @@
 
 _User_ dapat menyelesaikan disposisi surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menyelesaikan disposisi via Web adalah sebagai berikut :
 
@@ -33,7 +33,7 @@ Langkah - langkah untuk menyelesaikan disposisi via Web adalah sebagai berikut :
 
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk selesaikan disposisi via Teams adalah sebagai berikut :
 
@@ -56,7 +56,7 @@ Langkah - langkah untuk selesaikan disposisi via Teams adalah sebagai berikut :
  5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi
 
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah sebagai berikut:
 

@@ -4,7 +4,7 @@
 
 *User* dapat menyetujui SPPTH yang sudah dikirimkan oleh konseptor sehingga nomor SPPTH akan ter-*generate* secara otomatis. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menyetujui SPPTH via Web adalah sebagai berikut
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk menyetujui SPPTH via Web adalah sebagai berikut
 
 4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk setujui SPPTH via Teams adalah sebagai berikut :
 
@@ -40,7 +40,7 @@ Langkah - langkah untuk setujui SPPTH via Teams adalah sebagai berikut :
 
 4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu Sent Item – SPPTH
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk setujui SPPTH via Android dan iOS adalah sebagai berikut :
 

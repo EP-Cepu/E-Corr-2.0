@@ -4,7 +4,7 @@
 
 Admin Approver Offline Number dapat melakukan tindak lanjut terhadap pengajuan nomor offline dengan menyetujui pengajuan yang diajukan oleh sekretaris. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menyetujui pengajuan nomor via Web adalah sebagai berikut
 
@@ -22,10 +22,10 @@ Langkah - langkah untuk menyetujui pengajuan nomor via Web adalah sebagai beriku
 
 ![gambar](DocumentControl/DC_Web/02MM253.png)
 
-4. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu "**Document - Control**" dengan status **Close** dan  pada role admin P-Office. Sedangkan untuk role sekretaris tersimpan di menu "**Document - Control**"  dengan status **Close**
+4. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu "**Document - Control**" dengan status **Close** dan  pada role admin E-Corr. Sedangkan untuk role sekretaris tersimpan di menu "**Document - Control**"  dengan status **Close**
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk setujui nomor offline via Teams adalah sebagai berikut:
 
@@ -37,4 +37,4 @@ Langkah - langkah untuk setujui nomor offline via Teams adalah sebagai berikut:
 
 ![gambar](DocumentControl/DC_Teams/DC26.png)
 
-3. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu "**Document Control - List Approval Request**" dengan status **Approved** pada role admin P-Office. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**"  dengan status **Approved**
+3. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu "**Document Control - List Approval Request**" dengan status **Approved** pada role admin E-Corr. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**"  dengan status **Approved**

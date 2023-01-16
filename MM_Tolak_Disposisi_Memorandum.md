@@ -25,7 +25,7 @@ Langkah - langkah untuk menolak memorandum adalah sebagai berikut
 
 5.	Sistem menyimpan perubahan dan disposisi memorandum yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk menolak disposisi Memorandum via Teams adalah sebagai berikut :
 
@@ -47,7 +47,7 @@ Langkah-langkah untuk menolak disposisi Memorandum via Teams adalah sebagai beri
 
 5.	Sistem menyimpan perubahan dan disposisi memorandum yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
-## **P-Office Versi Android**
+## **E-Corr Versi Android**
 
 Langkah-langkah untuk menolak disposisi Memorandum adalah sebagai berikut :
 
@@ -68,7 +68,7 @@ Sistem Memorandum yang sudah di tolak akan tersimpan dimenu “**Rejected- Memor
 
 
 
-## **P-Office Versi IOS**
+## **E-Corr Versi IOS**
 
 **Menolak Memorandum**
 

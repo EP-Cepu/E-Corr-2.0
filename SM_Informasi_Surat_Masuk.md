@@ -7,7 +7,7 @@
 
 _User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masuk, detail surat masuk, _tracking_ surat masuk dan _history_ surat masuk. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melihat informasi surat masuk via Web adalah sebagai berikut.
 
@@ -42,7 +42,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk Informasi surat masuk via Teams adalah sebagai berikut:
 
@@ -77,7 +77,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 ![gambar](SuratMasuk/SM_Teams/SM15.png)
 
 
-# **P-Office Versi Mobile (Android & iOS)**
+# **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat informasi surat masuk via Mobile (Android & iOS) adalah sebagai berikut:
 

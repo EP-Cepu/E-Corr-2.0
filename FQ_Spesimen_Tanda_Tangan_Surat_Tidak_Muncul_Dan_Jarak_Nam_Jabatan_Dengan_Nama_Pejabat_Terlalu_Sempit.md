@@ -8,7 +8,7 @@ Permasalahan tersebut terjadi karena user konseptor atau reviewer melakukan edit
 **PERBAIKAN MASALAH**
 - Untuk mengatasi masalah tersebut, admin bisa mengunduh dokumen tersebut dengan format .docx dan memperbaiki jarak spesimen tersebut. Berikut ini Langkah-langkah untuk memperbaiki jarak spesimen tanda tangan antara nama jabatan dan nama pejabat:
 
-1. Buka aplikasi P-Office lalu klik menu **Support – Track documents**.
+1. Buka aplikasi E-Corr lalu klik menu **Support – Track documents**.
 
 ![gambar](FAQ/E12.jpg)
 

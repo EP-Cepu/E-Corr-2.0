@@ -7,7 +7,7 @@ Permasalahan ini terjadi ketika user akan mengunduh surat yang masih belum diset
 
 - Untuk mengatasi permasalahan tersebut, silakan user secara mandiri mengunduh draft surat tersebut dengan langkah-langkah sebagai berikut:
 
-1.	Buka aplikasi **P-Office**, klik menu **Draft/Sent item – Direct**.
+1.	Buka aplikasi **E-Corr**, klik menu **Draft/Sent item – Direct**.
 
 ![gambar](FAQ/E36.jpg)
 

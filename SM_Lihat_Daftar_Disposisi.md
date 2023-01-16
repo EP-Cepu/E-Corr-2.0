@@ -7,7 +7,7 @@
 
 User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar disposisi surat masuk via Web adalah sebagai berikut
 
@@ -16,7 +16,7 @@ Langkah - langkah untuk melihat daftar disposisi surat masuk via Web adalah seba
 ![gambar](SuratMasuk/SM_Web/02SM21.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat daftar disposisi via Teams adalah sebagai berikut :
 
@@ -25,7 +25,7 @@ Langkah - langkah untuk melihat daftar disposisi via Teams adalah sebagai beriku
 ![gambar](SuratMasuk/SM_Teams/SM24.png)
 
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat daftar disposisi via Android adalah sebagai berikut :
  

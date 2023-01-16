@@ -4,7 +4,7 @@
 
 Sekretaris dapat melihat daftar dokumen yang diarsipkan milik atasan pejabat sekretaris. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melihat daftar dokumen Archive via Web adalah sebagai berikut:
 

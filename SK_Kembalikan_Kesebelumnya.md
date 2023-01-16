@@ -5,7 +5,7 @@
 
 *User* dapat mengembalikan surat keluar ke sebelumnya jika hasil review belum / tidak sesuai. Surat akan dikembalikan ke satu level *reviewer* sebelumnya atau ke konseptor (apabila hanya ada satu *reviewer*).
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk mengembalikan surat keluar ke sebelumnya via Web adalah sebagai berikut
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk mengembalikan surat keluar ke sebelumnya via Web adalah 
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk Kembalikan kesebelumnya via Teams adalah sebagai berikut :
 
@@ -41,7 +41,7 @@ Langkah - langkah untuk Kembalikan kesebelumnya via Teams adalah sebagai berikut
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk mengembalikan surat keluar ke sebelumnya via Mobile (Android & iOS) adalah sebagai berikut :
 

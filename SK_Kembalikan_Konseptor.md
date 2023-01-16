@@ -5,7 +5,7 @@ Role yang sesuai
 
 *User* dapat mengembalikan surat keluar ke konseptor jika hasil review belum / tidak sesuai. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk mengembalikan surat keluar ke konseptor via Web adalah sebagai berikut
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk mengembalikan surat keluar ke konseptor via Web adalah s
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar** dan konseptor akan menerima surat keluar di menu **Draft - Surat Keluar**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk kembalikan konseptor via Teams adalah sebagai berikut :
 
@@ -41,7 +41,7 @@ Langkah - langkah untuk kembalikan konseptor via Teams adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk melihat informasi surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 

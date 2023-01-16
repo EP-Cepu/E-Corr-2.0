@@ -4,7 +4,7 @@
 
 *User* dapat merevisi SPPTH yang sudah dikirimkan oleh konseptor. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan revisi SPPTH via Web adalah sebagai berikut :
 
@@ -56,7 +56,7 @@ Langkah - langkah untuk mengubah isi SPPTH secara *online* adalah sebagai beriku
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft"**.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk revisi SPPTH via Teams adalah sebagai berikut :
 
@@ -118,7 +118,7 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 4.    Surat yang sudah selesai diubah maka akan tersimpan di menu **“Inbox – SPPTH”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk revisi SPPTH via Android dan iOS adalah sebagai berikut :
 
@@ -152,7 +152,7 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/02U01.jpg) 
 
-2. Lakukan perubahan pada isi surat. lalu sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
+2. Lakukan perubahan pada isi surat. lalu sistem akan menampilkan pop up E-Corr Editing Document pilih **Yes**
 
 ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/02U02.jpg)
 

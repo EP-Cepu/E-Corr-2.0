@@ -4,7 +4,7 @@
 
 *Approver User* dapat mengesahkan memorandum yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor memorandum kemudian memorandum dapat dikirimkan ke pejabat tujuan. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Berikut langkah - langkah approver untuk mengesahkan memorandum **via Web**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 
@@ -25,7 +25,7 @@ Berikut langkah - langkah approver untuk mengesahkan memorandum **via Web**. Set
 4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Direct"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Direct - pilih yang berlabel Memorandum"** penerima
    
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai berikut :
 
@@ -43,7 +43,7 @@ Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai beri
 
 1. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Berikut ini langkah - langkah approver untuk mengesahkan memorandum **via Mobile**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 

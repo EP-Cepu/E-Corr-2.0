@@ -5,7 +5,7 @@ Role yang sesuai
 
 _User_ dapat mengembalikan memorandum ke sebelumnya jika hasil review belum / tidak sesuai. Surat akan dikembalikan ke satu level _reviewer_ sebelumnya atau ke konseptor (apabila hanya ada satu _reviewer_).
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah sebagai berikut :
 
@@ -25,7 +25,7 @@ Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah seba
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk mengembalikan Memorandum kesebelumnya via Teams adalah sebagai berikut :
 
@@ -43,7 +43,7 @@ Langkah-langkah untuk mengembalikan Memorandum kesebelumnya via Teams adalah seb
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Android adalah sebagai berikut :
 

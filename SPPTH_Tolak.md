@@ -4,7 +4,7 @@
 
 *User* dapat menolak SPPTH yang sudah dikirimkan oleh konseptor. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk menolak SPPTH via web adalah sebagai berikut :
 
@@ -23,7 +23,7 @@ Langkah-langkah untuk menolak SPPTH via web adalah sebagai berikut :
 4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – SPPTH”** user penolak dengan label **Rejected**.
 
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk menolak SPPTH via Android dan iOS adalah sebagai berikut :
 

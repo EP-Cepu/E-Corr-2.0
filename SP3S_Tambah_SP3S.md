@@ -7,7 +7,7 @@
 
 Konseptor penambahan SP3S adalah sekretaris atau pekerja lain yang diperintahkan untuk membuat SP3S atau pejabat yang akan meninggalkan tempat (melimpahkan wewenang/tugas) tersebut. Konseptor mengirimkan SP3S kepada approver / atasan pejabat yang akan meninggalkan tempat, sehingga draft SP3S akan langsung dikirim kepada atasan pejabat yang akan meninggalkan tempat tanpa melalui *reviewer*. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambah SP3S via Web adalah sebagai berikut :
 
@@ -76,7 +76,7 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - Direct - SP3S"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tambah SP3S via Teams adalah sebagai berikut :
 
@@ -146,11 +146,11 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut :
 
 2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk tambah SP3S via Android adalah sebagai berikut : 
 
-1. Klik ikon **(+)** pada P-Office
+1. Klik ikon **(+)** pada E-Corr
 
 ![gambar](SP3S/SP3S_Android/TambahSP3S/02A01.jpg) 
 

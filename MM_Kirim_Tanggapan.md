@@ -6,7 +6,7 @@
 
 *User* dapat mengirim tanggapan disposisi memorandum yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi memorandum adalah sebagai berikut
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Web adalah sebagai berikut :
 
@@ -28,7 +28,7 @@ Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Web adalah s
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Teams adalah sebagai berikut :
 
@@ -53,7 +53,7 @@ Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Teams adalah
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Langkah-langkah untuk Mengirim tanggapan disposisi memorandum via Teams adalah sebagai berikut :
 

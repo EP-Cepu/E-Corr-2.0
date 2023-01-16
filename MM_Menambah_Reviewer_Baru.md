@@ -4,7 +4,7 @@
 
 *Approver User* dapat menambahkan reviewer kemudian memorandum akan diteruskan ke reviewer baru.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambah reviewer memorandum vvia Web adalah sebagai berikut :
 
@@ -28,7 +28,7 @@ Langkah - langkah untuk menambah reviewer memorandum vvia Web adalah sebagai ber
 
 ![gambar](Memorandum/MM_Web/02MM-53.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk menambah reviewer Memorandum via Teams adalah sebagai berikut :
 
@@ -52,7 +52,7 @@ Langkah-langkah untuk menambah reviewer Memorandum via Teams adalah sebagai beri
 
 ![gambar](Memorandum/MM_Teams/MM52.png)
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Berikut ini video yang menjelaskan langkah - langkah untuk Menambahkan Reviewer baru **via Mobile**
 

@@ -7,7 +7,7 @@
 
 *User* dapat menolak memorandum yang akan dikembalikan ke konseptor jika hasil review memorandum belum / tidak sesuai.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menolak memorandum via Web adalah sebagai berikut
 
@@ -27,7 +27,7 @@ Langkah - langkah untuk menolak memorandum via Web adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Web/02MM-83.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk melihat menolak Memorandum via Teams adalah sebagai berikut :
 
@@ -45,7 +45,7 @@ Langkah-langkah untuk melihat menolak Memorandum via Teams adalah sebagai beriku
 
 4.	Sistem berhasil menyimpan perubahan. Memorandum yang sudah di tolak akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Langkah-langkah untuk menolak Memorandum via Android dalah sebagaia berikut :
 

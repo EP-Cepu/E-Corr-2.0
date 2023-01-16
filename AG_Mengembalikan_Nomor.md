@@ -8,7 +8,7 @@
 
 Sekretaris dapat mengembalikan nomor offline yang sudah di-*request*.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk mengembalikan nomor offline via Web adalah sebagai berikut
 
@@ -28,12 +28,12 @@ Langkah - langkah untuk mengembalikan nomor offline via Web adalah sebagai berik
 
 ![gambar](DocumentControl/DC_Web/MM36.png)
 
-5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu "**Document Control - List Returned Request**" pada role admin P-Office.
+5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu "**Document Control - List Returned Request**" pada role admin E-Corr.
 
 ![gambar](DocumentControl/DC_Web/MM37.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk mengembalikan nomor via Teams adalah sebagai berikut:
 
@@ -53,6 +53,6 @@ Langkah - langkah untuk mengembalikan nomor via Teams adalah sebagai berikut:
 
 ![gambar](DocumentControl/DC_Teams/DC38.png)
 
-5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu "**Document Control - List Returned Request**" pada role admin P-Office.
+5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu "**Document Control - List Returned Request**" pada role admin E-Corr.
 
 ![gambar](DocumentControl/DC_Teams/DC39.png)

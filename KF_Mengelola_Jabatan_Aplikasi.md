@@ -2,14 +2,14 @@
 
 - IT Admin
 
-IT Admin dapat mengelola jabatan pada aplikasi P-Office yang sudah didaftarkan pada manajemen user. Informasi yang ditampilkan yaitu nama jabatan dan unit organisasi. Pengelolaan jabatan yang dilakukan oleh admin P-Office antara lain adalah sebagai berikut :
+IT Admin dapat mengelola jabatan pada aplikasi E-Corr yang sudah didaftarkan pada manajemen user. Informasi yang ditampilkan yaitu nama jabatan dan unit organisasi. Pengelolaan jabatan yang dilakukan oleh admin E-Corr antara lain adalah sebagai berikut :
 
 - Melihat daftar jabatan pada aplikasi
 - Mencari daftar jabatan pada aplikasi
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
-Langkah - langkah untuk melihat daftar jabatan pada aplikasi P-Office via Web adalah sebagai berikut:
+Langkah - langkah untuk melihat daftar jabatan pada aplikasi E-Corr via Web adalah sebagai berikut:
 
 #### **Melihat Daftar Jabatan pada Aplikasi**
 
@@ -17,7 +17,7 @@ Langkah - langkah untuk melihat daftar jabatan pada aplikasi P-Office via Web ad
 
 ![gambar](SC_Konfigurasi/02KF09.png)
 
-2.  Sistem menampilkan daftar user pada aplikasi P-Office
+2.  Sistem menampilkan daftar user pada aplikasi E-Corr
 
 #### **Mencari Jabatan pada Aplikasi**
 

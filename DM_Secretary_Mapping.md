@@ -1,15 +1,15 @@
 **Role yang sesuai**
 
-- Admin P-Office
+- Admin E-Corr
 
-Admin P-Office dapat mengelola pemetaan sekretaris kepada pejabat pemilik KBO berdasarkan tanggal mulai dan tanggal selesai. Sekretaris dapat ditugaskan / di _assign_ oleh lebih dari satu pemilik. Pengelolaan _secretary mapping_ yang dilakukan admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola pemetaan sekretaris kepada pejabat pemilik KBO berdasarkan tanggal mulai dan tanggal selesai. Sekretaris dapat ditugaskan / di _assign_ oleh lebih dari satu pemilik. Pengelolaan _secretary mapping_ yang dilakukan admin E-Corr antara lain yaitu
 
 - Mencari daftar sekretaris
 - Menambah _mapping_ sekretaris
 - Mengubah _mapping_ sekretaris
 - Menghapus _mapping_ sekretaris
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk pengelolaan _mapping_ sekretaris via Web adalah sebagai berikut:
 

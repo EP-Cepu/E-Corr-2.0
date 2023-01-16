@@ -6,7 +6,7 @@
 
 _User_ dapat melihat informasi lengkap memorandum termasuk *preview* memorandum, detail memorandum, *tracking* memorandum dan *history* memorandum. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat informasi memorandum via Web adalah sebagai berikut
 
@@ -38,7 +38,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 ![gambar](Memorandum/MM_Web/02MM-34.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk melihat informasi memorandum via Teams adalah sebagai berikut :
 
@@ -72,7 +72,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 ![gambar](Memorandum/MM_Teams/MM35.png)
 
-## **P-Office Versi Android IOS**
+## **E-Corr Versi Android IOS**
 
 Langkah-langkah untuk melihat informasi memorandum via Android adalah sebagai berikut :
 

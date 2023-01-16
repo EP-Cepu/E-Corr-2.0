@@ -5,7 +5,7 @@
 
 User dapat mengembalikan memorandum ke konseptor jika hasil review belum/tidak sesuai.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk mengembalikan memorandum ke konseptor via Web adalah sebagai berikut :
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk mengembalikan memorandum ke konseptor via Web adalah seb
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected - Memorandum**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Teams adalah sebagai berikut :
 
@@ -41,7 +41,7 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Teams adalah seb
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android dan iOS adalah sebagai berikut :
 

@@ -1,15 +1,15 @@
 **Role yang sesuai**
 
-- Admin P-Office
+- Admin E-Corr
 
- Admin P-Office dapat mengelola _task list_ yang digunakan dalam penginputan form pengajuan SP3S. Pengelolaan _task list_ SP3S yang dilakukan admin P-Office antara lain yaitu
+ Admin E-Corr dapat mengelola _task list_ yang digunakan dalam penginputan form pengajuan SP3S. Pengelolaan _task list_ SP3S yang dilakukan admin E-Corr antara lain yaitu
 
 - Mencari _task list_ SP3S
 - Menambah _task list_ SP3S
 - Mengubah _task list_ SP3S
 - Menghapus _task list_ SP3S
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai berikut:
 
@@ -78,7 +78,7 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai beri
 
 ![gambar](DataMaster/SC_DataMaster/02DM82.png)
 
-## **P-Office Versi Mobile Android**
+## **E-Corr Versi Mobile Android**
 
 Langkah - langkah untuk pengelolaan _task list_ SP3S via Android adalah sebagai berikut:
 

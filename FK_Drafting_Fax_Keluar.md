@@ -2,7 +2,7 @@
 
 - *Member User* (Pekerja)
 
-*User* dapat melakukan *drafting* fax keluar pada aplikasi P-Office. *Drafting* fax keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada fax keluar yang sudah disimpan pada menu **Draft**. Langkah-langkah untuk melakukan *drafting* fax keluar adalah sebagai berikut
+*User* dapat melakukan *drafting* fax keluar pada aplikasi E-Corr. *Drafting* fax keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada fax keluar yang sudah disimpan pada menu **Draft**. Langkah-langkah untuk melakukan *drafting* fax keluar adalah sebagai berikut
 
 1. Klik menu **Draft** dan pilih berlabel **Fax Keluar**
 
@@ -72,7 +72,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk drafting fax keluar via Android dan iOS adalah sebagai berikut:
 
@@ -106,7 +106,7 @@ Langkah – langkah untuk mengubah isi fax keluar secara _online_ adalah sebagai
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/02U01.png)
 
-2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
+2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up E-Corr Editing Document pilih **Yes**
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/02U02.png) ![gambar](FaxKeluar/FK_Android/DraftFK/02U04.png) 
 

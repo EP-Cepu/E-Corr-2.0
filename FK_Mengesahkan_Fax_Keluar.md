@@ -20,13 +20,13 @@
 
 ![gambar](FaxKeluar/FK_Web/02FK-CR02.png)
 
-5. Pada *pop up* Sign Document akan terdapat pilih Sign, pilih salah satu Sign yang ingin digunakan, lalu Buka email dan salin kode OTP pada form P-Office kemudian klik **Sign**
+5. Pada *pop up* Sign Document akan terdapat pilih Sign, pilih salah satu Sign yang ingin digunakan, lalu Buka email dan salin kode OTP pada form E-Corr kemudian klik **Sign**
 
 ![gambar](FaxKeluar/FK_Web/02FK-CR03.png)
 
 6. Surat keluar yang sudah disetujui akan tersimpan di menu **"Sent Item - Direct"** dan pilih label Fax Keluar pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Direct"** berlabel Fax Keluar penerima.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
 
@@ -46,14 +46,14 @@ Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_Teams/FKN1.png)
  
-5.	Kemudian isikan NIK dan PassPhrase pada form P-Office kemudian klik **Sign**
+5.	Kemudian isikan NIK dan PassPhrase pada form E-Corr kemudian klik **Sign**
 
 ![gambar](FaxKeluar/FK_Teams/FKN2.png)
 
 6.	Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Fax keluar”** pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk mengesahkan fax keluar via Android dan iOS adalah sebagai berikut:
 
@@ -73,7 +73,7 @@ Langkah - langkah untuk mengesahkan fax keluar via Android dan iOS adalah sebaga
    
 ![gambar](FaxKeluar/FK_Android/NomorFK/02A08.png)
 
-5. Kemudian isikan NIK dan PassPhrase pada form P-Office kemudian klik **Send**
+5. Kemudian isikan NIK dan PassPhrase pada form E-Corr kemudian klik **Send**
    
 ![gambar](FaxKeluar/FK_Android/NomorFK/02A09.png)
 

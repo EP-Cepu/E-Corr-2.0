@@ -4,7 +4,7 @@ Permasalahan ini terjadi ketika user telah melakukan Request Offline Number namu
 
 Setelah mengetahui email user yang request, berikut langkah-langkah untuk melakukan approve Request number Offline:
 
-1. Buka Aplikasi P-Office, lalu klik Menu **Document > Offline Numbers**. Maka akan tampil list Request Offline Number dengan status **Open**.
+1. Buka Aplikasi E-Corr, lalu klik Menu **Document > Offline Numbers**. Maka akan tampil list Request Offline Number dengan status **Open**.
 
 ![gambar](FAQ/01ARON.png)
 

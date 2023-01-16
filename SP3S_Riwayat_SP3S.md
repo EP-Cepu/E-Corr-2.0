@@ -7,7 +7,7 @@
 
 *User* dapat melihat informasi pejabat yang sedang menjabat sebagai Pjs baik dalam status aktif maupun non-aktif. Informasi yang ditampilkan meliputi nomor SP3S, Nama pejabat, jabatan dan status. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melihat informasi Riwayat SP3S via Web adalah sebagai berikut:
 
@@ -19,7 +19,7 @@ Langkah-langkah untuk melihat informasi Riwayat SP3S via Web adalah sebagai beri
 
 2. Sistem menampilkan riwayat SP3S
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk Riwayat SP3S via Teams adalah sebagai berikut :
 

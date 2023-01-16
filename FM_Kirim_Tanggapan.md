@@ -7,7 +7,7 @@
 
 *User* dapat mengirim tanggapan disposisi fax masuk yang ditujukan untuk pejabat pengirim disposisi.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk kirim tanggapan disposisi fax masuk via Web adalah sebagai berikut :
 
@@ -29,7 +29,7 @@ Langkah - langkah untuk kirim tanggapan disposisi fax masuk via Web adalah sebag
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di **History** disposisi.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk kirim tanggapan fax masuk via Teams adalah sebagai berikut:
 
@@ -53,7 +53,7 @@ Langkah - langkah untuk kirim tanggapan fax masuk via Teams adalah sebagai berik
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk kirim tanggapan fax masuk via Android dan iOS adalah sebagai berikut :
 

@@ -2,7 +2,7 @@
 
 - *Approver User* (Pemilik KBO)
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menolak fax masuk via Web adalah sebagai berikut :
 
@@ -25,7 +25,7 @@ Langkah - langkah untuk menolak fax masuk via Web adalah sebagai berikut :
 
 5. Sistem menyimpan perubahan dan informasi tolak fax masuk. Fax masuk yang sudah ditolak akan tersimpan di menu **Rejected - Fax Masuk** user penolak dengan label **Rejected**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tolak fax masuk via Teams adalah sebagai berikut:
 
@@ -47,7 +47,7 @@ Langkah - langkah untuk tolak fax masuk via Teams adalah sebagai berikut:
 
 5.	Sistem menyimpan perubahan dan informasi tolak fax masuk. Fax masuk yang sudah ditolak akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Fax Masuk”** user penolak dengan label **Rejected**
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk menolak fax masuk via Android dan iOS adalah sebagai berikut :
 

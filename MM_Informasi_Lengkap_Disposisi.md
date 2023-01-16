@@ -7,7 +7,7 @@
 
 _User_ dapat melihat informasi lengkap disposisi memorandum pada detail disposisi
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 langkah untuk melihat informasi disposisi memorandum via Web adalah sebagai berikut
 
@@ -47,7 +47,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 ![gambar](Memorandum/MM_Web/02MM-77.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk melihat informasi disposisi memorandum via Teams adalah sebagai berikut :
 
@@ -85,7 +85,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 ![gambar](Memorandum/MM_Teams/MM75.png)
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk melihat informasi disposisi memorandum via Android dan iOS adalah sebagai berikut :
 

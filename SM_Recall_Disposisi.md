@@ -5,7 +5,7 @@
 
 _User_ dapat melakukan _recall_ / tarik disposisi surat masuk yang sudah dikirim kepada pejabat penerima disposisi. Surat masuk yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu "**Sent Item - Disposisi**"
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk recall disposisi surat masuk via Web adalah sebagai berikut :
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk recall disposisi surat masuk via Web adalah sebagai beri
 3.    Surat masuk yang sudah di-_recall_ akan tersimpan di menu "**Draft - Disposisi**" pendisposisi jika memilih Save As Draft
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk recall disposisi via Teams adalah sebagai berikut :
 
@@ -37,7 +37,7 @@ Langkah - langkah untuk recall disposisi via Teams adalah sebagai berikut :
 3.    Surat masuk yang sudah di-_recall_ akan tersimpan di menu "**Draft - Disposisi**" pendisposisi
 
 
-## **P-Office Versi Android**
+## **E-Corr Versi Android**
 
 Langkah - langkah untuk recall disposisi surat masuk via Android adalah sebagai berikut :
 

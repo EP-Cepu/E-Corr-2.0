@@ -6,7 +6,7 @@
 
 SPPTH dibuat oleh konseptor/sekretaris Direksi yang akan meninggalkan tempat, sedangkan *approver* adalah Direktur Utama atau Pjs. Direktur Utama.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambah SPPTH via Web adalah sebagai berikut
 
@@ -86,7 +86,7 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Setelah mengirim SPPTH, sistem akan menyimpan SPPTH di menu "**Sent Item - SPPTH**".
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk menambah SPPTH via Teams adalah sebagai berikut :
 
@@ -154,7 +154,7 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Sent Item”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk tambah SPPTH via Android dan iOS adalah sebagai berikut :
 
@@ -197,7 +197,7 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02U02a.jpg) ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02U02b.jpg)
 
-3. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
+3. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up E-Corr Editing Document pilih **Yes**
 
 ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02U03.jpg) ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02U04.jpg)
 

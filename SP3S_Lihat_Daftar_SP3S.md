@@ -6,7 +6,7 @@
 
 *User* dapat melihat daftar SP3S pada pada menu **Inbox, Draft atau Sent Item** pada masing - masing akun.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar SP3S via Web adalah sebagai berikut
 
@@ -14,7 +14,7 @@ Langkah - langkah untuk melihat daftar SP3S via Web adalah sebagai berikut
 
 ![gambar](SP3S/SP3S_Web/02SP01.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk lihat daftar SP3S via Teams adalah sebagai berikut :
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk lihat daftar SP3S via Teams adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Teams/SP3S01.png)
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat daftar SP3S via Android yaitu :
 

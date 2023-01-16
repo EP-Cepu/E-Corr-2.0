@@ -1,11 +1,11 @@
  <font size="3">
  
- Permasalahan terjadi karena faktor user yang diajukan sebagai pejabat sementara (pjs) belum melakukan setting pada P-Office 2.0 melalui menu *personalize - temporary*
+ Permasalahan terjadi karena faktor user yang diajukan sebagai pejabat sementara (pjs) belum melakukan setting pada E-Corr 2.0 melalui menu *personalize - temporary*
 
-- Untuk mengatasi permasalahan tersebut user harus melakukan setting temporary pada P-Office 2.0. Berikut ini langkah – langkah menggunakan P-Office sebagai akun Pejabat Sementara (PJS) :
+- Untuk mengatasi permasalahan tersebut user harus melakukan setting temporary pada E-Corr 2.0. Berikut ini langkah – langkah menggunakan E-Corr sebagai akun Pejabat Sementara (PJS) :
 
 1.	Pastikan pejabat sementara (Pjs) sudah aktif 
-2.	Buka aplikasi P-Office 2.0, klik icon *Personalize* yang terdapat pada bagian kanan bawah, maka akan muncul popup *Personalize*
+2.	Buka aplikasi E-Corr 2.0, klik icon *Personalize* yang terdapat pada bagian kanan bawah, maka akan muncul popup *Personalize*
 
 ![gambar](FAQ/01MJS.png)
 
@@ -17,4 +17,4 @@
 
 ![gambar](FAQ/03MJS.png)
 
-5.	Setelah itu secara otomatis sistem P-Office 2.0 akan masuk akun Pjs tersebut.
+5.	Setelah itu secara otomatis sistem E-Corr 2.0 akan masuk akun Pjs tersebut.

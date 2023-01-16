@@ -2,9 +2,9 @@
 
 - _Member User_ (Pekerja)
 
-_Member User_ dapat melakukan _drafting_ memorandum pada aplikasi P-Office. _Drafting_ memorandum dilakukan jika _user_ akan meneruskan dan melakukan perubahan pada memorandum yang sudah disimpan pada menu **Draft**
+_Member User_ dapat melakukan _drafting_ memorandum pada aplikasi E-Corr. _Drafting_ memorandum dilakukan jika _user_ akan meneruskan dan melakukan perubahan pada memorandum yang sudah disimpan pada menu **Draft**
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk drafting memorandum via Web adalah sebagai berikut :
 
@@ -62,7 +62,7 @@ Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai ber
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Memorandum"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk Drafting Memorandum via Teams adalah sebagai berikut :
 
@@ -130,7 +130,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Sent Item - Memorandum"**
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk drafting memorandum via Android dan iOS adalah sebagai berikut :
 
@@ -162,7 +162,7 @@ Langkah – langkah untuk mengubah isi memorandum secara _online_ adalah sebagai
 
 ![gambar](Memorandum/MM_Android/Draftmemo/02U01.png)
 
-2. Lakukan perubahan pada isi surat.sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
+2. Lakukan perubahan pada isi surat.sistem akan menampilkan pop up E-Corr Editing Document pilih **Yes**
 
 ![gambar](Memorandum/MM_Android/Draftmemo/02U02.png) ![gambar](Memorandum/MM_Android/Draftmemo/02U3.png)
 

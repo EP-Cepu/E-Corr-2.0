@@ -2,10 +2,10 @@
 
 - Sekretaris
 
-Sekretaris dapat melakukan _drafting_ surat masuk pada aplikasi P-Office. _Drafting_ surat masuk dilakukan jika _user_ akan meneruskan dan melakukan perubahan pada surat masuk yang sudah disimpan pada menu **Draft.**
+Sekretaris dapat melakukan _drafting_ surat masuk pada aplikasi E-Corr. _Drafting_ surat masuk dilakukan jika _user_ akan meneruskan dan melakukan perubahan pada surat masuk yang sudah disimpan pada menu **Draft.**
 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 
@@ -24,7 +24,7 @@ Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 4.	  Lakukan perubahan pada _form_. Klik **Send Document** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Sent Item - Surat Masuk"**
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 
@@ -46,7 +46,7 @@ Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Surat Masuk”**
 
 
-# **P-Office Versi Mobile (Android & iOS)**
+# **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk Drafting surat masuk via Mobile (Android & iOS) adalah sebagai berikut:
 

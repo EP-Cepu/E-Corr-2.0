@@ -4,7 +4,7 @@
 
 *User* dapat merevisi SP3S yang sudah dikirimkan oleh konseptor. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk merevisi SP3S via Web adalah sebagai berikut :
 
@@ -57,7 +57,7 @@ Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 
 3. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Direct -SP3S"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk merevisi SP3S via Teams adalah sebagai berikut :
 
@@ -120,7 +120,7 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Inbox – Surat SP3S”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk merevisi SP3S via Android adalah sebagai berikut :
 

@@ -1,5 +1,5 @@
-Pada bagian ini akan dijelaskan mengenai role sebagai sekretaris dalam aplikasi P-Office yang mengelola menu surat masuk, fax masuk dan agenda kendali. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
-Berikut adalah role sekretaris dalam aplikasi P-Office antara lain adalah sebagai berikut :
+Pada bagian ini akan dijelaskan mengenai role sebagai sekretaris dalam aplikasi E-Corr yang mengelola menu surat masuk, fax masuk dan agenda kendali. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
+Berikut adalah role sekretaris dalam aplikasi E-Corr antara lain adalah sebagai berikut :
 
 
 ### **Surat Masuk**
@@ -24,9 +24,9 @@ Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui 
 
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola Memorandum antara lain: 
 
-- [Melihat Informasi Lengkap Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-memorandum/9dd16cf919224f2c969111378ea4732d)
-- [Menyelesaikan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-memorandum/e039c4c976724e5ca6c3366f8a6bcb2c)
-- [Mengirim Tanggapan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-memorandum/2c1f8b72441c43d9ad6eb48ffb82ca29)
+- [Melihat Informasi Lengkap Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-memorandum/9dd16cf919224f2c969111378ea4732d)
+- [Menyelesaikan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-memorandum/e039c4c976724e5ca6c3366f8a6bcb2c)
+- [Mengirim Tanggapan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-memorandum/2c1f8b72441c43d9ad6eb48ffb82ca29)
 
 ### **Fax Masuk**
 
@@ -34,13 +34,13 @@ Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerj
 
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola fax masuk antara lain:
 
-- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
-- [Menambah Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/e7430b9b4ca5484894eb2ff34841dd85)
-- [Melakukan Drafting Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/4458df9b0afd406fa7c741d1c7478097)
-- [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/ca29cb08efa74d55b5979f8848d986c6)
-- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/b94057c51dbe43dc812ec7ee095f8f6a)
-- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/58f816ad44ec493aaadc7dd7f72fc6be)
-- [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/e4a5b32e72fc4637a92431f1876298c9)
+- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
+- [Menambah Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-FaxMasuk/e7430b9b4ca5484894eb2ff34841dd85)
+- [Melakukan Drafting Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-FaxMasuk/4458df9b0afd406fa7c741d1c7478097)
+- [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-FaxMasuk/ca29cb08efa74d55b5979f8848d986c6)
+- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-FaxMasuk/b94057c51dbe43dc812ec7ee095f8f6a)
+- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-FaxMasuk/58f816ad44ec493aaadc7dd7f72fc6be)
+- [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/E-Corr-FaxMasuk/e4a5b32e72fc4637a92431f1876298c9)
 
 ### **SP3S**
 
@@ -81,7 +81,7 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola Archive antara lain
 
 ### **Document Control** 
 
-Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh sekretaris dan akan ditindaklanjuti oleh admin P-Office.
+Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh sekretaris dan akan ditindaklanjuti oleh admin E-Corr.
 
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola document control antara lain:
 

@@ -7,7 +7,7 @@
 
 _User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposisi
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat informasi lengkap disposisi surat masuk via Web adalah sebagai berikut :
 
@@ -45,7 +45,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 ![gambar](SuratMasuk/SM_Web/02SM41.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat informasi disposisi surat masuk via Teams adalah sebagai berikut :
 
@@ -88,7 +88,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 ![gambar](SuratMasuk/SM_Teams/SM46.png)
 
-## *P-Office Versi Mobile (Android & iOS)**
+## *E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat informasi disposisi surat masuk via Android adalah sebagai berikut :
 

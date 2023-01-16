@@ -1,6 +1,6 @@
 <font size="3">
 
-- Login ke **P-Office** pilih Menu **Inbox - Direct**, Pilih dan klik surat SP3S.
+- Login ke **E-Corr** pilih Menu **Inbox - Direct**, Pilih dan klik surat SP3S.
 
 
 ![gambar](FAQ/1.jpg)

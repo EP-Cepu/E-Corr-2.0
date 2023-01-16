@@ -7,7 +7,7 @@
 
 *User* dapat melihat informasi lengkap SP3S termasuk *preview* SP3S, detail SP3S dan *history* SP3S
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk informasi lengkap SP3S via Web adalah sebagai berikut :
 
@@ -33,7 +33,7 @@ Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, 
 
 ![gambar](SP3S/SP3S_Web/02SP29.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk informasi lengkap SP3S via Teams adalah sebagai berikut :
 
@@ -61,7 +61,7 @@ Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, 
 
 ![gambar](SP3S/SP3S_Teams/SP3S30.png)
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk informasi lengkap SP3S via Android adalah sebagai berikut :
 

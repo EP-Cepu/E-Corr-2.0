@@ -1,6 +1,6 @@
 <font size="3">
 
-- Login ke **P-Office** pilih Menu **Inbox - Direct**, Pilih dan klik surat SPPTH.
+- Login ke **E-Corr** pilih Menu **Inbox - Direct**, Pilih dan klik surat SPPTH.
 
 
 ![gambar](FAQ/S1.jpg)

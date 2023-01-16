@@ -6,7 +6,7 @@
 
 *User* dapat melihat daftar fax keluar pada pada menu **Inbox, Draft atau Sent Item** pada masing-masing akun. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar fax keluar via Web adalah sebagai berikut :
 
@@ -14,7 +14,7 @@ Langkah - langkah untuk melihat daftar fax keluar via Web adalah sebagai berikut
 
 ![gambar](FaxKeluar/FK_Web/02FK1.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat daftar fax keluar via Teams adalah sebagai berikut :
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk melihat daftar fax keluar via Teams adalah sebagai berik
 
 ![gambar](FaxKeluar/FK_Teams/FK01.png)
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk melihat daftar fax keluar via Android dan iOS adalah sebagai berikut :
 

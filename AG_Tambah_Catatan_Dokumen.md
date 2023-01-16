@@ -4,7 +4,7 @@
 
 Sekretaris dapat menambahkan *notes*/catatan terkait dokumen yang di-*review*. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambah catatan dokumen via Web adalah sebagai berikut
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk menambah catatan dokumen via Web adalah sebagai berikut
 4. Sistem berhasil menyimpan perubahan catatan dokumen
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk mmenambahkan catatan dokumen via Teams adalah sebagai berikut:
 

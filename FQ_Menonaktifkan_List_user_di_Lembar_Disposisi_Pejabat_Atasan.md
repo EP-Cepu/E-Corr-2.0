@@ -1,12 +1,12 @@
 **Menghapus/Menonaktifkan List User di Lembar Disposisi Pejabat Atasan**
 
-Permasalahan tersebut terjadi karena faktor nama user yang tidak akan menerima surat disposisi ada di list lembar disposisinya. Sehingga perlu dilakukan dihapus/dinonaktifkan user tersebut pada P-office di menu Master – Mails – Disposition – Mapping.
+Permasalahan tersebut terjadi karena faktor nama user yang tidak akan menerima surat disposisi ada di list lembar disposisinya. Sehingga perlu dilakukan dihapus/dinonaktifkan user tersebut pada E-Corr di menu Master – Mails – Disposition – Mapping.
 
 ![gambar](FAQ/01MLD.png)
 
-Untuk mengatasi permasalahan tersebut Admin harus menghapus/menonaktifkan user pada lembar disposisi di menu Master – Mails – Disposition – Mapping terlebih dahulu. Berikut ini langkah-langkah untuk menghapus/menonaktifkan user pada lembar disposisi di P-Office:
+Untuk mengatasi permasalahan tersebut Admin harus menghapus/menonaktifkan user pada lembar disposisi di menu Master – Mails – Disposition – Mapping terlebih dahulu. Berikut ini langkah-langkah untuk menghapus/menonaktifkan user pada lembar disposisi di E-Corr:
 
-1. Buka aplikasi P-Office silakan klik menu Master – Mails. Pada tab Disposition pilih menu Mapping.
+1. Buka aplikasi E-Corr silakan klik menu Master – Mails. Pada tab Disposition pilih menu Mapping.
 
 ![gambar](FAQ/02MLD.png)
 

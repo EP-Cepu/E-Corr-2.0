@@ -6,7 +6,7 @@
 
  _User_ dapat mengirim tanggapan disposisi surat masuk yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi surat masuk adalah sebagai berikut
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk mengirim tanggapan via Web adalah sebagai berikut :
 
@@ -25,7 +25,7 @@ Langkah - langkah untuk mengirim tanggapan via Web adalah sebagai berikut :
 4.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk kirim tanggapan via Teams adalah sebagai berikut :
 
@@ -48,7 +48,7 @@ Langkah - langkah untuk kirim tanggapan via Teams adalah sebagai berikut :
 5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk mengirim tanggapan via Android adalah sebagai berikut :
 

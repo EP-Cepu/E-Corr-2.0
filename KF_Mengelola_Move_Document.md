@@ -2,16 +2,16 @@
 
 - IT Admin
 
-IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit kerja yang lain. Hal ini bertujuan jika unit kerja yang mengalami perubahan dan dokumen di unit kerja lama akan dipindahkan ke unit kerja yang baru. Pengelolaan pemindahan  dokumen yang dilakukan oleh admin P-Office antara lain adalah sebagai berikut :
+IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit kerja yang lain. Hal ini bertujuan jika unit kerja yang mengalami perubahan dan dokumen di unit kerja lama akan dipindahkan ke unit kerja yang baru. Pengelolaan pemindahan  dokumen yang dilakukan oleh admin E-Corr antara lain adalah sebagai berikut :
 
 - Melihat daftar dokumen
 - Mencari dokumen
 - Melihat Informasi Dokumen
 - Melakukan pemindahan dokumen ke unit kerja lain
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
-Langkah - langkah untuk mengelola perpindahan dokumen pada unit satu ke unit kerja lain pada aplikasi P-Office via Web adalah sebagai berikut:
+Langkah - langkah untuk mengelola perpindahan dokumen pada unit satu ke unit kerja lain pada aplikasi E-Corr via Web adalah sebagai berikut:
 
 #### **Melihat Daftar Dokumen**
 

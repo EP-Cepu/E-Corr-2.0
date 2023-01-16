@@ -4,7 +4,7 @@
 
 Sekretaris dapat melihat daftar disposisi yang diterima oleh pejabat atasan
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melihat daftar disposisi via Web adalah sebagai berikut:
 

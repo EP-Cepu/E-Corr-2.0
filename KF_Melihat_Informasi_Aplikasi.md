@@ -4,7 +4,7 @@
 
 IT Admin dapat melihat informasi aplikasi. Informasi yang ditampilkan yaitu alamat email, nama perusahaan, unit organisasi, nama organisasi, kota, provinsi dan lisensi detail.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat informasi aplikasi via Web adalah sebagai berikut:
 

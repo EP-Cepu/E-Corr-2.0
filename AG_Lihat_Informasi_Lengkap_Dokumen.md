@@ -4,7 +4,7 @@
 
 Sekretaris dapat melihat detail surat baik surat yang berklasifikasi "Biasa", "Terbatas", "Rahasia" dan "Sangat Rahasia". Sedangkan sebagai *role* sekretaris hanya dapat melihat detail surat yang berklasifikasi "Biasa" dan "Terbatas". Informasi yang ditampikan detail surat antara lain yaitu
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan dokumen disposisi via Web adalah sebagai berikut.
 
@@ -41,7 +41,7 @@ Pada tab **History Surat**, ditampilkan riwayat memorandum yang terdapat informa
 ![gambar](DocumentControl/DC_Web/02MM12.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat dokumen informasi lengkap via Teams adalah sebagai berikut:
 

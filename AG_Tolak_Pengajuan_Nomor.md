@@ -4,7 +4,7 @@
 
 Admin Approver Offline Number dapat melakukan tindak lanjut terhadap pengajuan nomor offline dengan menolak / *reject* pengajuan  yang diajukan oleh sekretaris. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menolak pengajuan nomor via Web adalah sebagai berikut :
 
@@ -16,10 +16,10 @@ Langkah - langkah untuk menolak pengajuan nomor via Web adalah sebagai berikut :
 
 ![gambar](DocumentControl/DC_Web/02MM27.png)
 
-3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document - Control**" dengan status **Rejected** pada role admin P-Office. Sedangkan untuk role sekretaris tersimpan di menu "**Document - Control**" dengan status **Rejected**
+3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document - Control**" dengan status **Rejected** pada role admin E-Corr. Sedangkan untuk role sekretaris tersimpan di menu "**Document - Control**" dengan status **Rejected**
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tolak pengajuan nomor via Teams adalah sebagai berikut:
 
@@ -31,4 +31,4 @@ Langkah - langkah untuk tolak pengajuan nomor via Teams adalah sebagai berikut:
 
 ![gambar](DocumentControl/DC_Teams/DC28.png)
 
-3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document Control - List Approval Request**" dengan status **Rejected** pada role admin P-Office. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**" dengan status **Rejected**
+3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document Control - List Approval Request**" dengan status **Rejected** pada role admin E-Corr. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**" dengan status **Rejected**

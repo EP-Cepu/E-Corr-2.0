@@ -1,15 +1,15 @@
 **Role yang sesuai**
 
-- Admin P-Office
+- Admin E-Corr
 
-Admin P-Office dapat mengelola kode simpan yang digunakan dalam penginputan form surat. Pengelolaan kode simpan yang dilakukan admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola kode simpan yang digunakan dalam penginputan form surat. Pengelolaan kode simpan yang dilakukan admin E-Corr antara lain yaitu
 
 - Mencari kode simpan
 - Menambah kode simpan
 - Mengubah kode simpan
 - Menghapus kode simpan
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk pengelolaan kode simpan via Web adalah sebagai berikut
 

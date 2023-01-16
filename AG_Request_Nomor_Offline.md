@@ -4,12 +4,12 @@
 
 Pengajuan nomor offline digunakan untuk *request* pemrosesan nomor dokumen secara offline. Sekretaris yang mengajukan nomor offline akan disetujui oleh admin approval nomor offline. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris untuk mengajukan nomor offline yang kemudian akan di approve oleh admin approval offline number 
 
 </br>
-<a href="https://web.microsoftstream.com/embed/video/515edc31-a009-4c9e-91b7-42fb504bc263?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM02.png" alt="Watch the video"></a>
+<a href="https://web.microsoftstream.com/embed/video/515edc31-a009-4c9e-91b7-42fb504bc263?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-E-Corr/raw/master/Video/Thumbnail/TM02.png" alt="Watch the video"></a>
 
 1. Klik menu **Document** dan pilih **Offline Number** 
 
@@ -28,7 +28,7 @@ Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris
 ![gambar](DocumentControl/DC_Web/MM22.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk request nomor offline via Teams adalah sebagai berikut:
 

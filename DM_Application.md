@@ -2,7 +2,7 @@
 
 ## Menu Aplikasi
 
-Admin P-Office dapat mengelola aplikasi yang digunakan dalam pemberian hak akses pada setiap role-nya. Pengelolaan Aplikasi menu yang dilakukan admin P-Office antara lain yaitu :
+Admin E-Corr dapat mengelola aplikasi yang digunakan dalam pemberian hak akses pada setiap role-nya. Pengelolaan Aplikasi menu yang dilakukan admin E-Corr antara lain yaitu :
 
 ## **Mencari Akses** 
 
@@ -14,7 +14,7 @@ Admin P-Office dapat mengelola aplikasi yang digunakan dalam pemberian hak akses
 - Mengubah akses menu
 - Menghapus akses menu
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan pengelolaan grup akses via Web adalah sebagai berikut :
 
@@ -29,7 +29,7 @@ Langkah - langkah untuk melakukan pengelolaan grup akses via Web adalah sebagai 
 
 ![gambar](DataMaster/SC_DataMaster/DM15.png)
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan pengelolaan akses menu via Web adalah sebagai berikut :
 

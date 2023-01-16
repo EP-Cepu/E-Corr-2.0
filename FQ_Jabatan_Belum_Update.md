@@ -1,6 +1,6 @@
-**Jabatan Belum Update diP-Office**
+**Jabatan Belum Update diE-Corr**
 
-Permasalahan tersebut terjadi karena faktor user mutasi Jabatan ketika di check data user di IdAman dan P-Office belum update yang terbaru. Sehingga perlu dilakukan sync parsial di **IdAman – menu Synchronize - Role**.
+Permasalahan tersebut terjadi karena faktor user mutasi Jabatan ketika di check data user di IdAman dan E-Corr belum update yang terbaru. Sehingga perlu dilakukan sync parsial di **IdAman – menu Synchronize - Role**.
 
 ![gambar](FAQ/01JBU.png)
 
@@ -35,6 +35,6 @@ Untuk mengatasi permasalahan tersebut Admin harus melakukan sync parsial di menu
 
 ![gambar](FAQ/08JBU.png)
 
-9. Untuk memastikan data user di P-Office telah update sesuai data IdAman, Silakan buka aplikasi P-office – menu Master – Resources, pada tab Data pilih Users dan search nama user tersebut.
+9. Untuk memastikan data user di E-Corr telah update sesuai data IdAman, Silakan buka aplikasi E-Corr – menu Master – Resources, pada tab Data pilih Users dan search nama user tersebut.
 
 ![gambar](FAQ/09JBU.png)

@@ -21,7 +21,7 @@
 
 4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan terhapus dari **Draf - Direct** dan akan tersimpan di menu **“Rejected”** berlabel Fax Keluar.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tolak fax keluar via Teams adalah sebagai berikut:
 
@@ -40,7 +40,7 @@ Langkah - langkah untuk tolak fax keluar via Teams adalah sebagai berikut:
 4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk tolak fax keluar via Android dan iOS adalah sebagai berikut:
 

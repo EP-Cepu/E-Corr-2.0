@@ -5,7 +5,7 @@
 
 _User_ dapat menyelesaikan fax masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan fax masuk ke pejabat lain atau fax masuk selesai pada _user_ tersebut.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk menyelesaikan fax masuk via Web adalah sebagai berikut :
 
@@ -27,7 +27,7 @@ Langkah-langkah untuk menyelesaikan fax masuk via Web adalah sebagai berikut :
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk selesaikan fax masuk via Teams adalah sebagai berikut:
 
@@ -49,7 +49,7 @@ Langkah - langkah untuk selesaikan fax masuk via Teams adalah sebagai berikut:
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk menyelesaikan fax masuk via Android adalah sebagai berikut :
 

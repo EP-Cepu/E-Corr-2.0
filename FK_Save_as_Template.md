@@ -4,7 +4,7 @@
 
 *Member User* dapat menyimpan fax keluar sebagai *template*. *Template* ini digunakan jika sewaktu-waktu *user* akan melanjutkan fax keluar yang sudah dibuat dan diubah kembali kemudian dikirimkan kepejabat tujuan tanpa harus mengisi *form* fax keluar.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk Save as Template via Web adalah sebagai berikut :
 
@@ -28,7 +28,7 @@ Langkah - langkah untuk Save as Template via Web adalah sebagai berikut :
 
 5. Lakukan perubahan pada fax, klik **Send** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"**.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk save as template fax keluar via Teams adalah sebagai berikut:
 
@@ -50,7 +50,7 @@ Langkah - langkah untuk save as template fax keluar via Teams adalah sebagai ber
 
 5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Fax Keluar"**.
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk save as template fax keluar via Android dan iOS adalah sebagai berikut:
 

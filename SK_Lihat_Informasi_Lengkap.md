@@ -7,7 +7,7 @@
 
 *User* dapat melihat informasi lengkap surat keluar termasuk *preview* surat keluar, detail surat keluar, *tracking* surat keluar dan *history* surat keluar.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat informasi surat keluar via Web adalah sebagai berikut :
 
@@ -39,7 +39,7 @@ Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi j
 
 ![gambar](SuratKeluar/SK_Web/02SK34.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat informasi surat keluar via Teams adalah sebagai berikut :
 
@@ -73,7 +73,7 @@ Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi j
   
 ![gambar](SuratKeluar/SK_Teams/SK36.png)
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk melihat informasi surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 

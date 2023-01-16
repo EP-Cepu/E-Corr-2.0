@@ -4,7 +4,7 @@
 
 Sekretaris dapat mengunggah dokumen permasing-masing nomor offline yang sudah di-*request*. Sekretaris yang sudah mengunggah dokumen nomor offline dapat melakukan pengajuan nomor kembali maksimal 5 kali _request_. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk mengunggah dokumen nomor offline via Web adalah sebagai berikut
 
@@ -31,7 +31,7 @@ Langkah-langkah untuk mengunggah dokumen nomor offline via Web adalah sebagai be
 ![gambar](DocumentControl/DC_Web/02MM32.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk mengunggah dokumen offline number via Teams adalah sebagai berikut:
 

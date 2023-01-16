@@ -12,7 +12,7 @@
 
 ![gambar](FAQ/02FQ14.png)
 
-- Kemudian refresh laman P-Office Anda dan pilih surat yang akan Anda lihat previewnya
+- Kemudian refresh laman E-Corr Anda dan pilih surat yang akan Anda lihat previewnya
 
 ![gambar](FAQ/02FQ15.png)
 

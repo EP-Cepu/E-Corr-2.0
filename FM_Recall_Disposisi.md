@@ -5,7 +5,7 @@
 
 *User* dapat melakukan *recall* / tarik disposisi fax masuk yang sudah dikirim kepada pejabat penerima disposisi. Fax masuk yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu "**Sent Item - Disposisi**" 
 
-# **P-Office Versi Web**
+# **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan recall disposisi fax masuk via Web adalah sebagai berikut :
 
@@ -19,7 +19,7 @@ Langkah - langkah untuk melakukan recall disposisi fax masuk via Web adalah seba
 
 3. Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk recall disposisi fax masuk via Teams adalah sebagai berikut: 
 
@@ -34,7 +34,7 @@ Langkah - langkah untuk recall disposisi fax masuk via Teams adalah sebagai beri
 3. Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk Recaall Fax masuk via Android dan iOS adalah sebagai berikut :
 

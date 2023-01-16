@@ -2,10 +2,10 @@
 
 - Sekretaris
 
-Sekretaris dapat melakukan _drafting_ fax masuk pada aplikasi P-Office. _Drafting_ fax masuk dilakukan jika sekretaris akan meneruskan dan melakukan perubahan pada fax masuk yang sudah disimpan pada menu **Draft.** 
+Sekretaris dapat melakukan _drafting_ fax masuk pada aplikasi E-Corr. _Drafting_ fax masuk dilakukan jika sekretaris akan meneruskan dan melakukan perubahan pada fax masuk yang sudah disimpan pada menu **Draft.** 
 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melakukan drafting fax masuk via Web adalah sebagai berikut :
 
@@ -25,7 +25,7 @@ Langkah-langkah untuk melakukan drafting fax masuk via Web adalah sebagai beriku
 
 ![gambar](FaxMasuk/FM_WEB/02DraftFM03F2.png) 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk drafting fax masuk via Teams adalah sebagai berikut:
 
@@ -48,7 +48,7 @@ Langkah - langkah untuk drafting fax masuk via Teams adalah sebagai berikut:
 ![gambar](FaxMasuk/FM_Teams/FM10.png)
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk drafting fax masuk adalah sebagai berikut :
 

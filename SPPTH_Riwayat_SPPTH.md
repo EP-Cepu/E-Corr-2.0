@@ -6,7 +6,7 @@
 
 *User* dapat melihat informasi pejabat yang sedang menjabat sebagai Pth baik dalam status aktif maupun non-aktif. Informasi yang ditampilkan meliputi nomor SPPTH, Nama pejabat, jabatan dan status. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk riwayat SPPTH via Web adalah sebagai berikut :
 
@@ -16,7 +16,7 @@ Langkah - langkah untuk riwayat SPPTH via Web adalah sebagai berikut :
 
 2. Sistem menampilkan riwayat SPPTH
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk riwayat SPPTH via Teams adalah sebagai berikut :
 

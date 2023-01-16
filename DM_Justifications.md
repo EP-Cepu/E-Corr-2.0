@@ -1,15 +1,15 @@
 **Role yang sesuai**
 
-- Admin P-Office
+- Admin E-Corr
 
-Admin P-Office dapat mengelola data master untuk penginputan justifikasi pada form pengajuan nomor offline. Pengelolaan data master justifikasi yang dilakukan admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola data master untuk penginputan justifikasi pada form pengajuan nomor offline. Pengelolaan data master justifikasi yang dilakukan admin E-Corr antara lain yaitu
 
 - Mencari data master justifikasi
 - Menambah data master justifikasi
 - Mengubah data master justifikasi
 - Menghapus data master justifikasi
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan pengelolaan justifikasi via Web adalah sebagai berikut:
 

@@ -5,7 +5,7 @@
 
 *User* dapat menolak surat keluar yang akan dikembalikan ke konseptor jika hasil review surat keluar belum atau tidak sesuai. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 -langkah untuk menolak surat keluar via Web adalah sebagai berikut
 
 1. Klik menu **Draft** dan Klik menu **Direct**  kemudian pilih label **Surat Keluar**
@@ -22,7 +22,7 @@
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **Rejected document** label **Surat Keluar** user penolak dengan label **Rejected**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tolak surat keluar via Teams adalah sebagai berikut :
 
@@ -40,7 +40,7 @@ Langkah - langkah untuk tolak surat keluar via Teams adalah sebagai berikut :
  
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk menolak surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 

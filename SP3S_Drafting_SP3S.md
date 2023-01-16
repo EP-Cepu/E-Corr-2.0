@@ -5,9 +5,9 @@
 - *Member User* (Pekerja)
 - Sekretaris
 
-*User* dapat melakukan *drafting* SP3S pada aplikasi P-Office. *Drafting* SP3S dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SP3S yang sudah disimpan pada menu **Draft.**
+*User* dapat melakukan *drafting* SP3S pada aplikasi E-Corr. *Drafting* SP3S dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SP3S yang sudah disimpan pada menu **Draft.**
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan drafting SP3S via Web adalah sebagai berikut :
 
@@ -75,7 +75,7 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - Direct - SP3S"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk Drafting SP3S via Teams adalah sebagai berikut :
  
@@ -143,7 +143,7 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
 
 2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk Drafting SP3S via Android adalah sebagai berikut : 
 

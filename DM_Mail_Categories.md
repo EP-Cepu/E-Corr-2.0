@@ -1,15 +1,15 @@
 **Role yang sesuai**
 
-- Admin P-Office
+- Admin E-Corr
 
-Admin P-Office dapat mengelola kategori surat yang digunakan dalam penginputan form surat masuk dan fax masuk. Pengelolaan kategori surat yang dilakukan admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola kategori surat yang digunakan dalam penginputan form surat masuk dan fax masuk. Pengelolaan kategori surat yang dilakukan admin E-Corr antara lain yaitu
 
 - Mencari kategori surat
 - Menambah kategori surat
 - Mengubah kategori surat
 - Menghapus kategori surat
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk pengelolaan kategori surat via Web adalah sebagai berikut:
 

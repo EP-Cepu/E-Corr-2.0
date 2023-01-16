@@ -5,7 +5,7 @@
 
  _User_ dapat melakukan _custom_ penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara _default_ pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat _case_ jika _user_ membutuhkan _custom_ penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk custom penerima disposisi via Web adalah sebagai berikut :
 
@@ -33,7 +33,7 @@ Langkah - langkah untuk custom penerima disposisi via Web adalah sebagai berikut
 
 ![gambar](SuratMasuk/SM_Web/02SM35.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk Custom penerima disposisi via Teams adalah sebagai berikut :
 
@@ -62,7 +62,7 @@ Langkah - langkah untuk Custom penerima disposisi via Teams adalah sebagai berik
 ![gambar](SuratMasuk/SM_Teams/SM38.png)
 
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melakukan custom penerima disposisi masuk via Mobile (Android & iOS) adalah sebagai berikut:
 

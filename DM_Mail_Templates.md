@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
- - Admin P-Office
+ - Admin E-Corr
 
-Admin P-Office dapat mengelola _template _surat yang digunakan dalam proses _generate_ surat. Pengelolaan template surat yang dilakukan oleh admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola _template _surat yang digunakan dalam proses _generate_ surat. Pengelolaan template surat yang dilakukan oleh admin E-Corr antara lain yaitu
 
 - Mencari _template_ surat
 - Menambah _template_ surat
@@ -10,7 +10,7 @@ Admin P-Office dapat mengelola _template _surat yang digunakan dalam proses _gen
 - Menghapus _template_ surat
 - Mengunduh _template_ surat
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk pengelolaan _template_ surat via Web adalah sebagai berikut:
 

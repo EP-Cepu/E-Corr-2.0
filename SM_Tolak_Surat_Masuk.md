@@ -4,7 +4,7 @@
 
 - *Approver User*
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk menolak surat masuk via Web adalah sebagai berikut:
 
@@ -27,7 +27,7 @@ Langkah-langkah untuk menolak surat masuk via Web adalah sebagai berikut:
 5.    Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan di menu “**Rejected – Surat Masuk”** user penolak dengan label **Rejected**
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tolak surat masuk via Teams adalah sebagai berikut :
 
@@ -50,7 +50,7 @@ Langkah - langkah untuk tolak surat masuk via Teams adalah sebagai berikut :
 5. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan di menu “**Rejected – Surat Masuk”** user penolak dengan label **Rejected**
 
 
-## **P-Office Versi Android**
+## **E-Corr Versi Android**
 
 Langkah-langkah untuk menolak surat masuk adalah sebagai berikut.
 

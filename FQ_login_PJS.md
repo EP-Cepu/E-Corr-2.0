@@ -1,7 +1,7 @@
 <<font size="3">
 
 - Pastikan pejabat sementara (Pjs) sudah aktif.
-- Login ke **P-Office**, klik icon **Personalize** yang terdapat pada bagian kanan bawah, maka akan muncul popup Personalize.  
+- Login ke **E-Corr**, klik icon **Personalize** yang terdapat pada bagian kanan bawah, maka akan muncul popup Personalize.  
 
 
 ![gambar](FAQ/P1.jpg)

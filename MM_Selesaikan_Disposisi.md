@@ -7,7 +7,7 @@
 
 *User* dapat menyelesaikan disposisi memorandum jika *user* tidak akan melanjutkan untuk mendisposisikan memorandum ke pejabat lain atau memorandum selesai pada *user* tersebut. Langkah-langkah untuk menyelesaikan memorandum adalah sebagai berikut
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk menyelesaikan disposisi memorandum via Web adalah sebagai berikut :
 
@@ -29,7 +29,7 @@ Langkah-langkah untuk menyelesaikan disposisi memorandum via Web adalah sebagai 
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk menyelesaikan disposisi memorandum via Teams adalah sebagai berikut :
 
@@ -51,7 +51,7 @@ Langkah-langkah untuk menyelesaikan disposisi memorandum via Teams adalah sebaga
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Langkah-langkah untuk menyelesaikan disposisi memorandum via Android adalah sebagai berikut :
 

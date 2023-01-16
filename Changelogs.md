@@ -2,7 +2,7 @@
 
 *Terakhir Diperbarui: 03 Desember 2020*
 
-Berikut ini catatan rilis fitur dan perbaikan aplikasi P-Office:
+Berikut ini catatan rilis fitur dan perbaikan aplikasi E-Corr:
 
 ### 03 Desember 2020
 >**Versi** : 1.3.3
@@ -15,7 +15,7 @@ Yang termasuk dalam rilis ini sebagai berikut:
 **Cara memeriksa versi yang Anda gunakan**
 
 1. Klik ikon **Help** di area header
-2. Lihat nomor versi di bawah Logo **P-Office**.
+2. Lihat nomor versi di bawah Logo **E-Corr**.
 
 
 ### Release note 12 Desember 2020

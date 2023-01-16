@@ -4,7 +4,7 @@
 
 *User* dapat menolak SP3S yang sudah dikirimkan oleh konseptor. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menolak SP3S via Web adalah sebagai berikut :
 
@@ -24,7 +24,7 @@ Langkah - langkah untuk menolak SP3S via Web adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Direct - SP3S”** user penolak dengan Menu **Rejected**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk Tolak SP3S via Teams adalah sebagai berikut :
 
@@ -42,7 +42,7 @@ Langkah - langkah untuk Tolak SP3S via Teams adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – SP3S”** user penolak dengan label **Rejected**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk Tolak SP3S via Android adalah sebagai berikut :
 

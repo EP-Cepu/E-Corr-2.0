@@ -2,14 +2,14 @@
 
 - IT Admin
 
-IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada sistem manajemen user. Informasi yang ditampilkan yaitu nama, alamat email dan no telepon. Pengelolaan user yang dilakukan oleh admin P-Office antara lain adalah sebagai berikut :
+IT Admin dapat mengelola user pada aplikasi E-Corr yang sudah didaftarkan pada sistem manajemen user. Informasi yang ditampilkan yaitu nama, alamat email dan no telepon. Pengelolaan user yang dilakukan oleh admin E-Corr antara lain adalah sebagai berikut :
 
 - Melihat daftar user pada aplikasi
 - Mencari daftar user pada aplikasi
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
-Langkah - langkah untuk melihat daftar user pada aplikasi P-Office via Web adalah sebagai berikut:
+Langkah - langkah untuk melihat daftar user pada aplikasi E-Corr via Web adalah sebagai berikut:
 
 #### **Melihat Daftar User pada Aplikasi**
 
@@ -17,7 +17,7 @@ Langkah - langkah untuk melihat daftar user pada aplikasi P-Office via Web adala
 
 ![gambar](SC_Konfigurasi/02KF02.png)
 
-2. Sistem menampilkan daftar user pada aplikasi P-Office
+2. Sistem menampilkan daftar user pada aplikasi E-Corr
 
 #### **Mencari User pada Aplikasi**
 

@@ -1,6 +1,6 @@
 <font size="3">
 
-- Login ke **P-Office** pilih Menu **Draft/Sent item – Direct**.
+- Login ke **E-Corr** pilih Menu **Draft/Sent item – Direct**.
 
 ![gambar](FAQ/D1.jpg)
 

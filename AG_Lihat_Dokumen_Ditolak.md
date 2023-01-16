@@ -4,7 +4,7 @@
 
 Sekretaris dapat melihat daftar dokumen yang ditolak, dikembalikan atau dibatalkan di pejabat atasan
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melihat daftar dokumen dokumen yang ditolak, dikembalikan atau dibatalkan via Web adalah sebagai berikut:
 
@@ -15,7 +15,7 @@ Langkah-langkah untuk melihat daftar dokumen dokumen yang ditolak, dikembalikan 
 2. Sistem menampilkan dokumen yang ditolak, dikembalikan atau dibatalkan yang meliputi number, Agenda, from, about, type, last Modified dan secretary note.
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk melihat daftar dokumen ditolak, dikembalikan atau dibatalkan via Teams adalah sebagai berikut:
 

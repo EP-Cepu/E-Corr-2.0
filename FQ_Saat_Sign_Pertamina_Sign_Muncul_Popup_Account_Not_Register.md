@@ -8,7 +8,7 @@
 
 ![gambar](FAQ/02ANR.png)
 
-2. Login ke aplikasi P-Office kemudian pilih My personal pada pojok kanan atas.
+2. Login ke aplikasi E-Corr kemudian pilih My personal pada pojok kanan atas.
 
 ![gambar](FAQ/03ANR.png)
 

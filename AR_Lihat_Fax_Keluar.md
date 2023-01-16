@@ -7,7 +7,7 @@
 
 *User* dapat melihat dokumen fax keluar pada menu Archive.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar dokumem Fax keluar via Web adalah sebagai berikut :
 
@@ -17,7 +17,7 @@ Langkah - langkah untuk melihat daftar dokumem Fax keluar via Web adalah sebagai
 
  2. Sistem menampilkan dokumen fax masuk yang tersimpan di menu Archive
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat daftar dokumem Fax keluar via Teams adalah sebagai berikut :
 
@@ -27,7 +27,7 @@ Langkah - langkah untuk melihat daftar dokumem Fax keluar via Teams adalah sebag
 
 2.  Sistem menampilkan dokumen fax keluar yang tersimpan di menu Archive
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk melihat daftar dokumem Fax keluar via Android dan iOS adalah sebagai berikut :
 

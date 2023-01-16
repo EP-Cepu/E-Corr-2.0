@@ -4,7 +4,7 @@
 
 *User* dapat menambahkan reviewer kemudian surat keluar akan diteruskan ke reviewer baru.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai berikut :
 
@@ -28,7 +28,7 @@ Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai be
 
 ![gambar](SuratKeluar/SK_Web/02SK51.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tambah reviwer baru via Teams adalah sebagai berikut :
 
@@ -52,7 +52,7 @@ Langkah - langkah untuk tambah reviwer baru via Teams adalah sebagai berikut :
  
 ![gambar](SuratKeluar/SK_Teams/SK53.png)
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk menambahkan Reviewer baru surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 

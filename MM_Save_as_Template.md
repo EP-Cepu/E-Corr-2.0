@@ -4,7 +4,7 @@
 
 User dapat menyimpan memorandum sebagai *template*. *Template* ini digunakan jika sewaktu-waktu *user* akan melanjutkan memorandum yang sudah dibuat dan diubah kembali kemudian dikirimkan kepejabat tujuan tanpa harus mengisi *form* memorandum. Langkah - langkah untuk menyimpan memorandum sebagai *template* adalah sebagai berikut
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk save as template memorandum via Web adalah sebagai berikut :
 
@@ -26,7 +26,7 @@ Langkah-langkah untuk save as template memorandum via Web adalah sebagai berikut
 
 5. Lakukan perubahan pada surat, klik **Save as Draft** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Direct"** sebagai draft atau klik **Modify Document** lalu pilih **Send Documnet** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Direct"**.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk save as template memorandum via Teams adalah sebagai berikut :
 
@@ -48,7 +48,7 @@ Langkah-langkah untuk save as template memorandum via Teams adalah sebagai berik
 
 5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Memorandum"**.
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Langkah-langkah untuk menyimpan memorandum sebagai template via Android adalah sebagai berikut:
 

@@ -5,7 +5,7 @@
 
 _User_ dapat melakukan _custom_ penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara _default_ pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat _case_ jika _user_ membutuhkan _custom_ penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melakukan Custom disposisi memorandum via Web adalah sebagai berikut
 
@@ -33,7 +33,7 @@ Langkah-langkah untuk melakukan Custom disposisi memorandum via Web adalah sebag
 
 ![gambar](Memorandum/MM_Web/02MM-71.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk Custom disposisi Memorandum via Teams adalah sebagai berikut :
 
@@ -61,7 +61,7 @@ Langkah-langkah untuk Custom disposisi Memorandum via Teams adalah sebagai berik
 
 ![gambar](Memorandum/MM_Teams/MM69.png)
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk Custom disposisi Memorandum via Android dan iOS adalah sebagai berikut :
 

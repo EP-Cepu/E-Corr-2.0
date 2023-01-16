@@ -5,7 +5,7 @@
 
 *User* dapat menambahkan komentar pada field komentar yang disediakan pada detail pengajuan nomor offline. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambahkan komentar via Web adalah sebagai berikut
 
@@ -27,7 +27,7 @@ Langkah - langkah untuk menambahkan komentar via Web adalah sebagai berikut
 4. Sistem menyimpan perubahan dan *user* dapat saling berkomentar pada detail nomor offline
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk menambahkan nomor offline via Teams adalah sebagai berikut:
 

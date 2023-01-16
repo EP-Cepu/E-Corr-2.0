@@ -1,13 +1,13 @@
-- Admin P-Office
+- Admin E-Corr
 
-Admin P-Office dapat mengelola tempat/lokasi yang digunakan dalam penginputan form surat. Pengelolaan data master lokasi yang dilakukan admin P-Office antara lain adalah sebagai berikut :
+Admin E-Corr dapat mengelola tempat/lokasi yang digunakan dalam penginputan form surat. Pengelolaan data master lokasi yang dilakukan admin E-Corr antara lain adalah sebagai berikut :
 
 - Mencari data master tempat
 - Menambah data master tempat
 - Mengubah data master tempat
 - Menghapus data master tempat
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk pengelolaan tempat/lokasi surat via Web adalah sebagai berikut:
 

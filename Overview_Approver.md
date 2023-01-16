@@ -1,5 +1,5 @@
-Pada bagian ini akan dijelaskan mengenai role sebagai *approver* dalam aplikasi P-Office berkaitan dengan Surat Masuk, Surat Keluar, Memorandum, Fax Masuk, Fax Keluar, SP3S dan SPPTH. _Approver_ adalah role yang diberikan kepada pejabat pemilik KBO yang bertindak dan diberikan kewenangan untuk melakukan proses persetujuan terhadap sebuah surat yang dibuat oleh konseptor untuk disetujui dan diberikan tandatangan.
-Berikut adalah role _**approver**_ dalam aplikasi P-Office antara lain adalah sebagai berikut:
+Pada bagian ini akan dijelaskan mengenai role sebagai *approver* dalam aplikasi E-Corr berkaitan dengan Surat Masuk, Surat Keluar, Memorandum, Fax Masuk, Fax Keluar, SP3S dan SPPTH. _Approver_ adalah role yang diberikan kepada pejabat pemilik KBO yang bertindak dan diberikan kewenangan untuk melakukan proses persetujuan terhadap sebuah surat yang dibuat oleh konseptor untuk disetujui dan diberikan tandatangan.
+Berikut adalah role _**approver**_ dalam aplikasi E-Corr antara lain adalah sebagai berikut:
 
 ### **Surat Masuk**
 

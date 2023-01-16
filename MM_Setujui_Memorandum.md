@@ -5,7 +5,7 @@ Role yang sesuai
 
 *User* dapat menyetujui memorandum yang sudah dilakukan review dan memorandum akan dikirimkan ke *reviewer* selanjutnya atau *approver*. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui memorandum **via Web**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
 
@@ -24,7 +24,7 @@ Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui m
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
 
@@ -42,7 +42,7 @@ Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Direct**
 
-## **P-Office Versi Android**
+## **E-Corr Versi Android**
 
 Berikut ini terdapat langkah - langkah untuk menyetujui memorandum **via Mobile**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
 

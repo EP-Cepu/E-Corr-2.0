@@ -6,7 +6,7 @@
 
 *User* dapat melihat daftar memorandum pada pada menu **Inbox, Draft atau Sent Item** pada masing - masing akun. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 langkah untuk melihat daftar memorandum via Web adalah sebagai berikut
 
@@ -14,7 +14,7 @@ langkah untuk melihat daftar memorandum via Web adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Web/02MM-1.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah-langkah untuk melihat daftar memorandum via Teams adalah sebagai berikut :
 
@@ -22,7 +22,7 @@ Langkah-langkah untuk melihat daftar memorandum via Teams adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Teams/MM01.png)
 
-## **P-Office Versi Android & IOS**
+## **E-Corr Versi Android & IOS**
 
 Langkah-langkah untuk melihat daftar memorandum via Android adalah sebagai berikut :
 

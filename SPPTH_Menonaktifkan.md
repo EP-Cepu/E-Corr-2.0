@@ -5,7 +5,7 @@
 
 SPPTH yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa jabatan pejabat yang sedang di PTH-kan.  Namun, apabila pejabat definitif kembali bekerja sebelum masa PTH nya habis, maka pejabat tersebut harus menon-aktifkan SPPTH yang berlaku dengan cara sebagai berikut:
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menonaktifkan SPPTH via Web adalah sebagai berikut :
 
@@ -19,7 +19,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Web adalah sebagai berikut :
 
 3. SPPTH yang sudah tidak aktif akan tersimpan di menu "**Sent Item**" *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu "**Inbox**".
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk menonaktifkan SPPTH via Teams adalah sebagai berikut :
 
@@ -33,7 +33,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Teams adalah sebagai berikut :
 
 3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Sent Item – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SPPTH”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk menonaktifkan SPPTH via Android dan iOS adalah sebagai berikut :
 

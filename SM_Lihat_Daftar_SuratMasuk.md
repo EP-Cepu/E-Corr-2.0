@@ -9,7 +9,7 @@
 
  _User_ dapat melihat daftar surat masuk yang ditujukan pada sekretaris tersebut. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melihat daftar surat masuk via Web adalah sebagai berikut:
 
@@ -18,7 +18,7 @@ Langkah-langkah untuk melihat daftar surat masuk via Web adalah sebagai berikut:
 ![gambar](SuratMasuk/SM_Web/02SM01.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat surat masuk via Teams adalah sebagai berikut :
 
@@ -27,7 +27,7 @@ Langkah - langkah untuk melihat surat masuk via Teams adalah sebagai berikut :
 ![gambar](SuratMasuk/SM_Teams/SM01.png)
 
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat daftar surat masuk via Android adalah sebagai berikut :
 

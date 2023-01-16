@@ -34,7 +34,7 @@ Kendala tersebut terjadi saat user melakukan scan barcode untuk registasi P-Sign
 
 ![gambar](FAQ/E29.jpg)
 
-7.	Selanjutnya masuk ke P-Office, klik logo profil di pojok kanan atas lalu pilih **My personal**.
+7.	Selanjutnya masuk ke E-Corr, klik logo profil di pojok kanan atas lalu pilih **My personal**.
 
 ![gambar](FAQ/E30.jpg)
 

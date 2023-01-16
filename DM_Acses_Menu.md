@@ -2,11 +2,11 @@
 
 
 
-- Admin P-Office
+- Admin E-Corr
 
 
 
-Admin P-Office dapat mengelola akses menu yang digunakan dalam dalam pemberian hak akses pada setiap role-nya. Pengelolaan akses menu yang dilakukan admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola akses menu yang digunakan dalam dalam pemberian hak akses pada setiap role-nya. Pengelolaan akses menu yang dilakukan admin E-Corr antara lain yaitu
 
 
 
@@ -20,7 +20,7 @@ Admin P-Office dapat mengelola akses menu yang digunakan dalam dalam pemberian h
 
 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 
 

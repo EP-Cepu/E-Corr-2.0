@@ -25,7 +25,7 @@
 ![gambar](FaxKeluar/FK_Web/02FK49.png)
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tambah reviewer via Teams adalah sebagai berikut:
 
@@ -50,7 +50,7 @@ Langkah - langkah untuk tambah reviewer via Teams adalah sebagai berikut:
 ![gambar](FaxKeluar/FK_Teams/FK53.png) 
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk tambah reviewer via Android dan iOS adalah sebagai berikut:
 

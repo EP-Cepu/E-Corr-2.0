@@ -1,13 +1,13 @@
 **Role yang sesuai**
 
-- Admin P-Office
+- Admin E-Corr
 
-Admin P-Office dapat mengelola grup akses untuk pemberian kewenangan pada setiap role-nya. Akses menu ditambahkan kemudian admin P-Office akan melakukan _grouping_ untuk setiap grup akses. Pengelolaan grup akses yang dilakukan admin P-Office antara lain yaitu
+Admin E-Corr dapat mengelola grup akses untuk pemberian kewenangan pada setiap role-nya. Akses menu ditambahkan kemudian admin E-Corr akan melakukan _grouping_ untuk setiap grup akses. Pengelolaan grup akses yang dilakukan admin E-Corr antara lain yaitu
 
 - Mencari grup akses
 - Menambah grup akses untuk setiap role
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan pengelolaan grup akses via Web adalah sebagai berikut :
 

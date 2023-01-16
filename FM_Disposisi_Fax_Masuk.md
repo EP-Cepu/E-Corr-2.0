@@ -5,7 +5,7 @@
 
 *User* menerima fax masuk baru di menu **"Inbox - Fax Masuk"**. Fax masuk dapat didisposisikan kepada pejabat yang dipilih atau pejabat yang ada dibawahnya. Disposisi fax masuk dapat dilakukan dengan dua cara yaitu melalui menu **Inbox** jika fax masuk yang diterima merupakan surat masuk yang ditujukan langsung dari sekretaris ke pejabat pemilik KBOnya atau melalui menu **Disposisi** jika fax masuk sudah dilakukan tindak lanjut oleh pejabat pemilik KBO dan pemilik KBO akan mendisposisikan ke pejabat selanjutnya atau pejabat yang ada dibawahnya. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut:
 
@@ -49,7 +49,7 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 5. Klik **Save as Draf** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Disposisi"** dan berlabel Fax Masuk. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"** dan berlabel Fax Masuk.
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
 
@@ -95,7 +95,7 @@ Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
 
 5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk mendisposisikan fax masuk adalah sebagai berikut :
 

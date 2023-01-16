@@ -23,7 +23,7 @@
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**
 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk kembalikan kesebelumnya via Teams adalah sebagai berikut:
 
@@ -43,7 +43,7 @@ Langkah - langkah untuk kembalikan kesebelumnya via Teams adalah sebagai berikut
 
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 
 Langkah - langkah untuk kembalikan kesebelumnya via Android dan iOS adalah sebagai berikut:

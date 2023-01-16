@@ -7,7 +7,7 @@
 
 *User* dapat melihat informasi lengkap fax masuk termasuk *preview* fax masuk, detail fax masuk, *tracking* fax masuk dan *history* fax masuk. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat informasi fax masuk via Web adalah sebagai berikut :
 
@@ -39,7 +39,7 @@ Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jaba
 
 ![gambar](FaxMasuk/FM_WEB/02HistoryFM01.png) 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat informasi fax masuk via Teams adalah sebagai berikut:
 
@@ -73,7 +73,7 @@ Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jaba
 
 ![gambar](FaxMasuk/FM_Teams/FM46.png)
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk melihat informasi fax masuk adalah sebagai berikut :
 

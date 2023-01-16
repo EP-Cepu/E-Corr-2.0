@@ -2,9 +2,9 @@
 
 - *Member User* (Pekerja)
 
-*Member User* dapat menambah fax keluar pada aplikasi P-Office.
+*Member User* dapat menambah fax keluar pada aplikasi E-Corr.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambah fax keluar via Web adalah sebagai berikut :
 
@@ -74,7 +74,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Sent Item - Fax keluar"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tambah fax keluar via Teams adalah sebagai berikut:
 
@@ -145,7 +145,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Sent Item - Fax keluar"**
 
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk tambah fax keluar via Android dan iOS adalah sebagai berikut:
 

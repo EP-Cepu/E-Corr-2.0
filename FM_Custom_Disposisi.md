@@ -5,7 +5,7 @@
 
 *User* dapat melakukan *custom* penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara *default* pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat *case* jika *user* membutuhkan *custom* penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk melakukan custom disposisi fax masuk Web adalah sebagai berikut :
 
@@ -33,7 +33,7 @@ Langkah-langkah untuk melakukan custom disposisi fax masuk Web adalah sebagai be
 
 ![gambar](FaxMasuk/FM_WEB/02CustomDisposisi06.png) 
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk custom disposisi fax masuk via Teams adalah sebagai berikut:
 
@@ -61,7 +61,7 @@ Langkah - langkah untuk custom disposisi fax masuk via Teams adalah sebagai beri
 
 ![gambar](FaxMasuk/FM_Teams/FM38.png)
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk Custom Disposisi fax masuk via Android dan iOS adalah sebagai berikut :
 

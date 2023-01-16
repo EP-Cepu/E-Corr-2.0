@@ -1,9 +1,9 @@
-**Request Akses P-Office 1.0**
+**Request Akses E-Corr 1.0**
 
-Permasalahan ini terjadi ketika user meminta untuk dibukakan akses ke P-Office 1.0. Sebelum akses dapat diberikan, user harus memberikan informasi yang diperlukan untuk dapat dibukakan aksesnya ke P-Office 1.0. Informasi yang diperlukan antara lain:
-akun, company code tujuan, jabatan tujuan, lama periode akses, serta melampirkan persetujuan atasan jabatan yang dituju (dapat berupa email approval). Untuk informasi company code tujuan dan jabatan tujuan adalah data user sebelum endstate ke P-Office 2.0.
+Permasalahan ini terjadi ketika user meminta untuk dibukakan akses ke E-Corr 1.0. Sebelum akses dapat diberikan, user harus memberikan informasi yang diperlukan untuk dapat dibukakan aksesnya ke E-Corr 1.0. Informasi yang diperlukan antara lain:
+akun, company code tujuan, jabatan tujuan, lama periode akses, serta melampirkan persetujuan atasan jabatan yang dituju (dapat berupa email approval). Untuk informasi company code tujuan dan jabatan tujuan adalah data user sebelum endstate ke E-Corr 2.0.
 
-Untuk mengatasi permasalahan tersebut, user harus melengkapi informasi yang diperlukan untuk dapat diisikan ke bagian Extension Attributes. Berikut langkah-langkah untuk setting akses P-Office 1.0:
+Untuk mengatasi permasalahan tersebut, user harus melengkapi informasi yang diperlukan untuk dapat diisikan ke bagian Extension Attributes. Berikut langkah-langkah untuk setting akses E-Corr 1.0:
 
 1. Pastikan sudah mendapat info detail akun user, company code tujuan , jabatan tujuan, dan lama periode akses.
 2. Buka Aplikasi Idaman, kemudian cari akun user dengan klik Menu Users > isikan nama atau email user di kolom search > enter > klik 2 kali.
@@ -54,7 +54,7 @@ d. Isikan akhir periode akses pada kolom accessDurationEnd ( Format YYMMDD ) .
 
 ![gambar](FAQ/10RPV1.png)
 
-12. Kemudian klik dropdown Application dan pilih P-office 1.0.
+12. Kemudian klik dropdown Application dan pilih E-Corr 1.0.
 
 ![gambar](FAQ/11RPV1.png)
 

@@ -26,7 +26,7 @@ Permasalah tersebut terjadi karena position id pada idaman kosong.
 
 ![gambar](FAQ/06EAW.png)
 
-7.	Buka aplikasi P-office lalu pilih menu **Master-Resource-Data-User-Search by display name**
+7.	Buka aplikasi E-Corr lalu pilih menu **Master-Resource-Data-User-Search by display name**
 
 ![gambar](FAQ/07EAW.png)
 
@@ -42,7 +42,7 @@ Permasalah tersebut terjadi karena position id pada idaman kosong.
 
 ![gambar](FAQ/09EAW.png)
 
-4.	Pastikan data sudah terupdate di P-office sesuai dengan data di Idaman
+4.	Pastikan data sudah terupdate di E-Corr sesuai dengan data di Idaman
 
 
 

@@ -1,6 +1,6 @@
 <font size="3">
 
-Permasalahan tersebut terjadi karena faktor data user pada aplikasi Idaman belum *sync* di P-Office 2.0, sehingga harus melakukan pengecekan pada aplikasi Idaman kemudian pilih **Update Profile** dan pilih **Allow sync** menjadi **Yes**
+Permasalahan tersebut terjadi karena faktor data user pada aplikasi Idaman belum *sync* di E-Corr 2.0, sehingga harus melakukan pengecekan pada aplikasi Idaman kemudian pilih **Update Profile** dan pilih **Allow sync** menjadi **Yes**
 
 - Untuk mengatasi permasalahan tersebut user harus melakukan *setting* pada aplikasi Idaman - **Update Profile**. Berikut langkah-langkah melakukan *setting* pada aplikasi Idaman :
 
@@ -17,7 +17,7 @@ Permasalahan tersebut terjadi karena faktor data user pada aplikasi Idaman belum
 
 ![gambar](FAQ/03UTT.png)
 
-5.	Maka data user sudah terdapat di P-office 2.0 dan untuk memastikan, buka aplikasi P-office 2.0, lalu pilih menu **Master-Resource**
+5.	Maka data user sudah terdapat di E-Corr 2.0 dan untuk memastikan, buka aplikasi E-Corr 2.0, lalu pilih menu **Master-Resource**
 
 ![gambar](FAQ/04UTT.png)
 

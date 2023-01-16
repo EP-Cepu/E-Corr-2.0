@@ -6,7 +6,7 @@
 
 *User* dapat melihat informasi lengkap SPPTH termasuk *preview* SPPTH, detail SPPTH dan *history* SPPTH.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat informasi SPPTH via Web adalah sebagai berikut :
 
@@ -32,7 +32,7 @@ Pada tab **History**, ditampilkan riwayat SPPTH yang terdapat informasi jabatan,
 
 ![gambar](SPPTH/SPPTH_Web/02TH28.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk lihat informasi SPPTH via Teams adalah sebagai berikut :
 
@@ -60,7 +60,7 @@ Pada tab **History** SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi ja
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH29.png)
 
-## **P-Office Versi Mobile (Android dan iOS)**
+## **E-Corr Versi Mobile (Android dan iOS)**
 
 Langkah - langkah untuk melihat informasi SPPTH via Android dan iOS adalah sebagai berikut :
 

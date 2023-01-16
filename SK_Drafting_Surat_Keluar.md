@@ -2,10 +2,10 @@
 
 - *Member User* (Pekerja)
 
-*User* dapat melakukan *drafting* surat keluar pada aplikasi P-Office. *Drafting* surat keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada surat keluar yang sudah disimpan pada menu **Draft**.
+*User* dapat melakukan *drafting* surat keluar pada aplikasi E-Corr. *Drafting* surat keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada surat keluar yang sudah disimpan pada menu **Draft**.
 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan **Drafting** surat keluar via Web adalah sebagai berikut :
 
@@ -63,7 +63,7 @@ Langkah - langkah untuk mengubah isi surat keluar secara *online* adalah sebagai
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Surat Keluar"**
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk **Drafting** surat keluar via Teams adalah sebagai berikut :
 
@@ -131,7 +131,7 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut :
 
 2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk **Drafting** surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 
@@ -170,7 +170,7 @@ Langkah – langkah untuk mengubah isi surat keluar secara _online_ adalah sebag
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/02U01.png)
 
-2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up  P-Office Editing Document pilih **Yes**
+2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up  E-Corr Editing Document pilih **Yes**
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/02U03.png)
 

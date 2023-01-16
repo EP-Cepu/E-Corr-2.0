@@ -4,9 +4,9 @@
 - *Reviewer User*
 - Sekretaris
 
-*User* dapat melakukan *drafting* SPPTH pada aplikasi P-Office. *Drafting* SPPTH dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SPPTH yang sudah disimpan pada menu **Draft.**
+*User* dapat melakukan *drafting* SPPTH pada aplikasi E-Corr. *Drafting* SPPTH dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SPPTH yang sudah disimpan pada menu **Draft.**
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melakukan drafting SPPTH via Web adalah sebagai berikut :
 
@@ -74,7 +74,7 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Sent Item**"
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk drafting SPPTH via Teams adalah sebagai berikut :
 
@@ -142,7 +142,7 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Sent Item - SPPTH”**
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk Draftting SPPTH via Android dan iOS adalah sebagai berikut :
 
@@ -176,7 +176,7 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/02U01.jpg) 
 
-2. Lakukan perubahan pada isi surat. lalu sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
+2. Lakukan perubahan pada isi surat. lalu sistem akan menampilkan pop up E-Corr Editing Document pilih **Yes**
 
 ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/02U02.jpg)
 

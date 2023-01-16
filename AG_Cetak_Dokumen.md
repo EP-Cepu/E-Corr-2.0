@@ -4,7 +4,7 @@
 
 Sekretaris dapat melakukan filter informasi yang akan tampil pada agenda kendali terhadap surat-surat pejabat atasan
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah-langkah untuk filter data surat pada agenda kendali via Web adalah sebagai berikut:
 

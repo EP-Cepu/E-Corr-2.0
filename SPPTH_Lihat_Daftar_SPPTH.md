@@ -6,7 +6,7 @@
 
 *User* dapat melihat daftar SPPTH pada pada menu **Inbox, Draft atau Sent Item** pada masing - masing akun. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat daftar SPPTH via Web adalah sebagai berikut
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk melihat daftar SPPTH via Web adalah sebagai berikut
 
 ![gambar](SPPTH/SPPTH_Web/02TH01b.png)
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk lihat daftar SPPTH via Teams adalah sebagai berikut :
 
@@ -30,7 +30,7 @@ Langkah - langkah untuk lihat daftar SPPTH via Teams adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH01.png)
 
-## **P-Office Versi Mobile (Android & iOS)**
+## **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk lihat daftar SPPTH via Android dan iOS adalah sebagai berikut :
 

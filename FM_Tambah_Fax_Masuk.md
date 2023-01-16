@@ -2,9 +2,9 @@
 
 - Sekretaris
 
-Sekretaris dapat menambah fax masuk pada aplikasi P-Office.
+Sekretaris dapat menambah fax masuk pada aplikasi E-Corr.
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk menambah fax masuk via Web adalah sebagai berikut :
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk menambah fax masuk via Web adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk tambah fax masuk via Teams adalah sebagai berikut:
 
@@ -42,7 +42,7 @@ Langkah - langkah untuk tambah fax masuk via Teams adalah sebagai berikut:
 
 4. Sistem berhasil menyimpan perubahan
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah-langkah untuk menambah fax masuk via Android dan iOS adalah sebagai berikut :
 

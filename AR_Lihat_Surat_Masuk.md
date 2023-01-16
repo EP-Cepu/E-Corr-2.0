@@ -7,7 +7,7 @@
 
 *User* dapat melihat dokumen surat masuk pada menu Archive. 
 
-## **P-Office Versi Web**
+## **E-Corr Versi Web**
 
 Langkah - langkah untuk melihat dokumen surat masuk via Web adalah sebagai berikut :
 
@@ -17,7 +17,7 @@ Langkah - langkah untuk melihat dokumen surat masuk via Web adalah sebagai berik
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 
-## **P-Office Versi Teams**
+## **E-Corr Versi Teams**
 
 Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams adalah sebagai berikut :
 
@@ -27,7 +27,7 @@ Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams adalah seba
 
 2.  Sistem menampilkan dokumen surat masuk yang tersimpan di menu _Archive_
 
-## **P-Office Versi Android dan iOS**
+## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Android dan iOS adalah sebagai berikut :
 
