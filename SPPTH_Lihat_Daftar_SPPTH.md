@@ -22,13 +22,7 @@ Langkah - langkah untuk melihat daftar SPPTH via Web adalah sebagai berikut
 
 ![gambar](SPPTH/SPPTH_Web/02TH01b.png)
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk lihat daftar SPPTH via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **SPPTH**
-
-![gambar](SPPTH/SPPTH_Teams/SPPTH01.png)
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

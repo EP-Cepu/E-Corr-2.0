@@ -19,19 +19,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Web adalah sebagai berikut :
 
 3. SPPTH yang sudah tidak aktif akan tersimpan di menu "**Sent Item**" *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu "**Inbox**".
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk menonaktifkan SPPTH via Teams adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **SPPTH**
-
-![gambar](SPPTH/SPPTH_Teams/SPPTH48.png)
- 
-2.	Pilih SPPTH yang akan dinon-aktifkan kemudian pilih icon **Disable**.
-
-![gambar](SPPTH/SPPTH_Teams/SPPTH49.png)
-
-3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Sent Item – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SPPTH”**
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

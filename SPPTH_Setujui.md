@@ -22,23 +22,6 @@ Langkah - langkah untuk menyetujui SPPTH via Web adalah sebagai berikut
 
 4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item**
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk setujui SPPTH via Teams adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **SPPTH**
-
-![gambar](SPPTH/SPPTH_Teams/SPPTH30.png)
- 
-2.	Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**
-
-![gambar](SPPTH/SPPTH_Teams/SPPTH31.png)
- 
-3.	Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](SPPTH/SPPTH_Teams/SPPTH32.png)
-
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu Sent Item – SPPTH
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

@@ -16,12 +16,4 @@ Langkah - langkah untuk riwayat SPPTH via Web adalah sebagai berikut :
 
 2. Sistem menampilkan riwayat SPPTH
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk riwayat SPPTH via Teams adalah sebagai berikut :
-
-1.	Klik menu **History** dan pilih tab **SPPTH**
-
-![gambar](SPPTH/SPPTH_Teams/SPPTH50.png)
- 
-2.	Sistem menampilkan riwayat SPPTH
