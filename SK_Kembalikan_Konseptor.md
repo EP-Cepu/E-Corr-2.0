@@ -23,23 +23,6 @@ Langkah - langkah untuk mengembalikan surat keluar ke konseptor via Web adalah s
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar** dan konseptor akan menerima surat keluar di menu **Draft - Surat Keluar**
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk kembalikan konseptor via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Teams/SK43.png)
-
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](SuratKeluar/SK_Teams/SK44.png)
-
-3. Klik tombol **Return Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
- 
-![gambar](SuratKeluar/SK_Teams/SK45.png)
-
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

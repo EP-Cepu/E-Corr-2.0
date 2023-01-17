@@ -28,29 +28,7 @@ Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai be
 
 ![gambar](SuratKeluar/SK_Web/02SK51.png)
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk tambah reviwer baru via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
- 
-![gambar](SuratKeluar/SK_Teams/SK49.png)
-
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
- 
-![gambar](SuratKeluar/SK_Teams/SK50.png)
-
-1. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol “+” pada field **Add Reviewer**
- 
-![gambar](SuratKeluar/SK_Teams/SK51.png)
-
-4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
- 
-![gambar](SuratKeluar/SK_Teams/SK52.png)
-
-1. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **“Inbox – Surat Keluar”**
- 
-![gambar](SuratKeluar/SK_Teams/SK53.png)
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

@@ -28,31 +28,9 @@ Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk selesaikan surat masuk via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Surat masuk**
-
-![gambar](SuratMasuk/SM_Teams/SM20.png)
-
-2. Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Detail**
-
-![gambar](SuratMasuk/SM_Teams/SM21.png)
 
 
-3. Pilih tombol **Finish** kemudian klik **Send**
-
-![gambar](SuratMasuk/SM_Teams/SM22.png)
-
-4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan selesaikan disposisi kemudian klik **Save**
-
-![gambar](SuratMasuk/SM_Teams/SM23.png)
-
-5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
-
-
-## **E-Corr Versi Android**
+## **E-Corr Versi (Android & iOS)**
 
 Langkah - langkah untuk menyelesaikan surat masuk menu via Android adalah sebagai berikut :
 

@@ -22,23 +22,7 @@
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **Rejected document** label **Surat Keluar** user penolak dengan label **Rejected**
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk tolak surat keluar via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Teams/SK46.png)
-
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](SuratKeluar/SK_Teams/SK47.png)
-
-3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](SuratKeluar/SK_Teams/SK48.png)
- 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

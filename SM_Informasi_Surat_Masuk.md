@@ -42,41 +42,6 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk Informasi surat masuk via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Masuk**. Pilih salah satu surat masuk yang akan dilihat informasinya
-
-![gambar](SuratMasuk/SM_Teams/SM10.png)
-
-####   **Preview Surat Masuk**
-
-Pada button **Preview**, ditampilkan preview surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
-
-![gambar](SuratMasuk/SM_Teams/SM11.png)
-
-![gambar](SuratMasuk/SM_Teams/SM12.png)
-
-####   **Detail Surat Masuk**
-
-Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
-
-![gambar](SuratMasuk/SM_Teams/SM13.png)
-
-####   **Tracking Surat Masuk**
-
-Pada tab **Tracking**, ditampilkan informasi tracking surat masuk dalam bentuk chart
-
-![gambar](SuratMasuk/SM_Teams/SM14.png)
-
-####   **History Surat Masuk**
-
-Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](SuratMasuk/SM_Teams/SM15.png)
-
-
 # **E-Corr Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat informasi surat masuk via Mobile (Android & iOS) adalah sebagai berikut:

@@ -22,22 +22,8 @@ Langkah - langkah untuk recall disposisi surat masuk via Web adalah sebagai beri
 3.    Surat masuk yang sudah di-_recall_ akan tersimpan di menu "**Draft - Disposisi**" pendisposisi jika memilih Save As Draft
 
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk recall disposisi via Teams adalah sebagai berikut :
-
-1. Klik menu **Sent Item** dan pilih tab **Disposisi**
-
-![gambar](SuratMasuk/SM_Teams/SM47.png)
-
-2. Pilih surat masuk yang akan direcall kemudian klik tab **Detail** kemudian klik **Recall**
-
-![gambar](SuratMasuk/SM_Teams/SM48.png)
-
-3.    Surat masuk yang sudah di-_recall_ akan tersimpan di menu "**Draft - Disposisi**" pendisposisi
-
-
-## **E-Corr Versi Android**
+c
 
 Langkah - langkah untuk recall disposisi surat masuk via Android adalah sebagai berikut :
 

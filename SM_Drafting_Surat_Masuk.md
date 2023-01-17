@@ -24,26 +24,6 @@ Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 4.	  Lakukan perubahan pada _form_. Klik **Send Document** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Sent Item - Surat Masuk"**
 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
-
-
-1. Klik menu **Draft** dan pilih tab **Surat Masuk**
-
-![gambar](SuratMasuk/SM_Teams/SM06.png)
-
-2. Pilih surat masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
-
-![gambar](SuratMasuk/SM_Teams/SM07.png)
-
-3. Sistem akan menampilkan _form_ **Edit Correspondence**
-
-![gambar](SuratMasuk/SM_Teams/SM08.png)
-
-![gambar](SuratMasuk/SM_Teams/SM09.png)
-
-4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Surat Masuk”**
 
 
 # **E-Corr Versi Mobile (Android & iOS)**

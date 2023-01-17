@@ -37,32 +37,6 @@ Berikut ini video tutorial yang menjelaskan langkah-langkah untuk mengesahkan su
 7. Surat keluar yang sudah disetujui akan tersimpan di menu **"Sent Item - Surat Keluar"** pengirim
 
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk mengesahkan surat keluar via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox-Direct** dan pilih tab **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Teams/SK54.png)
-
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail**
- 
-![gambar](SuratKeluar/SK_Teams/SK55.png)
-
-3. Klik **Approve** kemudian pilih **Send**
- 
-![gambar](SuratKeluar/SK_Teams/SK56.png)
-
-4. Pilih tandatangan menggunakan Peruri/BSSN/tanpa DS, Sistem akan menampilkan form Validation of Digital Signature
-
-![gambar](SuratKeluar/SK_Teams/SKN1.png)
- 
-5. Kemudian isikan NIK dan PassPhrase untuk BSSN atau masukan kode OTP untuk tandatangan menggunakan Peruri pada form E-Corr kemudian klik **Sign**
- 
-![gambar](SuratKeluar/SK_Teams/SKN2.png)
-
-6.	Surat keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Surat keluar”** pengirim
-
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

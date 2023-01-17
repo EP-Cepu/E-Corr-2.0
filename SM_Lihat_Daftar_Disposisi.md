@@ -16,13 +16,6 @@ Langkah - langkah untuk melihat daftar disposisi surat masuk via Web adalah seba
 ![gambar](SuratMasuk/SM_Web/02SM21.png)
 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk melihat daftar disposisi via Teams adalah sebagai berikut :
-
-1.	Klik menu **Disposition** dan pilih tab **Surat Masuk**
-
-![gambar](SuratMasuk/SM_Teams/SM24.png)
 
 
 ## **E-Corr Versi Mobile (Android & iOS)**

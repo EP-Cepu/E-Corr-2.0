@@ -39,39 +39,7 @@ Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi j
 
 ![gambar](SuratKeluar/SK_Web/02SK34.png)
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk melihat informasi surat keluar via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab Surat Keluar. Pilih salah satu surat keluar yang akan dilihat informasinya
-
-![gambar](SuratKeluar/SK_Teams/SK31.png)
-
-#### **Preview Surat Keluar**
-
-Pada button **Preview**, ditampilkan preview surat keluar yang sudah dibuat. Preview surat keluar disesuaikan dengan template berdasarkan jenis surat.
-  
-![gambar](SuratKeluar/SK_Teams/SK32.png)
-  
-![gambar](SuratKeluar/SK_Teams/SK33.png)
-
-#### **Detail Surat Keluar**
-
-Pada tab Detail surat keluar, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan reviewer
-  
-![gambar](SuratKeluar/SK_Teams/SK34.png)
-  
-#### **Tracking Surat Keluar**
-
-Pada tab **Tracking**, ditampilkan informasi tracking surat keluar dalam bentuk chart
-  
-![gambar](SuratKeluar/SK_Teams/SK35.png)
-
-#### **History Surat Keluar**
-
-Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-  
-![gambar](SuratKeluar/SK_Teams/SK36.png)
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

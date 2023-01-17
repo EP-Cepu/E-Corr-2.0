@@ -18,13 +18,6 @@ Langkah-langkah untuk melihat daftar surat masuk via Web adalah sebagai berikut:
 ![gambar](SuratMasuk/SM_Web/02SM01.png)
 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk melihat surat masuk via Teams adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **Surat Masuk**. Sistem akan menampilkan daftar surat masuk yang ditujukan pada suatu user
- 
-![gambar](SuratMasuk/SM_Teams/SM01.png)
 
 
 ## **E-Corr Versi Mobile (Android & iOS)**

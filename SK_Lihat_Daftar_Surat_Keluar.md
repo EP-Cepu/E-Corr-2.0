@@ -15,13 +15,7 @@ Langkah - langkah untuk melihat daftar surat keluar via Web adalah sebagai berik
 
 ![gambar](SuratKeluar/SK_Web/02SK01.png)
 
-### **E-Corr Versi Teams**
 
-Langkah - langkah untuk daftar surat keluar via Teams adalah sebagai berikut :
-
-1.	Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Surat Keluar**
-
- ![gambar](SuratKeluar/SK_Teams/SK01.png)
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

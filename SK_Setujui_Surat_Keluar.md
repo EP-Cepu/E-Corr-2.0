@@ -23,23 +23,6 @@ Langkah - langkah untuk menyetujui surat keluar via Web adalah sebagai berikut
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah dikirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk setujui surat keluar via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
- 
-![gambar](SuratKeluar/SK_Teams/SK37.png)
-
-2. Pilih surat keluar yang akan ditindaklanjuti kemudian pilih tab **Detail**
- 
-![gambar](SuratKeluar/SK_Teams/SK38.png)
-
-3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
- 
-![gambar](SuratKeluar/SK_Teams/SK39.png)
-
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

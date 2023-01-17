@@ -49,49 +49,6 @@ Langkah - langkah untuk mendisposisikan surat masuk via Web adalah sebagai berik
 
 5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send Disposition** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Sent Item - Disposisi**".
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk disposisi surat masuk via Teams adalah sebagai berikut :
-
-- **Disposisi melalui Menu Inbox**
-
-1.  Klik menu **Inbox** dan pilih tab **Surat Masuk**
-
-![gambar](SuratMasuk/SM_Teams/SM25.png)
-
-2.  Pilih surat masuk yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](SuratMasuk/SM_Teams/SM26.png)
-
-3.  Klik tombol **Disposition** dan pilih **Send**
-
-![gambar](SuratMasuk/SM_Teams/SM27.png)
-
-4.  Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](SuratMasuk/SM_Teams/SM28.png)
-
-5.  Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**.
-
-- **Disposisi melalui Menu Disposisi**
-
-1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
-
-![gambar](SuratMasuk/SM_Teams/SM29.png)
-
-2. Pilih surat masuk yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](SuratMasuk/SM_Teams/SM30.png)
-
-3. Klik tombol **Disposition** dan pilih **Send**
-
-![gambar](SuratMasuk/SM_Teams/SM31.png)
-
-4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
-
-![gambar](SuratMasuk/SM_Teams/SM32.png)
-
-5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 
