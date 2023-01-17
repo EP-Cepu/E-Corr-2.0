@@ -33,8 +33,6 @@ Pada tab **History**, ditampilkan riwayat SPPTH yang terdapat informasi jabatan,
 ![gambar](SPPTH/SPPTH_Web/02TH28.png)
 
 
-![gambar](SPPTH/SPPTH_Teams/SPPTH29.png)
-
 ## **E-Corr Versi Mobile (Android dan iOS)**
 
 Langkah - langkah untuk melihat informasi SPPTH via Android dan iOS adalah sebagai berikut :
