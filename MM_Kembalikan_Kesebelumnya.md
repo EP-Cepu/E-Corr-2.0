@@ -25,23 +25,6 @@ Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah seba
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk mengembalikan Memorandum kesebelumnya via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM39.png)
-
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](Memorandum/MM_Teams/MM40.png)
-
-3. Klik tombol **Return Previous** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](Memorandum/MM_Teams/MM41.png)
-
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
 ## **E-Corr Versi Android & IOS**
 

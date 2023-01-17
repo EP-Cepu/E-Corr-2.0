@@ -33,33 +33,6 @@ Langkah-langkah untuk melakukan Custom disposisi memorandum via Web adalah sebag
 
 ![gambar](Memorandum/MM_Web/02MM-71.png)
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk Custom disposisi Memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM64.png)
-
-2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](Memorandum/MM_Teams/MM65.png)
-
-3. Klik tombol **Disposition** dan pilih **Send**
-
-![gambar](Memorandum/MM_Teams/MM66.png)
-
-4. Sistem menampilkan form disposisi. Klik icon "+" pada field **Forward To**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](Memorandum/MM_Teams/MM67.png)
-
-5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
-
-![gambar](Memorandum/MM_Teams/MM68.png)
-
-6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Save Comment For All Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
-
-![gambar](Memorandum/MM_Teams/MM69.png)
 
 ## **E-Corr Versi Android dan iOS**
 

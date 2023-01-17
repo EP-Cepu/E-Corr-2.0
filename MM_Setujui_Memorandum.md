@@ -24,23 +24,6 @@ Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui m
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum**
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM36.png)
-
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](Memorandum/MM_Teams/MM37.png)
-
-3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](Memorandum/MM_Teams/MM38.png)
-
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Direct**
 
 ## **E-Corr Versi Android**
 

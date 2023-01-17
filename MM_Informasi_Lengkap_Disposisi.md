@@ -47,43 +47,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 ![gambar](Memorandum/MM_Web/02MM-77.png)
 
-## **E-Corr Versi Teams**
 
-Langkah-langkah untuk melihat informasi disposisi memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Disposisi** dan pilih tab **Memorandum**. Pilih salah satu disposisi memorandum yang akan dilihat informasinya
-
-![gambar](Memorandum/MM_Teams/MM70.png)
-
-#### **Preview Memorandum**
-
-Pada tab **Mail**, ditampilkan preview memorandum yang sudah dibuat. Preview memorandum disesuaikan dengan template berdasarkan jenis surat
-
-![gambar](Memorandum/MM_Teams/MM71.png)
-
-#### **Preview Lembar Penerus**
-
-Pada tab **Preview** ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
-
-![gambar](Memorandum/MM_Teams/MM72.png)
-
-#### **Detail Memorandum**
-
-Pada tab Detail, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing - masing pejabat penerima disposisi
-
-![gambar](Memorandum/MM_Teams/MM73.png)
-
-#### Memorandum
-
-Pada tab **Tracking**, ditampilkan informasi _tracking_ memorandum dalam bentuk _chart_
-
-![gambar](Memorandum/MM_Teams/MM74.png)
-
-#### History Memorandum
-
-Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](Memorandum/MM_Teams/MM75.png)
 
 ## **E-Corr Versi Android dan iOS**
 

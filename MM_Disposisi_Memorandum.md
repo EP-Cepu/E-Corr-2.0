@@ -49,49 +49,6 @@ Langkah-langkah untuk mendisposisikan memorandum via Web adalah sebagai berikut
 
 5. Klik **Save a draft** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send disposition** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk mendisposisi Memorandum via Teams adalah sebagai berikut :
-
-#### **Disposisi melalui Menu Inbox**
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM56.png)
-
-2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](Memorandum/MM_Teams/MM57.png)
-
-3. Klik tombol **Disposition** dan pilih **Send**
-
-![gambar](Memorandum/MM_Teams/MM58.png)
-
-4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](Memorandum/MM_Teams/MM59.png)
-
-5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
-
-#### **Disposisi melalui Menu Inbox**
-
-1. Klik menu **Disposition** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM60.png)
-
-2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](Memorandum/MM_Teams/MM61.png)
-
-3. Klik tombol **Disposition** dan pilih **Send**
-
-![gambar](Memorandum/MM_Teams/MM62.png)
-
-4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](Memorandum/MM_Teams/MM63.png)
-
-5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ## **E-Corr Versi Android dan iOS**
 

@@ -17,17 +17,7 @@ Langkah - langkah untuk melakukan recall disposisi memorandum via Web adalah seb
 
 ![gambar](Memorandum/MM_Web/02MM-79.png)
 
-## **E-Corr Versi Teams**
 
-Langkah-langkah untuk recall Memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Sent Item** dan pilih tab **Disposisi**
-
-![gambar](Memorandum/MM_Teams/MM80.png)
-
-2. Pilih memorandum yang akan di-recall kemudian klik tab **Detail** kemudian klik ***Recall***. Memorandum yang sudah di-*recall* akan tersimpan di menu **"Draft - Disposisi"** penarik disposisi
-
-![gambar](Memorandum/MM_Teams/MM81.png)
 
 ## **E-Corr Versi Android & IOS**
 

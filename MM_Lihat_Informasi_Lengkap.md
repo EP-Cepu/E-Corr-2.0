@@ -38,39 +38,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 ![gambar](Memorandum/MM_Web/02MM-34.png)
 
-## **E-Corr Versi Teams**
 
-Langkah-langkah untuk melihat informasi memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum**. Pilih salah satu memorandum yang akan dilihat informasinya
-
-![gambar](Memorandum/MM_Teams/MM30.png)
-
-#### Preview Memorandum
-
-Pada tab **Preview**, ditampilkan *preview* memorandum yang sudah dibuat. *Preview* memorandum disesuaikan dengan template berdasarkan jenis surat
-
-![gambar](Memorandum/MM_Teams/MM31.png)
-
-![gambar](Memorandum/MM_Teams/MM32.png)
-
-#### Detail Memorandum
-
-Pada tab **Detail** terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
-
-![gambar](Memorandum/MM_Teams/MM33.png)
-
-#### Tracking Memorandum
-
-Pada tab **Tracking**, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
-
-![gambar](Memorandum/MM_Teams/MM34.png)
-
-#### History Memorandum
-
-Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](Memorandum/MM_Teams/MM35.png)
 
 ## **E-Corr Versi Android IOS**
 

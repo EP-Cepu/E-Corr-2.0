@@ -25,23 +25,6 @@ Berikut langkah - langkah approver untuk mengesahkan memorandum **via Web**. Set
 4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Direct"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Direct - pilih yang berlabel Memorandum"** penerima
    
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM53.png)
-
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-*generate* jika *user* menyetujui memorandum
-
-![gambar](Memorandum/MM_Teams/MM54.png)
-
-3. Klik **Approve** kemudian pilih **Send**
-
-![gambar](Memorandum/MM_Teams/MM55.png)
-
-1. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
 
 ## **E-Corr Versi Android & IOS**
 

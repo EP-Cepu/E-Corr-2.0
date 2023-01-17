@@ -14,13 +14,6 @@ langkah untuk melihat daftar memorandum via Web adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Web/02MM-1.png)
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk melihat daftar memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM01.png)
 
 ## **E-Corr Versi Android & IOS**
 

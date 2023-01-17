@@ -29,27 +29,7 @@ Langkah-langkah untuk menyelesaikan disposisi memorandum via Web adalah sebagai 
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
-## **E-Corr Versi Teams**
 
-Langkah-langkah untuk menyelesaikan disposisi memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM82.png)
-
-2. Pilih memorandum yang akan diselesaikan kemudian pilih tab **Detail**
-
-![gambar](Memorandum/MM_Teams/MM83.png)
-
-3. Pilih tombol **Finish** kemudian klik **Send**
-
-![gambar](Memorandum/MM_Teams/MM84.png)
-
-4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
-
-![gambar](Memorandum/MM_Teams/MM85.png)
-
-5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
 ## **E-Corr Versi Android & IOS**
 

@@ -25,27 +25,6 @@ Langkah - langkah untuk menolak memorandum adalah sebagai berikut
 
 5.	Sistem menyimpan perubahan dan disposisi memorandum yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk menolak disposisi Memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Teams/MM76.png)
-
-2. Pilih memorandum yang akan ditolak kemudian pilih tab **Detail**
-
-![gambar](Memorandum/MM_Teams/MM77.png)
-
-3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](Memorandum/MM_Teams/MM78.png)
-
-4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan tolak disposisi memorandum kemudian klik **Save**.
-
-![gambar](Memorandum/MM_Teams/MM79.png)
-
-5.	Sistem menyimpan perubahan dan disposisi memorandum yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
 ## **E-Corr Versi Android**
 
