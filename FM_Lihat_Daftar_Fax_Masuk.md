@@ -15,13 +15,6 @@ Langkah - langkah untuk melihat daftar fax masuk via Web adalah sebagai berikut 
 
 ![gambar](FaxMasuk/FM_WEB/02DaftarFM01.png) 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk melihat daftar fax masuk via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Fax Masuk**. Sistem akan menampilkan daftar fax masuk yang ditujukan pada sekretaris
-
-![gambar](FaxMasuk/FM_Teams/FM01.png)
 
 ## **E-Corr Versi Android dan iOS**
 

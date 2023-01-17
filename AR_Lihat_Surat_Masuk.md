@@ -17,15 +17,7 @@ Langkah - langkah untuk melihat dokumen surat masuk via Web adalah sebagai berik
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams adalah sebagai berikut :
-
-1. Klik menu **Archive** dan pilih submenu Surat Masuk
-
-![gambar](Archive/AR_Teams/AR01.png)
-
-2.  Sistem menampilkan dokumen surat masuk yang tersimpan di menu _Archive_
 
 ## **E-Corr Versi Android dan iOS**
 

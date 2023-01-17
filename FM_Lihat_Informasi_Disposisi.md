@@ -47,47 +47,6 @@ Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jaba
 
 ![gambar](FaxMasuk/FM_WEB/02HistoryDisposisi01.png) 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk melihat informasi disposisi fax masuk via Teams adalah sebagai berikut:
-
-1. Klik menu **Disposition** dan pilih tab **Fax Masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
-
-![gambar](FaxMasuk/FM_Teams/FM39.png) 
-
-#### **Preview Fax Masuk**
-
-Pada tab **Mail**, ditampilkan informasi fax masuk fisik yang sudah di *scan* dan kemudian diunggah oleh sekretaris / konseptor
-
-![gambar](FaxMasuk/FM_Teams/FM40.png) 
-
-![gambar](FaxMasuk/FM_Teams/FM41.png) 
-
-#### **Preview Lembar Penerus**
-
-Pada tab **Preview**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
-
-![gambar](FaxMasuk/FM_Teams/FM42.png) 
-
-![gambar](FaxMasuk/FM_Teams/FM43.png) 
-
-#### **Detail Fax Masuk**
-
-Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
-
-![gambar](FaxMasuk/FM_Teams/FM44.png)  
-
-#### **Tracking Fax Masuk**
-
-Pada tab **Tracking**, ditampilkan informasi *tracking* fax masuk dalam bentuk *chart*
-
-![gambar](FaxMasuk/FM_Teams/FM45.png)  
-
-#### **History Fax Masuk**
-
-Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](FaxMasuk/FM_Teams/FM46.png) 
 
 ## **E-Corr Versi Android dan iOS**
 

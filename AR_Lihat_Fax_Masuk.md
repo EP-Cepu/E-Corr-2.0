@@ -17,15 +17,7 @@ Langkah - langkah untuk melihat dokumen fax masuk via Web adalah sebagai berikut
 
 2. Sistem menampilkan dokumen fax keluar yang tersimpan di menu Archive
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem fax keluar via Teams adalah sebagai berikut :
-
-1. _Klik menu **Archive** dan pilih submenu **Fax Masuk**
-
-![gambar](Archive/AR_Teams/AR04.png)
-
-2.  Sistem menampilkan dokumen fax masuk yang tersimpan di menu Archive
 
 ## **E-Corr Versi Android dan iOS**
 

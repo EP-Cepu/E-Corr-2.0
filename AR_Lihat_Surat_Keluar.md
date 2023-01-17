@@ -17,18 +17,7 @@ Langkah - langkah untuk melihat dokumen surat keluar via Web adalah sebagai beri
 
 2. Sistem menampilkan dokumen surat keluar yang tersimpan di menu Archive
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem surat keluar via Teams adalah sebagai berikut :
-
-
-_User_ dapat melihat dokumen surat keluar pada menu _Archive_. Langkah – langkah untuk melihat dokumen memorandum adalah sebagai berikut :
-
-1.  _Klik menu **Archive** dan pilih submenu Surat Keluar
-
-![gambar](Archive/AR_Teams/AR03.png)
-
-2.  Sistem menampilkan dokumen surat keluar yang tersimpan di menu _Archive_
 
 ## **E-Corr Versi Android dan iOS**
 

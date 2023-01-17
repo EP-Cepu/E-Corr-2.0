@@ -49,51 +49,6 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 5. Klik **Save as Draf** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Disposisi"** dan berlabel Fax Masuk. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"** dan berlabel Fax Masuk.
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
-
-#### **Disposisi melalui Menu Inbox**
-
-1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Teams/FM24.png)
-
-2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](FaxMasuk/FM_Teams/FM25.png)
-
-3. Klik tombol **Disposition** dan pilih **Send**
-
-![gambar](FaxMasuk/FM_Teams/FM26.png)
-
-4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
-
-![gambar](FaxMasuk/FM_Teams/FM27.png)
-
-5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
-
-#### **Disposisi melalui Menu Disposisi**
-
-1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Teams/FM28.png)
-
-2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](FaxMasuk/FM_Teams/FM29.png)
-
-3. Klik tombol **Disposition** dan pilih **Send**
-
-![gambar](FaxMasuk/FM_Teams/FM30.png)
-
-![gambar](FaxMasuk/FM_Teams/FM31.png)
-
-4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
-
-![gambar](FaxMasuk/FM_Teams/FM32.png)
-
-5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ## **E-Corr Versi Android dan iOS**
 

@@ -22,24 +22,6 @@
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Direct** pilih berlable Fax Keluar
 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk menyetujui fax keluar via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Teams/FK36.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](FaxKeluar/FK_Teams/FK37.png)
-
-3. Klik tombol **Approve** dan pilih **Send.** Isikan komentar jika diperlukan
-
-![gambar](FaxKeluar/FK_Teams/FK38.png)
-
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar**
-
 ## **E-Corr Versi Android dan iOS**
 
 Langkah - langkah untuk menyetujui fax keluar via Android dan iOS adalah sebagai berikut:

@@ -15,13 +15,6 @@ Langkah - langkah untuk melihat daftar disposisi fax masuk via Web adalah sebaga
 
 ![gambar](FaxMasuk/FM_WEB/02DaftarDisposisi01.png) 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk melihat daftar disposisi fax masuk via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox / Disposisi** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Teams/FM23.png)
 
 
 ## **E-Corr Versi Android dan iOS**

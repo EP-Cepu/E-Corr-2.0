@@ -33,33 +33,6 @@ Langkah-langkah untuk melakukan custom disposisi fax masuk Web adalah sebagai be
 
 ![gambar](FaxMasuk/FM_WEB/02CustomDisposisi06.png) 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk custom disposisi fax masuk via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Teams/FM33.png)
-
-2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
-
-![gambar](FaxMasuk/FM_Teams/FM34.png)
-
-3. Klik tombol **Disposisi** dan pilih **Send**
-
-![gambar](FaxMasuk/FM_Teams/FM35.png)
-
-4. Sistem menampilkan form disposisi. Klik icon "+" pada field **Forward To**. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
-
-![gambar](FaxMasuk/FM_Teams/FM36.png)
-
-5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
-
-![gambar](FaxMasuk/FM_Teams/FM37.png)
-
-6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same All Comment** dapat digunakan *user* untuk memberikan komentar yang sama untuk masing - masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
-
-![gambar](FaxMasuk/FM_Teams/FM38.png)
 
 ## **E-Corr Versi Android dan iOS**
 

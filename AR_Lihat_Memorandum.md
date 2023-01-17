@@ -17,15 +17,7 @@ Langkah - langkah untuk melihat dokumen memorandum via Web adalah sebagai beriku
 
 2. Sistem menampilkan dokumen memorandum yang tersimpan di menu Archive
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Archive** dan pilih submenu Memorandum
-
-![gambar](Archive/AR_Teams/AR02.png)
-
- 2. Sistem menampilkan dokumen memorandum yang tersimpan di menu _Archive_
 
 ## **E-Corr Versi Android dan iOS**
 

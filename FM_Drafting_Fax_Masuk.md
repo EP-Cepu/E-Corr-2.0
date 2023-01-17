@@ -25,28 +25,6 @@ Langkah-langkah untuk melakukan drafting fax masuk via Web adalah sebagai beriku
 
 ![gambar](FaxMasuk/FM_WEB/02DraftFM03F2.png) 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk drafting fax masuk via Teams adalah sebagai berikut:
-
-1. Klik menu **Draft** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Teams/FM06.png)
-
-1. Pilih fax masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
-
-![gambar](FaxMasuk/FM_Teams/FM07.png)
-
-1. Sistem akan menampilkan _form_ **Edit Correspondence**
-
-![gambar](FaxMasuk/FM_Teams/FM08.png)
-
-![gambar](FaxMasuk/FM_Teams/FM09.png)
-
-4.Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang tersimpan akan ada di **“Draf – Fax Masuk”** dan surat yang terkirim akan tersimpan di menu **“Sent Item – Fax masuk”** 
-
-![gambar](FaxMasuk/FM_Teams/FM10.png)
-
 
 ## **E-Corr Versi Android dan iOS**
 

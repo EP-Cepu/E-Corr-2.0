@@ -29,29 +29,7 @@ Langkah-langkah untuk menyelesaikan fax masuk Via Web adalah sebagai berikut :
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di history disposisi.
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk menyelesaikan disposisi fax masuk via Teams adalah sebagai berikut:
-
-1. Klik menu **Disposisi** dan pilih tab **Fax masuk**
-
-![gambar](FaxMasuk/FM_Teams/FM50.png)
-
-2. Pilih disposisi yang akan diselesaikan kemudian pilih tab **Detail**
-
-![gambar](FaxMasuk/FM_Teams/FM51.png)
-
-3. Pilih tombol **Finish** kemudian klik **Send**
-
-![gambar](FaxMasuk/FM_Teams/FM52.png)
-
-![gambar](FaxMasuk/FM_Teams/FM53.png)
-
-4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
-
-![gambar](FaxMasuk/FM_Teams/FM54.png)
-
-5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
 ## **E-Corr Versi Android dan iOS**
 

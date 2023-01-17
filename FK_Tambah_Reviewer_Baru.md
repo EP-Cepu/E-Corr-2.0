@@ -25,30 +25,6 @@
 ![gambar](FaxKeluar/FK_Web/02FK49.png)
 
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk tambah reviewer via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Teams/FK40.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](FaxKeluar/FK_Teams/FK50.png)
-
-3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+" pada field **Add Reviewer**
-
-![gambar](FaxKeluar/FK_Teams/FK51.png)
-
-4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
-
-![gambar](FaxKeluar/FK_Teams/FK52.png)
-
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu **"Sent Item - Fax Keluar"**. Untuk pejabat/reviewer baru akan menerima fax keluar di menu **"Inbox - Fax Keluar"**. Untuk penomoran fax keluar proesenya akan tetap berada di role approver/pemilik KBO, sehingga setelah flow penambahan reviewer baru selesai, fax keluar akan kembali ke approver/pemilik KBO
-
-![gambar](FaxKeluar/FK_Teams/FK53.png) 
-
 
 ## **E-Corr Versi Android dan iOS**
 

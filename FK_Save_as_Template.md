@@ -28,27 +28,6 @@ Langkah - langkah untuk Save as Template via Web adalah sebagai berikut :
 
 5. Lakukan perubahan pada fax, klik **Send** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"**.
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk save as template fax keluar via Teams adalah sebagai berikut:
-
-1. Isi *form* fax keluar dan Klik **Save Template**
-
-![gambar](FaxKeluar/FK_Teams/FK14.png)
-
-2. Fax keluar yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Fax Keluar"**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Keluar"** kemudian pilih *template* yang akan digunakan
-
-![gambar](FaxKeluar/FK_Teams/FK15.png)
-
-3. Pilih tombol ***User*** **Template** untuk melanjutkan edit fax keluar
-
-![gambar](FaxKeluar/FK_Teams/FK16.png)
-
-4. Sistem akan menampilkan form **Edit Correspondence,** klik **Save** untuk menyimpan perubahan
-
-![gambar](FaxKeluar/FK_Teams/FK17.png)
-
-5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Fax Keluar"**.
 
 ## **E-Corr Versi Android dan iOS**
 

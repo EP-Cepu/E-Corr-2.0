@@ -21,24 +21,6 @@
 
 4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan terhapus dari **Draf - Direct** dan akan tersimpan di menu **“Rejected”** berlabel Fax Keluar.
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk tolak fax keluar via Teams adalah sebagai berikut:
-
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Teams/FK40.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](FaxKeluar/FK_Teams/FK47.png)
-
-3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](FaxKeluar/FK_Teams/FK48.png)
-
-4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
-
 
 ## **E-Corr Versi Android dan iOS**
 

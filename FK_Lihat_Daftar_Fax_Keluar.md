@@ -14,13 +14,6 @@ Langkah - langkah untuk melihat daftar fax keluar via Web adalah sebagai berikut
 
 ![gambar](FaxKeluar/FK_Web/02FK1.png)
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk melihat daftar fax keluar via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih berlabel **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Teams/FK01.png)
 
 ## **E-Corr Versi Android dan iOS**
 
