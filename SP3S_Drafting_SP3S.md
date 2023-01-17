@@ -75,73 +75,7 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - Direct - SP3S"**
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk Drafting SP3S via Teams adalah sebagai berikut :
- 
-1. Klik menu **Draft** dan pilih tab **SP3S**
-
-![gambar](SP3S/SP3S_Teams/SP3S14.png)
-
-2. Pilih SP3S yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
-
-![gambar](SP3S/SP3S_Teams/SP3S15.png)
-
-3. Sistem akan menampilkan _form_ **Edit Correspondence**
-
-![gambar](SP3S/SP3S_Teams/SP3S16.png)
-
-4. Lakukan perubahan pada _form_. Klik **Save** untuk menyimpan perubahan pada form SP3S. Surat yang disimpan akan tersimpan di menu “**Draft – SP3S”**
-
-![gambar](SP3S/SP3S_Teams/SP3S17.png)
-
-5. Klik **Edit Content** untuk mengubah isi **SP3S**
-
-![gambar](SP3S/SP3S_Teams/SP3S18.png)
-
-6. Sistem menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan pop up konfirmasi Ubah Word Desktop atau Ubah Online
-
-![gambar](SP3S/SP3S_Teams/SP3S19.png)
-
-#### **[Edit] Word Desktop**
-
-Langkah – langkah untuk mengubah isi surat keluar melalui Word Desktop adalah sebagai berikut :
-
-1. Klik **Open In Desktop App** untuk mengubah melalui aplikasi Microsoft Word
-
-![gambar](SP3S/SP3S_Teams/SP3S20.png)
-
-2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi Isi surat akan otomatis tersimpan
-
-![gambar](SP3S/SP3S_Teams/SP3S21.png)
-
-#### **[Edit] Ubah Online**
-
-Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai berikut :
-
-1.Ketika Klik button **Edit Content** maka secara otomatis akan membuka dokumen dan bisa mengubah isi surat secara online
-
-![gambar](SP3S/SP3S_Teams/SP3S22.png)
-
-2. Lakukan perubahan pada isi surat
-
-![gambar](SP3S/SP3S_Teams/SP3S23.png)
-
-3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
-
-![gambar](SP3S/SP3S_Teams/SP3S24.png)
-
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft – Surat SP3S”**
-
-##### **Kirim SP3S**
-
-Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
-
-1.	Pada tampilan preview SP3S, klik **Send** untuk mengirim surat ke pejabat tujuan
-
-![gambar](SP3S/SP3S_Teams/SP3S25.png)
-
-2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 
