@@ -76,21 +76,7 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - Direct - SP3S"**
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk tambah SP3S via Teams adalah sebagai berikut :
-
-1. Klik menu **New Correspondence**
-
-![gambar](SP3S/SP3S_Teams/SP3S02.png)
-
-2. Pilih jenis surat **“SP3S”**
-
-![gambar](SP3S/SP3S_Teams/SP3S03.png)
-
-3. Isi form tambah SP3S. Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi formnya yaitu **Cancel SP3S** dan **Send SP3S.**
-
-![gambar](SP3S/SP3S_Teams/SP3S04.png)
 
 #### **Simpan SP3S**
 

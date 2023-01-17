@@ -14,11 +14,7 @@ Langkah - langkah untuk melihat daftar SP3S via Web adalah sebagai berikut
 
 ![gambar](SP3S/SP3S_Web/02SP01.png)
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk lihat daftar SP3S via Teams adalah sebagai berikut :
-
-1.	Klik menu **Inbox / Draft / Sent Item** dan pilih tab **SP3S**
 
 ![gambar](SP3S/SP3S_Teams/SP3S01.png)
 

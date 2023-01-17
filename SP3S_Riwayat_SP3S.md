@@ -19,12 +19,3 @@ Langkah-langkah untuk melihat informasi Riwayat SP3S via Web adalah sebagai beri
 
 2. Sistem menampilkan riwayat SP3S
 
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk Riwayat SP3S via Teams adalah sebagai berikut :
-
-1.	Klik menu **History** dan pilih tab **SP3S**
-
-![gambar](SP3S/SP3S_Teams/SP3S51.png)
-
-2. Sistem menampilkan riwayat SP3S

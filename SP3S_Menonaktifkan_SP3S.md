@@ -19,19 +19,7 @@ Langkah - langkah untuk menonaktifkan SP3S via Web adalah sebagai berikut :
 
 3. SP3S yang sudah tidak aktif akan tersimpan di menu **"Sent Item - Direct - SP3S"** approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - Direct - SP3S"**
 
-## **E-Corr Versi Teams**
 
-Langkah - langkah untuk menonaktifkan SP3S via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **SP3S**
-
-![gambar](SP3S/SP3S_Teams/SP3S49.png)
-
-2. Pilih SP3S yang akan dinon-aktifkan kemudian pilih icon **Disable.**
- 
-![gambar](SP3S/SP3S_Teams/SP3S50.png)
-
-3. SP3S yang sudah tidak aktif akan tersimpan di menu “**Sent Item – SP3S**” approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SP3S”**
 
 ## **E-Corr Versi Android**
 
