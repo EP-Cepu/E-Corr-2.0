@@ -10,17 +10,7 @@ Langkah-langkah untuk melihat daftar dokumen draft via Web adalah sebagai beriku
 
 1. Klik menu **Document** dan pilih submenu **Control - Draft**
 
-![gambar](DocumentControl/DC_Web/02MM02.png)
+![gambar](DocumentControl/DC_Web/AG7.png)
 
 2. Sistem menampilkan dokumen draft yang meliputi number, Agenda, from, about, type, last Modified dan secretary note.
 
-
-## **E-Corr Versi Teams**
-
-Langkah-langkah untuk melihat daftar dokumen draft via Teams adalah sebagai berikut:
-
-1. Klik menu **Document Control** dan pilih submenu **Document View - Draft**
-
-![gambar](DocumentControl/DC_Teams/DC02.png)
-
-2. Sistem menampilkan dokumen draft yang meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*

@@ -10,7 +10,7 @@ Langkah - langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar d
 
 1. Klik menu **Document** dan pilih **Control**, Kemudian pilih **Dokumen Inbox/ Dokumen Sent items/ Dokumen Disposition**
 
-![gambar](DocumentControl/DC_Web/02MM07.png)
+![gambar](DocumentControl/DC_Web/AG9.png)
 
 2. Klik salah satu surat yang akan dilihat detailnya
 
@@ -40,43 +40,3 @@ Pada tab **History Surat**, ditampilkan riwayat memorandum yang terdapat informa
 
 ![gambar](DocumentControl/DC_Web/02MM12.png)
 
-
-## **E-Corr Versi Teams**
-
-Langkah - langkah untuk melihat dokumen informasi lengkap via Teams adalah sebagai berikut:
-
-1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk / Dokumen Keluar / Dokumen Disposisi**
-
-![gambar](DocumentControl/DC_Teams/DC07.png)
-
-2. Klik salah satu surat yang akan dilihat detailnya
-
-![gambar](DocumentControl/DC_Teams/DC08.png)
-
-3. Sistem akan menampilkan detail surat yang dipilih
-
-#### **Preview Surat**
-    
-Pada tab **Preview Surat**, ditampilkan _preview_ surat yang sudah dibuat. _Preview_ surat disesuaikan dengan template berdasarkan jenis surat
-
-![gambar](DocumentControl/DC_Teams/DC09.png)
-
-![gambar](DocumentControl/DC_Teams/DC10.png)
-
-#### **Detail Surat**
-    
-Pada tab **Detail Surat**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat
-
-![gambar](DocumentControl/DC_Teams/DC11.png)
-
-#### **Tracking Surat**
-   
-Pada tab **Tracking Surat**, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
-
-![gambar](DocumentControl/DC_Teams/DC12.png)
-
-#### **History Surat**
-    
-Pada tab **History Surat**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](DocumentControl/DC_Teams/DC13.png)
