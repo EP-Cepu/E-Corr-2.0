@@ -20,5 +20,5 @@ Langkah-langkah untuk filter data surat pada agenda kendali via Web adalah sebag
 
 ![gambar](DocumentControl/DC_Web/AG3.png)
 
-4. Data akan tampil berdasarkan filter yang sudah dipilih
+4. Data akan tampil berdasarkan filter yang sudah dipilih .
  
