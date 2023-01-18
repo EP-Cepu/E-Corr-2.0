@@ -12,4 +12,4 @@ Langkah-langkah untuk melihat daftar dokumen Archive via Web adalah sebagai beri
 
 ![gambar](DocumentControl/DC_Web/AG4.png)
 
-2. Sistem menampilkan dokumen archive yang informasinya meliputi number, Agenda, from, about, type, last Modified dan secretary note.
+2. Sistem menampilkan dokumen archive yang informasinya meliputi number, Agenda, from, about, type, last Modified dan secretary note
