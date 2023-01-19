@@ -10,25 +10,16 @@ langkah untuk menambah memorandum via Web adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 
-![gambar](Memorandum/MM_Web/02MM-1.png)
+![gambar](Memorandum/MM_Web/Memo-1.png)
 
 2. Pilih jenis surat **"Memorandum"**
 
-![gambar](Memorandum/MM_Web/02MM-2.png)
+![gambar](Memorandum/MM_Web/Memo-2.png)
 
-3. Isi *form* tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi *form*nya yaitu **Simpan Memorandum**, **Kirim Memorandum** dan **Save as Template Memorandum**.
+3. Isi *form* tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi *form*nya yaitu **Simpan Memorandum**,  dan **Save as Template Memorandum**.
 
-![gambar](Memorandum/MM_Web/02MM-03.png)
+![gambar](Memorandum/MM_Web/Memo-3.png)
 
-![gambar](Memorandum/MM_Web/02MM-04.png)
-
-#### Simpan Memorandum
-
-Langkah - langkah untuk menyimpan memorandum adalah sebagai berikut
-
-1. Isi *form* memorandum kemudian klik **Save As Template**
-
-![gambar](Memorandum/MM_Web/02MM-6.png)
 
 
 ##### [Edit] Memorandum
@@ -37,7 +28,7 @@ Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah seba
 
 1. Pilih Menu **Draft** lalu pilih **Direct**
 
-![gambar](Memorandum/MM_Web/02MM-5.png)
+![gambar](Memorandum/MM_Web/Memo-4.png)
 
 2. Pilih **Memorandum** yang akan di **edit** Lalu pilih **Detil** dan pilih Button **Modify Document**
    
