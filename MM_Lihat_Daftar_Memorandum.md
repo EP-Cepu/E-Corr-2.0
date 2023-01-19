@@ -12,7 +12,7 @@ langkah untuk melihat daftar memorandum via Web adalah sebagai berikut
 
 1. Klik menu **Inbox / Draft / Sent Item** dan pilih surat yang berlabel **Memorandum**
 
-![gambar](Memorandum/MM_Web/02MM-1.png)
+![gambar](Memorandum/MM_Web/Memo-7.png)
 
 
 ## **E-Corr Versi Android & IOS**
