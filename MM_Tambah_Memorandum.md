@@ -32,7 +32,7 @@ Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah seba
 
 2. Pilih **Memorandum** yang akan di **edit** Lalu pilih **Detil** dan pilih Button **Modify Document**
    
-![gambar](Memorandum/MM_Web/02MM-7.png)
+![gambar](Memorandum/MM_Web/Memo-5.png)
 
 3. Pilih **Edit Document** dan PIlih **Edit In Word App** atau **Edit Online**
    
