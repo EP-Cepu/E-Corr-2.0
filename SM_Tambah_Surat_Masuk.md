@@ -10,15 +10,15 @@ Langkah-langkah untuk menambah surat masuk via Web adalah sebagai berikut.
 
 1. Klik menu **New Correspondence**
 
-![gambar](SuratMasuk/SM_Web/02SM02.png)
+![gambar](SuratMasuk/SM_Web/SM-1.png)
 
 2. Pilih jenis surat "**Surat Masuk**"
 
-![gambar](SuratMasuk/SM_Web/02SM03.png)
+![gambar](SuratMasuk/SM_Web/SM-2.png)
 
-3. Isi form tambah surat masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu "**Draft - Surat Masuk**". Klik **Save** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu "**Sent Item - Surat Masuk**"
+3. Isi form tambah surat masuk. Klik **Save as Draft** untuk menyimpan form surat dan surat akan tersimpan di menu "**Draft - Surat Masuk**". Klik **Send** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu "**Sent Item - Surat Masuk**"
 
-![gambar](SuratMasuk/SM_Web/02SM04.png)
+![gambar](SuratMasuk/SM_Web/SM-3.png)
 
 4.  Sistem berhasil menyimpan perubahan
 

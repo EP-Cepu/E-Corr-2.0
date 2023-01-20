@@ -11,15 +11,15 @@ Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 
 1.    Klik menu **Draft** dan pilih label **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Web/02SM05.png)
+![gambar](SuratMasuk/SM_Web/SM-4.png)
 
 2.    Pilih surat masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Modify document**
 
-![gambar](SuratMasuk/SM_Web/02SM06.png)
+![gambar](SuratMasuk/SM_Web/SM-5.png)
 
 3.    Sistem akan menampilkan _form_ **Edit Correspondence**
 
-![gambar](SuratMasuk/SM_Web/02SM07.png)
+![gambar](SuratMasuk/SM_Web/SM-6.png)
 
 4.	  Lakukan perubahan pada _form_. Klik **Send Document** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Sent Item - Surat Masuk"**
 
