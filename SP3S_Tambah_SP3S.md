@@ -13,15 +13,15 @@ Langkah - langkah untuk menambah SP3S via Web adalah sebagai berikut :
 
 1. Klik menu **New Correspondence**
 
-![gambar](SP3S/SP3S_Web/02SP02.png)
+![gambar](SP3S/SP3S_Web/SP-1.png)
 
 2. Pilih jenis surat **"SP3S"**
 
-![gambar](SP3S/SP3S_Web/02SP03.png)
+![gambar](SP3S/SP3S_Web/SP-2.png)
 
-3. Isi *form* tambah SP3S. Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi *form*nya yaitu **Save As Draft** dan **Send Document.**
+3. Isi *form* tambah SP3S. Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi *form*nya yaitu **Save As Draft**.
 
-![gambar](SP3S/SP3S_Web/02SP04.png)
+![gambar](SP3S/SP3S_Web/SP-3.png)
 
 #### **Simpan SP3S**
 
@@ -29,7 +29,7 @@ Langkah - langkah untuk menyimpan SP3S adalah sebagai berikut.
 
 1. Isi *form* SP3S kemudian klik **Save As Draft**
 
-![gambar](SP3S/SP3S_Web/02SP05.png)
+![gambar](SP3S/SP3S_Web/SP-3.png)
 
 
 2. Sistem akan menampilkan tampilan *preview* SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
