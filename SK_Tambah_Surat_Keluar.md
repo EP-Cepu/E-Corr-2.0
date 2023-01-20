@@ -10,17 +10,16 @@ Langkah-langkah untuk menambah surat keluar via Web adalah sebagai berikut:
 
 1. Klik menu **New Correspondence**
 
-![gambar](SuratKeluar/SK_Web/02SK02.png)
+![gambar](SuratKeluar/SK_Web/SK-1.png)
 
 2. Pilih jenis surat **"Surat Keluar"**
 
-![gambar](SuratKeluar/SK_Web/02SK03.png)
+![gambar](SuratKeluar/SK_Web/SK-2.png)
 
-3. Isi *form* tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi *form*nya yaitu **Send**, **Save** dan **Save as Template**
+3. Isi *form* tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi *form*nya yaitu **Save as Draft** dan **Save as Template**
 
-![gambar](SuratKeluar/SK_Web/02SK04.png)
+![gambar](SuratKeluar/SK_Web/SK-3.png)
 
-![gambar](SuratKeluar/SK_Web/02SK05.png)
 
 #### Simpan Surat Keluar
 
