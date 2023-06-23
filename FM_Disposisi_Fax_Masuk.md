@@ -35,21 +35,23 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/02Disposisi05.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo06.png) 
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](FaxMasuk/FM_WEB/02Disposisi06.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo02.png) 
 
 3. Klik tombol **Disposisi**
 
-![gambar](FaxMasuk/FM_WEB/02Disposisi07.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo03.png) 
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](FaxMasuk/FM_WEB/02Disposisi08.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo04.png) 
 
 5. Klik **Save as Draf** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Disposisi"** dan berlabel Fax Masuk. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"** dan berlabel Fax Masuk.
+
+![gambar](FaxMasuk/FM_WEB/Customdispo05.png) 
 
 
 ## **E-Corr Versi Android dan iOS**
