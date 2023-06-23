@@ -10,7 +10,7 @@ langkah untuk menambah memorandum via Web adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 
-![gambar](Memorandum/MM_Web/Memo-1.png)
+![gambar](Memorandum/MM_Web/MM_1.png)
 
 2. Pilih jenis surat **"Memorandum"**
 
