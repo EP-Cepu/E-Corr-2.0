@@ -13,15 +13,17 @@ Langkah - langkah untuk kirim tanggapan disposisi fax masuk via Web adalah sebag
 
 1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/02TanggapanFM01.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo01.png)  
 
 2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih tab **Detail**
    
-![gambar](FaxMasuk/FM_WEB/02TanggapanFM02.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo02.png)  
+
 
 3. Pilih tombol **Send Response**.
 
-![gambar](FaxMasuk/FM_WEB/02TanggapanFM03.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo10.png)  
+
 
 4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan kirim tanggapan disposisi dan *user* dapat menambahkan lampiran jika diinginkan, kemudian klik **Save Respon**.
    
