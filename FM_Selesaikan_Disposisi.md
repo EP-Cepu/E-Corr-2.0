@@ -13,11 +13,11 @@ Langkah-langkah untuk menyelesaikan fax masuk Via Web adalah sebagai berikut :
 
 1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax masuk**
 
-![gambar](FaxMasuk/FM_WEB/02SelesaiDisposisi01.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo01.png) 
 
 2. Pilih disposisi yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](FaxMasuk/FM_WEB/02SelesaiDisposisi02.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo02.png) 
 
 3. Pilih tombol **Finish**
 
@@ -25,7 +25,8 @@ Langkah-langkah untuk menyelesaikan fax masuk Via Web adalah sebagai berikut :
 
 4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan selesaikan disposisi kemudian klik **Finish** dan dapan menambahkan *Attach* jika dibutuhkan.
 
-![gambar](FaxMasuk/FM_WEB/02SelesaiDisposisi04.png) 
+![gambar](FaxMasuk/FM_WEB/Finish01.png)  
+![gambar](FaxMasuk/FM_WEB/Finish02.png)  
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di history disposisi.
 
