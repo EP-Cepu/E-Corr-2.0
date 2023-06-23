@@ -25,9 +25,9 @@ Pada label **Fax Masuk - Preview**, ditampilkan informasi fax masuk fisik yang s
 
 Pada tab **History** lalu klik *Download*, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
-![gambar](FaxMasuk/FM_WEB/02PL01.png)
+![gambar](FaxMasuk/FM_WEB/Customdispo7.png) 
 
-![gambar](FaxMasuk/FM_WEB/02PL01F1.png)
+![gambar](FaxMasuk/FM_WEB/Customdisp08.png) 
 
 #### **Detail Fax Masuk**
 
