@@ -14,7 +14,7 @@ langkah untuk menambah memorandum via Web adalah sebagai berikut
 
 2. Pilih jenis surat **"Memorandum"**
 
-![gambar](Memorandum/MM_Web/Memo-2.png)
+![gambar](Memorandum/MM_Web/MM_2.png)
 
 3. Isi *form* tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi *form*nya yaitu **Simpan Memorandum**,  dan **Save as Template Memorandum**.
 
