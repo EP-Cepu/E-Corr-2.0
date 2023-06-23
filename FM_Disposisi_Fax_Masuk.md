@@ -13,21 +13,23 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 1. Klik menu **Inbox - Direct** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/02Disposisi01.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo01.png) 
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](FaxMasuk/FM_WEB/02Disposisi02.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo02.png) 
 
 3. Klik tombol **Disposition**
     
-![gambar](FaxMasuk/FM_WEB/02Disposisi03.png)
+![gambar](FaxMasuk/FM_WEB/Customdispo03.png) 
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](FaxMasuk/FM_WEB/02Disposisi04.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo04.png) 
 
 5. Klik **Save as Draft** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Direct"** dab berlabel **Fax Masuk**. Klik **Send Disposisi** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
+
+![gambar](FaxMasuk/FM_WEB/Customdispo05.png) 
 
 #### **Disposisi melalui Menu Disposisi**
 

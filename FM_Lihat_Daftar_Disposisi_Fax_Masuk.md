@@ -13,7 +13,7 @@ Langkah - langkah untuk melihat daftar disposisi fax masuk via Web adalah sebaga
 
 1. Klik menu **Inbox - Disposisi** dan pilih berlable **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/02DaftarDisposisi01.png) 
+![gambar](FaxMasuk/FM_WEB/Customdispo01.png) 
 
 
 

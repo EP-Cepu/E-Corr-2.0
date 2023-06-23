@@ -13,13 +13,13 @@ Langkah - langkah untuk melihat informasi disposisi fax masuk via Web adalah seb
 
 1. Klik menu **Inbox - Disposisi** dan pilih label **Fax Masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
 
-![gambar](FaxMasuk/FM_WEB/02InfoDisposisi01.png) 
+![gambar](FaxMasuk/FM_WEB/Info01.png) 
 
 #### **Preview Fax Masuk**
 
 Pada label **Fax Masuk - Preview**, ditampilkan informasi fax masuk fisik yang sudah di *scan* dan kemudian diunggah oleh sekretaris / konseptor
 
-![gambar](FaxMasuk/FM_WEB/02PreviewDisposisi01.png) 
+![gambar](FaxMasuk/FM_WEB/Info0.png) 
 
 #### **Preview Lembar Penerus**
 
