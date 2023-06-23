@@ -13,7 +13,7 @@ Langkah - langkah untuk melihat daftar fax masuk via Web adalah sebagai berikut 
 
 1. Klik menu **Inbox - Disosisi/Draft - Disposisi/Sent Item - Disposisi** dan pilih berlable **Fax Masuk**. Sistem akan menampilkan daftar fax masuk yang ditujukan pada sekretaris
 
-![gambar](FaxMasuk/FM_WEB/02DaftarFM01.png) 
+![gambar](FaxMasuk/FM_WEB/DraftFM04.png) 
 
 
 ## **E-Corr Versi Android dan iOS**
