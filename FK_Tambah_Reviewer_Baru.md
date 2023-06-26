@@ -6,24 +6,23 @@
 
 1. Klik menu **Draft - Direct** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Web/02FK45.png)
+![gambar](FaxKeluar/FK_Web/FK14.png)
 
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail - Modify Document**
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail ** kemudian klik "**Add Reviewer**"
 
-![gambar](FaxKeluar/FK_Web/02FK46.png)
+![gambar](FaxKeluar/FK_Web/FK28.png)
 
 3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+" pada field **Add Reviewer**
 
-![gambar](FaxKeluar/FK_Web/02FK47.png)
+![gambar](FaxKeluar/FK_Web/FK33.png)
 
 4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
-![gambar](FaxKeluar/FK_Web/02FK48.png)
+![gambar](FaxKeluar/FK_Web/FK31.png)
 
 5. Pilih **Send Document** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu **"Sent Item - Direct - Fax Keluar"**. Untuk pejabat/reviewer baru akan menerima fax keluar di menu **"Draf - Direct - Fax Keluar"**. Untuk penomoran fax keluar prosesnya akan tetap berada di role approver/pemilik KBO, sehingga setelah flow penambahan reviewer baru selesai, fax keluar akan kembali ke approver/pemilik KBO
 
-![gambar](FaxKeluar/FK_Web/02FK49.png)
-
+!![gambar](FaxKeluar/FK_Web/FK32.png)
 
 
 ## **E-Corr Versi Android dan iOS**

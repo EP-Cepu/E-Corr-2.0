@@ -7,17 +7,17 @@
 
 1. Klik menu **Draf - Direct** dan pilih label **Fax Keluar** 
 
-![gambar](FaxKeluar/FK_Web/02FK33.png)
+![gambar](FaxKeluar/FK_Web/FK14.png)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](FaxKeluar/FK_Web/02FK34.png)
+![gambar](FaxKeluar/FK_Web/FK15.png)
 
 3. Klik tombol **Approve** dan akan muncul topup  **Approver Comment** Isikan komentar jika diperlukan, lalu **Submit**
 
-![gambar](FaxKeluar/FK_Web/02FK35.png)
+![gambar](FaxKeluar/FK_Web/FK21.png)
 
-![gambar](FaxKeluar/FK_Web/02FK35F2.png)
+![gambar](FaxKeluar/FK_Web/FK26.png)
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Direct** pilih berlable Fax Keluar
 
