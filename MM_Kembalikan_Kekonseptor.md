@@ -11,15 +11,15 @@ Langkah - langkah untuk mengembalikan memorandum ke konseptor via Web adalah seb
 
 1. Klik menu **Draft** dan pilih label **Memorandum**
 
-![gambar](Memorandum/MM_Web/02MM-43.png)
+![gambar](Memorandum/MM_Web/MM-19.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](Memorandum/MM_Web/02MM-44.png)
+![gambar](Memorandum/MM_Web/MM-20.png)
 
-3. Klik tombol **Return Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Return Conceptor** dan pilih **Submit**. Isikan komentar jika diperlukan
 
-![gambar](Memorandum/MM_Web/02MM-45.png)
+![gambar](Memorandum/MM_Web/MM-21.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected - Memorandum**
 
