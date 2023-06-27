@@ -13,19 +13,19 @@ Langkah-langkah untuk menyelesaikan disposisi memorandum via Web adalah sebagai 
 
 1. Klik menu **Inbox** dan pilih tab **Direct**
 
-![gambar](Memorandum/MM_Web/02MM-64.png)
+![gambar](Memorandum/MM_Web/MM-67.png)
 
 2. Pilih memorandum yang akan diselesaikan kemudian pilih tab **Detail** Lalu pilih button **Disposition**
 
-![gambar](Memorandum/MM_Web/02MM-65.png)
+![gambar](Memorandum/MM_Web/MM-68.png)
 
-3. Pilih Button **+Add** kemudian pilih pejabat yang akan di disposisikan **Send**
+3. Pilih Button **+Add** kemudian pilih pejabat yang akan di disposisikan
 
-![gambar](Memorandum/MM_Web/02MM-66.png)
+![gambar](Memorandum/MM_Web/MM-79.png)
 
 4. Sistem menampilkan pop up konfirmasi user yang akan menerima disposisi kemudian klik **Send Disposition**.
 
-![gambar](Memorandum/MM_Web/02MM-67.png)
+![gambar](Memorandum/MM_Web/MM-80.png)
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 

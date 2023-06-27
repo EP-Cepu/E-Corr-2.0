@@ -3,32 +3,26 @@
 - *Approver User*
 - *Reviewer User*
 
-Langkah - langkah untuk menolak memorandum adalah sebagai berikut
+Langkah - langkah untuk memberikan tanggapan pada memorandum adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Web/MM-80.png)
-
-2. Pilih memorandum yang akan ditolak kemudian pilih tab **Detail**
+1. Klik menu **Inbox** - **Disposition** dan pilih jenis Memorandum yang di disposisikan 
 
 ![gambar](Memorandum/MM_Web/MM-81.png)
 
-3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
+2. Pilih memorandum yang akan ditolak kemudian pilih tab **Detail**
 
-![gambar](Memorandum/MM_Web/MM-85.png)
+![gambar](Memorandum/MM_Web/MM-82.png)
 
-![gambar](Memorandum/MM_Web/MM-87.png)
-
-4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan tolak disposisi memorandum kemudian klik **Save**.
+3. Klik tombol **Send Response** lalu isikan komentar pada action Send Response jika diperlukan. Lalu klik **Send Response**
 
 ![gambar](Memorandum/MM_Web/MM-83.png)
 
-5.	Sistem menyimpan perubahan dan disposisi memorandum yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
+4. Sistem menyimpan perubahan pada disposisi memorandum yang sudah di Response akan otomatis dan tetap akan tersimpan di menu **“Inbox – Disposition”** user Response dengan label **Sent Response**.
 
 
 ## **E-Corr Versi Android**
 
-Langkah-langkah untuk menolak disposisi Memorandum adalah sebagai berikut :
+Langkah-langkah untuk merespon disposisi Memorandum adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
