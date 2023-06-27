@@ -12,17 +12,17 @@ Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Web adalah s
 
 1. Klik menu **Draft** lalu pilih **Direct** dan pilih surat yang berlabel **Memorandum**
 
-![gambar](Memorandum/MM_Web/02MM-84.png)
+![gambar](Memorandum/MM_Web/MM-49.png)
 
 2. Pilih memorandum yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](Memorandum/MM_Web/02MM-85.png)
+![gambar](Memorandum/MM_Web/MM-50.png)
 
-1. Pilih tombol **Approve Document**
+3. Pilih tombol **Approve Document**
 
-![gambar](Memorandum/MM_Web/02MM-86.png)
+![gambar](Memorandum/MM_Web/MM-51.png)
 
-1. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Sumbit**.
+4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Sumbit**.
 
 ![gambar](Memorandum/MM_Web/02MM-87.png)
 
