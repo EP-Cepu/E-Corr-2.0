@@ -7,13 +7,13 @@ Sekretaris dapat melakukan _drafting_ surat masuk pada aplikasi E-Corr. _Draftin
 
 ## **E-Corr Versi Web**
 
-Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
+Langkah - langkah untuk drafting Surat Masuk via Web adalah sebagai berikut :
 
-1.    Klik menu **Draft** dan pilih label **Surat Masuk**
+1.    Klik menu **Draft** dan pilih sub menu  **Direct**
 
 ![gambar](SuratMasuk/SM_Web/SM-4.png)
 
-2.    Pilih surat masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Modify document**
+2.    Pilih Surat Masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Modify document**
 
 ![gambar](SuratMasuk/SM_Web/SM-5.png)
 

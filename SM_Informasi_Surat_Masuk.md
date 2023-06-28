@@ -18,7 +18,7 @@ Langkah-langkah untuk melihat informasi surat masuk via Web adalah sebagai berik
 
 ####   **Preview Surat Masuk**
 
-Pada tab **Preview**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
+Pada tab **Preview**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan dari dokumen yang diunggah oleh sekretaris/konseptor.
 
 ![gambar](SuratMasuk/SM_Web/SM-9.png)
 

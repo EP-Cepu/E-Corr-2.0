@@ -15,7 +15,7 @@ Langkah-langkah untuk melihat daftar surat masuk via Web adalah sebagai berikut:
 
  1.  Klik menu **Inbox / Draft / Sent Item** dan pilih surat yang berlabel **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Web/02SM01.png)
+![gambar](SuratMasuk/SM_Web/SM-5.png)
 
 
 

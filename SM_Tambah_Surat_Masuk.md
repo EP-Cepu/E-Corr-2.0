@@ -10,9 +10,9 @@ Langkah-langkah untuk menambah surat masuk via Web adalah sebagai berikut.
 
 1. Klik menu **New Correspondence**
 
-![gambar](SuratMasuk/SM_Web/SM-1.png)
+![gambar](SuratMasuk/SM_Web/SM-1.pnG)
 
-2. Pilih jenis surat "**Surat Masuk**"
+2. Pada menu dropdown pilih jenis surat "**Surat Masuk**" lalu klik button "**Next**"
 
 ![gambar](SuratMasuk/SM_Web/SM-2.png)
 
