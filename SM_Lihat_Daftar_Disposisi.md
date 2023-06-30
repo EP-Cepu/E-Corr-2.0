@@ -11,9 +11,9 @@ User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**
 
 Langkah - langkah untuk melihat daftar disposisi surat masuk via Web adalah sebagai berikut
 
-1.	Klik menu **Inbox / Draft / Sent Item** dan pilih surat yang berlabel **Surat Masuk**
+1.	Klik menu **Inbox / Draft / Sent Item** - **Disposition** dan pilih surat yang berlabel **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Web/02SM21.png)
+![gambar](SuratMasuk/SM_Web/SM-32.png)
 
 
 

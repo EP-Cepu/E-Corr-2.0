@@ -11,9 +11,9 @@ _User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposi
 
 Langkah - langkah untuk melihat informasi lengkap disposisi surat masuk via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih **Disposition** lalu klik surat yang berlabel **Surat Masuk** yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** - **Disposition** dan lalu klik surat yang berlabel **Surat Masuk** yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_Web/02SM36.png)
+![gambar](SuratMasuk/SM_Web/SM-32.png)
 
 
 
@@ -22,27 +22,27 @@ Langkah - langkah untuk melihat informasi lengkap disposisi surat masuk via Web 
 
 Pada tab **Detail,** terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_Web/02CR_SM01.png)
+![gambar](SuratMasuk/SM_Web/SM-33.png)
 
 #### **Preview Surat**
 
 
 Pada tab **Preview**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_Web/02CR_SM02.png)
+![gambar](SuratMasuk/SM_Web/SM-34.png)
 
 #### **Tracking Surat Masuk**
 
 
 Pada tab **Tracking**, ditampilkan informasi _tracking_ surat masuk dalam bentuk _chart_
 
-![gambar](SuratMasuk/SM_Web/02SM40.png)
+![gambar](SuratMasuk/SM_Web/SM-35.png)
 
 #### **History Surat Masuk**
 
 Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
 
-![gambar](SuratMasuk/SM_Web/02SM41.png)
+![gambar](SuratMasuk/SM_Web/SM-36.png)
 
 
 
