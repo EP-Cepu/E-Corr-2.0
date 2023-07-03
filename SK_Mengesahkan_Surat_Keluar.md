@@ -12,27 +12,27 @@ Berikut ini video tutorial yang menjelaskan langkah-langkah untuk mengesahkan su
 <a href="https://web.microsoftstream.com/embed/video/65ef062a-e6f8-4424-a775-070882725ed6?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-E-Corr/raw/master/Video/Thumbnail/TM04.png" alt="Watch the video"></a>
 
 
-1. Klik menu **Draft**, Klik menu **Direct** dan pilih label **Surat Keluar**
+1. Klik menu **Draft**, Klik menu **Direct** dan pilih sulat yang berlabel **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/02SK52.png)
+![gambar](SuratKeluar/SK_Web/SK35.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SuratKeluar/SK_Web/02SK53.png)
+![gambar](SuratKeluar/SK_Web/SK32.png)
 
 3. Klik **Approve Document** kemudian pilih **Submit**
 
-![gambar](SuratKeluar/SK_Web/02SK54.png)
+![gambar](SuratKeluar/SK_Web/SK33.png)
 
 4. Pilih **Sign Document** menggunakan Peruri/BSSN/tanpa Digital Sign
 
-![gambar](SuratKeluar/SK_Web/02SK57.png)
+![gambar](SuratKeluar/SK_Web/SK34.png)
 
 5. Sistem menampilkan *form* Validation of Digital Signature kemudian masukan kode OTP jika menggunakan Peruri atau masukan NIK dan Passphrase untuk BSSN
 
-6. Klik button **Sign**
+6. Klik button **Submit**
  
-![gambar](SuratKeluar/SK_Web/02SK56.png)
+![gambar](SuratKeluar/SK_Web/SK34.png)
 
 7. Surat keluar yang sudah disetujui akan tersimpan di menu **"Sent Item - Surat Keluar"** pengirim
 

@@ -9,17 +9,17 @@
 
 Langkah - langkah untuk mengembalikan surat keluar ke sebelumnya via Web adalah sebagai berikut
 
-1. Klik menu **Draft** dan Klik menu **Direct** kemudian pilih label **Surat Keluar**
+1. Klik menu **Draft** dan Klik menu **Direct** kemudian pilih surat yang berlabel **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/02SK38.png)
+![gambar](SuratKeluar/SK_Web/SK31.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SuratKeluar/SK_Web/02SK39.png)
+![gambar](SuratKeluar/SK_Web/SK32.png)
 
 3. Klik tombol **Return to Previous** dan pilih **Submit**. Isikan komentar jika diperlukan
 
-![gambar](SuratKeluar/SK_Web/02SK40.png)
+![gambar](SuratKeluar/SK_Web/SK34.png)
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
