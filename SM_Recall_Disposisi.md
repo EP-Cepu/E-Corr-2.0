@@ -11,19 +11,15 @@ Langkah - langkah untuk recall disposisi surat masuk via Web adalah sebagai beri
 
 1.    Klik menu **Sent Item** dan pilih **Disposisi**
 
-![gambar](SuratMasuk/SM_Web/02SM42.png)
+![gambar](SuratMasuk/SM_Web/SM-45.png)
 
-2.    Pilih surat masuk yang akan di-_Recall_ kemudian klik tab **Detail** kemudian klik **Recall Disposition** lalu muncul pop up template lembar disposisi untuk mengubah isi keterangan kemudian pilih **Save As Draft** atau **Send Disposition** 
+2.    Pilih surat masuk yang akan di-_Recall_ kemudian klik tab **Detail** kemudian klik **Recall Disposition** lalu muncul pop up template lembar disposisi untuk mengubah isi keterangan kemudian pilih **Recall to Draft** atau **Update Disposition** 
 
-![gambar](SuratMasuk/SM_Web/02SM43.png)
+![gambar](SuratMasuk/SM_Web/SM-46.png)
 
-![gambar](SuratMasuk/SM_Web/02SM43-1.png)
+![gambar](SuratMasuk/SM_Web/SM-47.png)
 
 3.    Surat masuk yang sudah di-_recall_ akan tersimpan di menu "**Draft - Disposisi**" pendisposisi jika memilih Save As Draft
-
-
-
-c
 
 Langkah - langkah untuk recall disposisi surat masuk via Android adalah sebagai berikut :
 
