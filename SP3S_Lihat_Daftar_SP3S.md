@@ -10,13 +10,13 @@
 
 Langkah - langkah untuk melihat daftar SP3S via Web adalah sebagai berikut
 
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih salah satu surat jenis **SP3S** yang akan dilihat informasinya
 
-![gambar](SP3S/SP3S_Web/02SP01.png)
+![gambar](SP3S/SP3S_Web/SP33.png)
 
+2. Klik tab **Detail** untuk melihat daftar informasi user PJS 
 
-
-![gambar](SP3S/SP3S_Teams/SP3S01.png)
+![gambar](SP3S/SP3S_Web/SP35.png)
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 

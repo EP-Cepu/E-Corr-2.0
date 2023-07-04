@@ -6,7 +6,10 @@
 
 ## **E-Corr Versi Web**
 
-Berikut ini tutorial yang menjelaskan langkah-langkah untuk mengesahkan surat keluar oleh approver **via Web**. Penandatangan surat keluar dapat menggunakan Digital Sign atau tanpa digital sign.
+Berikut ini video tutorial yang menjelaskan langkah-langkah untuk mengesahkan surat keluar oleh approver **via Web**. Penandatangan surat keluar dapat menggunakan Digital Sign Peruri/BSSN/tanpa digital sign. Jika pengguna memilih menggunakan Peruri maka akan diarahkan untuk memasukan kode OTP yang dikirimkan ke email dan nomor handphone terdaftar. Jika penggunaa memilih menggunakan BSSN maka akan diarahkan untuk memasukan NIK dan Passphrase sesuai yang terdaftar pada sistem.
+
+</br>
+<a href="https://web.microsoftstream.com/embed/video/65ef062a-e6f8-4424-a775-070882725ed6?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-E-Corr/raw/master/Video/Thumbnail/TM04.png" alt="Watch the video"></a>
 
 
 1. Klik menu **Draft**, Klik menu **Direct** dan pilih sulat yang berlabel **Surat Keluar**

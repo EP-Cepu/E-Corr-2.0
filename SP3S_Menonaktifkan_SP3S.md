@@ -11,13 +11,13 @@ Langkah - langkah untuk menonaktifkan SP3S via Web adalah sebagai berikut :
 
 1. Klik menu **Inbox** lalu **Direct** dan pilih surat yang berlabel **SP3S**
 
-![gambar](SP3S/SP3S_Web/02SP48.png)
+![gambar](SP3S/SP3S_Web/SP31.png)
 
-2. Pilih SP3S yang akan dinon-aktifkan kemudian pilih icon **Disable.**
+2. Pilih SP3S yang akan dinon-aktifkan kemudian pada menu **Detail** pilih icon **Disable.**
 
-![gambar](SP3S/SP3S_Web/02SP51.png)
+![gambar](SP3S/SP3S_Web/SP32.png)
 
-3. SP3S yang sudah tidak aktif akan tersimpan di menu **"Sent Item - Direct - SP3S"** approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - Direct - SP3S"**
+3. SP3S yang sudah tidak aktif akan tersimpan di menu **"Sent Item - Direct"** approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - Direct"**
 
 
 

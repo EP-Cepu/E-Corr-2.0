@@ -12,15 +12,13 @@ Langkah - langkah untuk menambah SPPTH via Web adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 
-![gambar](SPPTH/SPPTH_Web/02TH02.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH1.png)
 
 2. Pilih jenis surat "**SPPTH**"
 
-![gambar](SPPTH/SPPTH_Web/02TH03.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH2.png).
 
-3. Isi *form* tambah SPPTH. Terdapat beberapa aksi untuk menindaklanjuti SPPTH yang sudah diisi *form* nya yaitu **Save as  Draft** dan **Send Document**.
 
-![gambar](SPPTH/SPPTH_Web/02TH04.png)
 
 ####  **Simpan SPPTH**
 
@@ -28,7 +26,7 @@ Langkah - langkah untuk menyimpan SPPTH adalah sebagai berikut.
 
 1. Isi *form* SPPTH kemudian klik **Save as Draft**
 
-![gambar](SPPTH/SPPTH_Web/02TH05.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH3.png)
 
 #### **[Edit] Word Desktop**
 

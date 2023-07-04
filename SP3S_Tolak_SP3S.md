@@ -10,17 +10,17 @@ Langkah - langkah untuk menolak SP3S via Web adalah sebagai berikut :
 
 1. Klik menu **Draft** lalu **Direct** dan klik surat yang berlabel**SP3S**
 
-![gambar](SP3S/SP3S_Web/02SP33.png)
+![gambar](SP3S/SP3S_Web/SP12.png)
 
 2. Pilih SP3S yang akan di Reject kemudian pilih tab **Detail**
 
-![gambar](SP3S/SP3S_Web/02SP34.png)
+![gambar](SP3S/SP3S_Web/SP13.png)
 
 3. Klik tombol **Reject Document** kemudian Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan  kemudian klik **Submit**
 
-![gambar](SP3S/SP3S_Web/02SP35.png)
+![gambar](SP3S/SP3S_Web/SP14.png)
 
-![gambar](SP3S/SP3S_Web/02SP35-1.png)
+![gambar](SP3S/SP3S_Web/SP15.png)
 
 4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Direct - SP3S”** user penolak dengan Menu **Rejected**
 

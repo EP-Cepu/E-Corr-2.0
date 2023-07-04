@@ -8,19 +8,19 @@
 ## **E-Corr Versi Web**
 -langkah untuk menolak surat keluar via Web adalah sebagai berikut
 
-1. Klik menu **Draft** dan Klik menu **Direct**  kemudian pilih label **Surat Keluar**
+1. Klik menu **Draft** dan Klik menu **Direct**  kemudian pilih surat yang berlabel **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/02SK44.png)
+![gambar](SuratKeluar/SK_Web/SK41.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SuratKeluar/SK_Web/02SK45.png)
+![gambar](SuratKeluar/SK_Web/SK42.png)
 
 3. Klik tombol **Reject** dan pilih **Submit**. Isikan komentar jika diperlukan
 
-![gambar](SuratKeluar/SK_Web/02SK46.png)
+![gambar](SuratKeluar/SK_Web/SK47.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **Rejected document** label **Surat Keluar** user penolak dengan label **Rejected**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **Rejected** label **Surat Keluar** user penolak dengan label **Rejected**
 
 
 

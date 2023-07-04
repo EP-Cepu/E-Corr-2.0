@@ -13,15 +13,12 @@ Langkah - langkah untuk menambah SP3S via Web adalah sebagai berikut :
 
 1. Klik menu **New Correspondence**
 
-![gambar](SP3S/SP3S_Web/SP-1.png)
+![gambar](SP3S/SP3S_Web/SP01.png)
 
-2. Pilih jenis surat **"SP3S"**
+2. Pilih jenis surat **"SP3S"** lalu klik button **Next**
 
-![gambar](SP3S/SP3S_Web/SP-2.png)
+![gambar](SP3S/SP3S_Web/SP02.png)
 
-3. Isi *form* tambah SP3S. Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi *form*nya yaitu **Save As Draft**.
-
-![gambar](SP3S/SP3S_Web/SP-3.png)
 
 #### **Simpan SP3S**
 
@@ -29,52 +26,53 @@ Langkah - langkah untuk menyimpan SP3S adalah sebagai berikut.
 
 1. Isi *form* SP3S kemudian klik **Save As Draft**
 
-![gambar](SP3S/SP3S_Web/SP-3.png)
+![gambar](SP3S/SP3S_Web/SP03.png)
 
 
-2. Sistem akan menampilkan tampilan *preview* SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
+2. Sistem akan menampilkan tampilan *preview* SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Edit document** kemudian sistem akan menampilkan *pop up* konfirmasi **Edit in Word Desktop** atau **Edit Online**
 
-![gambar](SP3S/SP3S_Web/02SP19.png)
+![gambar](SP3S/SP3S_Web/SP04.png)
+![gambar](SP3S/SP3S_Web/SP05.png)
 
 #### **[Edit] Word Desktop**
 
 Langkah - langkah untuk mengubah isi SP3S melalui Word Desktop adalah sebagai berikut.
 
-1. Klik **Ubah di Word** untuk mengubah melalui aplikasi Microsoft Word
+1. Klik **Edit in Word Desktop** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SP3S/SP3S_Web/02SP21.png)
+![gambar](SP3S/SP3S_Web/SP06.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi dan isi surat akan otomatis tersimpan
 
-![gambar](SP3S/SP3S_Web/02SP24.png)
+![gambar](SP3S/SP3S_Web/SP08.png)
 
 #### **[Edit] Ubah Online**
 
 Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 
-1. Klik **Ubah Online** untuk mengubah isi surat secara *online*
+1. Klik **Edit Online** untuk mengubah isi surat secara *online*
 
-![gambar](SP3S/SP3S_Web/02SP23.png)
+![gambar](SP3S/SP3S_Web/SP07.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-![gambar](SP3S/SP3S_Web/SP23.png)
+![gambar](SP3S/SP3S_Web/SP09.png)
 
-3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Yes**
 
-![gambar](SP3S/SP3S_Web/02SP24.png)
+![gambar](SP3S/SP3S_Web/SP10.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Direct -SP3S"**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Direct"** 
 
 #### **Kirim SP3S**
 
 Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
-1. Pada tampilan **Modify Document** SP3S, klik **Send Document** untuk mengirim surat ke pejabat tujuan
+1. Pada tampilan **Edit correspondance** SP3S, klik **Send document** untuk mengirim surat ke pejabat tujuan
 
-![gambar](SP3S/SP3S_Web/02SP25.png)
+![gambar](SP3S/SP3S_Web/SP11.png)
 
-2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - Direct - SP3S"**
+2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - Direct"**
 
 
 
@@ -82,15 +80,14 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
 Langkah – langkah untuk menyimpan SP3S adalah sebagai berikut :
 
-1.	Isi form SP3S kemudian klik **Save**
+1.	Isi form SP3S kemudian klik **Save as Draft**
 
-![gambar](SP3S/SP3S_Teams/SP3S05.png)
+![gambar](SP3S/SP3S_Web/SP03.png)
 
-![gambar](SP3S/SP3S_Teams/SP3S06.png)
+2. Sistem akan menampilkan tampilan *preview* SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Edit document** kemudian sistem akan menampilkan *pop up* konfirmasi **Edit in Word Desktop** atau **Edit Online**
 
-2.	Sistem akan menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan pop up konfirmasi Ubah Word Desktop atau Ubah Online
-
-![gambar](SP3S/SP3S_Teams/SP3S07.png)
+![gambar](SP3S/SP3S_Web/SP04.png)
+![gambar](SP3S/SP3S_Web/SP05.png)
 
 #### **[Edit] Word Desktop**
 
@@ -98,39 +95,39 @@ Langkah – langkah untuk mengubah isi surat keluar melalui Word Desktop adalah 
 
 1.	Klik **Open In Desktop App** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SP3S/SP3S_Teams/SP3S08.png)
+![gambar](SP3S/SP3S_Web/SP08.png)
 
 2.	Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi Isi surat akan otomatis tersimpan
 
-![gambar](SP3S/SP3S_Teams/SP3S09.png)
+![gambar](SP3S/SP3S_Web/SP09.png)
 
 #### **[Edit] Ubah Online**
 
 Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai berikut :
 
-1. Ketika Klik button **Edit Content** maka secara otomatis akan membuka dokumen dan bisa mengubah isi surat secara online
+1. Ketika Klik button **Edit Online** maka secara otomatis akan membuka dokumen dan bisa mengubah isi surat secara online
 
-![gambar](SP3S/SP3S_Teams/SP3S10.png)
+![gambar](SP3S/SP3S_Web/SP07.png)
 
 2. Lakukan perubahan pada isi surat
 
-![gambar](SP3S/SP3S_Teams/SP3S11.png)
+![gambar](SP3S/SP3S_Web/SP09.png)
 
 3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
 
-![gambar](SP3S/SP3S_Teams/SP3S12.png)
+![gambar](SP3S/SP3S_Web/SP11.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft – Surat SP3S”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Sent Item – Direct”**
 
 #### **Kirim SP3S**
 
 Langkah – langkah untuk mengirim SP3S adalah sebagai berikut :
 
-1.	Pada tampilan preview SP3S, klik **Send** untuk mengirim surat ke pejabat tujuan
+1.	Pada tampilan preview SP3S, klik **Send document** untuk mengirim surat ke pejabat tujuan
 
-![gambar](SP3S/SP3S_Teams/SP3S13.png)
+![gambar](SP3S/SP3S_Web/SP11.png)
 
-2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
+2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - Direct”**
 
 ## **E-Corr Versi Mobile (Android & iOS)**
 
