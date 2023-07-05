@@ -9,8 +9,8 @@ Sekretaris dapat melihat daftar dokumen masuk (Inbox) yang mencatatkan seluruh d
 Berikut ini terdapat video yang menjelaskan langkah-langkah sebagai sekretaris untuk melihat dokumen milik atasan pejabatnya pada menu Document Control
 
 
-1. Klik menu **Document** dan pilih submenu **Control - Inbox**
+1. Klik menu **Document - Control** dan pilih submenu **Inbox** - **Direct/Disposition**
 
-![gambar](DocumentControl/DC_Web/AG8.png)
+![gambar](DocumentControl/DC_Web/AG9.png)
 
 2. Sistem menampilkan dokumen masuk yang informasinya meliputi number, Agenda, from, about, type, last Modified dan secretary note.

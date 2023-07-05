@@ -13,21 +13,21 @@ Langkah - langkah untuk melakukan pengelolaan grup akses via Web adalah sebagai 
 
 #### **Mencari Menu Akses**
 
-1.    Pilih menu **Master** dan pilih submenu **Group Access**
+1.    Pilih menu **Master**, **Applications** dan pilih submenu **Group - Access**
 
-![gambar](DataMaster/SC_DataMaster/02DM14.png)
+![gambar](DataMaster/SC_DataMaster/DM11.png)
 
 2.    Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](DataMaster/SC_DataMaster/02DM15.png)
+![gambar](DataMaster/SC_DataMaster/DM12.png)
 
 
 #### **Menambah Grup Akses untuk Setiap Role**
 
-1.    Pilih menu **Master** dan pilih submenu **Access Menus**
+1.    Pilih menu **Master**, **Applications** dan pilih submenu **Group - Access**
 
-![gambar](DataMaster/SC_DataMaster/02DM16.png)
+![gambar](DataMaster/SC_DataMaster/DM11.png)
 
-2.    Pilih role yang akan ditambahkan grup akses kemudian checklist grup menu yang akan diberikan akses dan klik **Submit**
+2.    Pilih role yang akan ditambahkan grup akses kemudian checklist grup menu yang akan diberikan akses dan klik **Save**
 
-![gambar](DataMaster/SC_DataMaster/02DM17.png)
+![gambar](DataMaster/SC_DataMaster/DM13.png)

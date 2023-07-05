@@ -8,7 +8,7 @@ Sekretaris dapat melihat daftar surat yang masih berada di draft pejabat atasan 
 
 Langkah-langkah untuk melihat daftar dokumen draft via Web adalah sebagai berikut:
 
-1. Klik menu **Document** dan pilih submenu **Control - Draft**
+1. Klik menu **Document** dan pilih submenu **Control** **Inbox/Draft/Sent Items/Rejected/Archive** lalu pilih menu **Direct**
 
 ![gambar](DocumentControl/DC_Web/AG7.png)
 

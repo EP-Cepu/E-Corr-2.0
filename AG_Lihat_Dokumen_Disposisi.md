@@ -8,7 +8,7 @@ Sekretaris dapat melihat daftar disposisi yang diterima oleh pejabat atasan
 
 Langkah-langkah untuk melihat daftar disposisi via Web adalah sebagai berikut:
 
-1. Klik menu **Document** dan pilih submenu **Control - Disposition**
+1. Klik menu **Document** dan pilih submenu **Control** **Inbox/Draft/Sent Items/** pilih sub menu **Disposition**
 
 ![gambar](DocumentControl/DC_Web/AG5.png)
 
