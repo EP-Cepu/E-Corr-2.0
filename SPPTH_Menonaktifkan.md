@@ -9,15 +9,15 @@ SPPTH yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa
 
 Langkah - langkah untuk menonaktifkan SPPTH via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih surat dengan label **SPPTH** yang akan dinon-aktifkan.
+1. Klik menu **Inbox - Direct** dan pilih surat dengan label **SPPTH** yang akan dinon-aktifkan.
 
-![gambar](SPPTH/SPPTH_Web/02TH47.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH30.png)
 
 2. Pada tab **detail** pilih _icon_ **Disable**. Kemudian Pilih **Submit**. Berikan komentar jika perlu.
 
-![gambar](SPPTH/SPPTH_Web/02TH48.png) ![gambar](SPPTH/SPPTH_Web/02TH48a.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH40.png) ![gambar](SPPTH/SPPTH_Web/SPPTH41.png)
 
-3. SPPTH yang sudah tidak aktif akan tersimpan di menu "**Sent Item**" *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu "**Inbox**".
+3. SPPTH yang sudah tidak aktif akan tersimpan di menu "**Sent Item - Direct**" *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu "**Inbox**".
 
 
 

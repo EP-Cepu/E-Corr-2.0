@@ -32,47 +32,47 @@ Langkah - langkah untuk menyimpan SPPTH adalah sebagai berikut.
 
 Langkah - langkah untuk mengubah isi SPPTH melalui Word Desktop adalah sebagai berikut.
 
-1. Pada **menu draft**, pilih **SPPTH** yang ingin diubah, kemudian pilih aksi **modify Document**.
+1. Pada **menu Draft - Direct**, pilih surat jenis **SPPTH** yang ingin diubah, kemudian pilih aksi **modify Document**.
 
-![gambar](SPPTH/SPPTH_Web/02TH07a.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH4.png)
 
 2. Klik **Edit Document** untuk mengubah **SPPTH**.
 
-![gambar](SPPTH/SPPTH_Web/02TH07b.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH5.png)
 
 3. Klik **Edit in Word App** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SPPTH/SPPTH_Web/02TH07.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH6.png)
 
 4. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi dan isi surat akan otomatis tersimpan
 
-![gambar](SPPTH/SPPTH_Web/02TH08.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH7.png)
 
 #### **[Edit] Ubah Online**
 
 Langkah - langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
 
-1. Pada **menu draft**, pilih **SPPTH** yang ingin diubah, kemudian pilih aksi **modify Document**.
+1. Pada **menu Draft - Direct**, pilih surat yang berlabel **SPPTH** yang ingin diubah, kemudian pilih aksi **Modify Document**.
 
-![gambar](SPPTH/SPPTH_Web/02TH07a.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH8.png)
 
 2. Klik **Edit Document** untuk mengubah **SPPTH**.
 
-![gambar](SPPTH/SPPTH_Web/02TH07b.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH9.png)
 
 3. Klik **Edit Online** untuk mengubah isi surat secara online
 
-![gambar](SPPTH/SPPTH_Web/02TH09.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH10.png)
 
 4. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-![gambar](SPPTH/SPPTH_Web/02TH10.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH11.png)
 
-5. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
+5. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Yes**
 
-![gambar](SPPTH/SPPTH_Web/02TH11.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH12.png)
 
-6. Surat yang sudah selesai diubah maka akan tersimpan di menu "**Draft - SPPTH**"
+6. Surat yang sudah selesai diubah maka akan tersimpan di menu "**Draft - Draft Direct**"
 
 #### **Kirim SPPTH**
 
@@ -80,9 +80,9 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 1. Pada tampilan *preview* SPPTH, klik **Send Document** untuk mengirim SPPTH ke *approver*
 
-![gambar](SPPTH/SPPTH_Web/02TH12.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH13.png)
 
-2. Setelah mengirim SPPTH, sistem akan menyimpan SPPTH di menu "**Sent Item - SPPTH**".
+2. Setelah mengirim SPPTH, sistem akan menyimpan SPPTH di menu "**Sent Items - Direct**".
 
 
 ## **E-Corr Versi Mobile (Android & iOS)**

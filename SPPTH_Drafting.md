@@ -10,29 +10,29 @@
 
 Langkah - langkah untuk melakukan drafting SPPTH via Web adalah sebagai berikut :
 
-1. Klik menu **Draft** dan pilih tab **SPPTH**
+1. Klik menu **Draft** dan pilih Sub menu **Direct**
 
-![gambar](SPPTH/SPPTH_Web/02TH13.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH19.png)
 
 2. Pilih SPPTH yang akan diubah. Pilih tab **Detail** kemudian klik **Modify Document**
 
-![gambar](SPPTH/SPPTH_Web/02TH14.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH20.png)
 
 3. Sistem akan menampilkan *form* **Edit Correspondence**
 
-![gambar](SPPTH/SPPTH_Web/02TH15.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH21.png)
 
-4. Lakukan perubahan pada *form*. Klik **Save as Draft** untuk menyimpan perubahan pada *form* SPPTH. Surat yang disimpan akan tersimpan di menu "**Draft**"
+4. Lakukan perubahan pada *form*. Klik **Save as Draft** untuk menyimpan perubahan pada *form* SPPTH. Surat akan tersimpan di menu "**Draft - Direct**"
 
-![gambar](SPPTH/SPPTH_Web/02TH16.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH22.png)
 
 5. Klik **Edit Document** untuk mengubah isi SPPTH
 
-![gambar](SPPTH/SPPTH_Web/02TH17.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH23.png)
 
 6. Sistem menampilkan pop up konfirmasi untuk melakukan *editing* terhadap isi surat. Pilih **Edit in Word app** untuk mengedit di aplikasi word desktop atau **Edit Online** untuk mengedit menggunakan aplikasi word secara _online_.
 
-![gambar](SPPTH/SPPTH_Web/02TH18.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH24.png)
 
 #### **[Edit] Word Desktop**
 
@@ -40,11 +40,11 @@ Langkah - langkah untuk mengubah isi SPPTH melalui Word Desktop adalah sebagai b
 
 1. Klik **Edit in Word app** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SPPTH/SPPTH_Web/02TH19.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH6.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi dan isi surat akan otomatis tersimpan
 
-![gambar](SPPTH/SPPTH_Web/02TH20.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH7.png)
 
 #### **[Edit] Ubah Online**
 
@@ -52,17 +52,17 @@ Langkah - langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
 
 1. Klik **Edit Online** untuk mengubah isi surat secara online
 
-![gambar](SPPTH/SPPTH_Web/02TH21.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH26.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-![gambar](SPPTH/SPPTH_Web/02TH22.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH11.png)
 
-3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Yes**
 
-![gambar](SPPTH/SPPTH_Web/02TH23.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH12.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu "**Draft**".
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu "**Draft - Direct**".
 
 #### **Kirim / Setujui SPPTH**
 
@@ -70,7 +70,7 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 1. Pada tampilan *preview* SPPTH, klik **Send Document** untuk mengirim SPPTH ke atasan pejabat
 
-![gambar](SPPTH/SPPTH_Web/02TH24.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH13.png)
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Sent Item**"
 

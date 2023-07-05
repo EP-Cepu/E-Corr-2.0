@@ -8,17 +8,17 @@
 
 Langkah - langkah untuk menyetujui SPPTH via Web adalah sebagai berikut
 
-1. Klik menu **Draft** dan pilih surat berlabel **SPPTH**.
+1. Klik menu **Draft - Direct** dan pilih surat yang berlabel **SPPTH**.
 
-![gambar](SPPTH/SPPTH_Web/02TH29.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH14.png)
 
 2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**.
 
-![gambar](SPPTH/SPPTH_Web/02TH30.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH15.png)
 
 3. Klik tombol **Sign Document** dan pilih provider sign yang akan digunakan. 
 
-![gambar](SPPTH/SPPTH_Web/02TH31.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH16.png)
 
 4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item**
 

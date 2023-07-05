@@ -8,19 +8,19 @@
 
 Langkah-langkah untuk menolak SPPTH via web adalah sebagai berikut :
 
-1. Klik menu **Draft** dan pilih surat berlabel **SPPTH**.
+1. Klik menu **Draft - Direct** dan pilih surat berlabel **SPPTH**.
 
-![gambar](SPPTH/SPPTH_Web/02TH32.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH35.png)
 
 2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**.
 
-![gambar](SPPTH/SPPTH_Web/02TH33.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH36.png)
 
-3. Klik tombol **Reject**, kemudian pilih **Submit**. Isikan komentar jika diperlukan.
+3. Klik tombol **Reject document**, kemudian pilih **Submit**. Isikan komentar jika diperlukan.
 
-![gambar](SPPTH/SPPTH_Web/02TH34.png) ![gambar](SPPTH/SPPTH_Web/02TH34a.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH38.png) ![gambar](SPPTH/SPPTH_Web/SPPTH37.png)
 
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – SPPTH”** user penolak dengan label **Rejected**.
+4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected** selanjutnya di list akan ditampilkan surat jenis SPPTH user penolak dengan label **Rejected**.
 
 
 ## **E-Corr Versi Mobile (Android & iOS)**
