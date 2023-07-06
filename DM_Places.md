@@ -13,66 +13,66 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat via Web adalah sebagai ber
 
 #### Mencari Tempat
 
-1. Pilih menu **Master** dan pilih submenu **Places**
+1. Pilih menu **Master** dan pilih submenu **Mails - Places**
 
-![gambar](DataMaster/SC_DataMaster/02DM110.png)
+![gambar](DataMaster/SC_DataMaster/DM74.png)
 
 2. Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](DataMaster/SC_DataMaster/02DM111.png)
+![gambar](DataMaster/SC_DataMaster/DM75.png)
 
 #### Menambah Tempat
 
-1. Pilih menu **Master** dan pilih submenu **Places**
+1. Pilih menu **Master** dan pilih submenu **Mails - Places**
 
-![gambar](DataMaster/SC_DataMaster/02DM112.png)
+![gambar](DataMaster/SC_DataMaster/DM74.png)
 
-2. Pilih tombol &quot;+&quot; untuk menambah tempat
+2. Pilih tombol ***+ Add places** untuk menambah tempat
 
-![gambar](DataMaster/SC_DataMaster/DM113.png)
+![gambar](DataMaster/SC_DataMaster/DM76.png)
 
-3. Isikan informasi tempat meliputi nama kemudian klik tombol **Submit**
+3. Isikan informasi tempat meliputi nama kemudian klik tombol **Save**
 
-![gambar](DataMaster/SC_DataMaster/DM114.png)
+![gambar](DataMaster/SC_DataMaster/DM77.png)
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar tempat
 
 #### Mengubah Tempat
 
-1. Pilih menu **Master** dan pilih submenu **Places**
+1. Pilih menu **Master** dan pilih submenu **Mails - Places**
 
-![gambar](DataMaster/SC_DataMaster/02DM115.png)
+![gambar](DataMaster/SC_DataMaster/DM74.png)
 
-2. Klik checklist pada tempat yang akan diubah kemudian klik icon **Ubah**
+2. Klik checklist pada tempat yang akan diubah kemudian klik icon **Edit places**
 
-![gambar](DataMaster/SC_DataMaster/02DM116.png)
+![gambar](DataMaster/SC_DataMaster/DM78.png)
 
 3. Lakukan perubahan pada tempat, pilih **Cancel** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/02DM117.png)
+![gambar](DataMaster/SC_DataMaster/DM79.png)
 
-4. Lakukan perubahan pada tempat kemudian klik tombol **Submit**
+4. Lakukan perubahan pada tempat kemudian klik tombol **Save**
 
-![gambar](DataMaster/SC_DataMaster/02DM118.png)
+![gambar](DataMaster/SC_DataMaster/DM80.png)
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar tempat
 
 #### Menghapus Kategori Surat
 
-1. Pilih menu **Master** dan pilih submenu **Mail Categories**
+1. Pilih menu **Master** dan pilih submenu **Mails - Places**
 
-![gambar](DataMaster/SC_DataMaster/02DM119.png)
+![gambar](DataMaster/SC_DataMaster/DM74.png)
 
 2. Klik checklist pada tempat yang akan dihapus kemudian klik icon **Delete**
 
-![gambar](DataMaster/SC_DataMaster/02DM120.png)
+![gambar](DataMaster/SC_DataMaster/DM81.png)
 
 3. Klik tombol **No** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/02DM121.png)
+![gambar](DataMaster/SC_DataMaster/DM82.png)
 
-4. Klik tombol **Ya** untuk menghapus tempat
+4. Klik tombol **Yes** untuk menghapus tempat
 
-![gambar](DataMaster/SC_DataMaster/02DM122.png)
+![gambar](DataMaster/SC_DataMaster/DM83.png)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar tempat

@@ -26,4 +26,4 @@
 </font size>
 
 </br>
-<a href="https://web.microsoftstream.com/embed/video/65ef062a-e6f8-4424-a775-070882725ed6?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-E-Corr/raw/master/Video/Thumbnail/TM01.png" alt="Watch the video"></a>
+<a href=></a>

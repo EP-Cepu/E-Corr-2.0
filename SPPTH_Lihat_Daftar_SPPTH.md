@@ -10,17 +10,17 @@
 
 Langkah - langkah untuk melihat daftar SPPTH via Web adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih _icon_ **filter**.
+1. Klik menu **Inbox - Direct** dan pilih _icon_ **filter**.
 
-![gambar](SPPTH/SPPTH_Web/02TH01.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH27.png)
 
-2. Pilih form type dengan **SPPTH** dan klik **find**.
+2. Pilih field **Type** pilih opsi surat jenis **SPPTH** dan klik **find**.
 
-![gambar](SPPTH/SPPTH_Web/02TH01a.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH28.png)
 
 3. Semua surat dengan label **SPPTH** akan muncul pada menu inbox.
 
-![gambar](SPPTH/SPPTH_Web/02TH01b.png)
+![gambar](SPPTH/SPPTH_Web/SPPTH29.png)
 
 
 
