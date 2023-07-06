@@ -8,35 +8,35 @@ Sekretaris dapat melihat detail surat baik surat yang berklasifikasi "Biasa", "T
 
 Langkah - langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan dokumen disposisi via Web adalah sebagai berikut.
 
-1. Klik menu **Document** dan pilih **Control**, Kemudian pilih **Dokumen Inbox/ Dokumen Sent items/ Dokumen Disposition**
+1. Klik menu **Document** dan pilih **Control**, Kemudian pilih **Dokumen Inbox/ Dokumen Draft/ Dokumen Sent items/** dari surat **Direct/Disposition**
 
-![gambar](DocumentControl/DC_Web/AG9.png)
+![gambar](DocumentControl/DC_Web/AG10.png)
 
 2. Klik salah satu surat yang akan dilihat detailnya
 
-![gambar](DocumentControl/DC_Web/02MM08.png)
+![gambar](DocumentControl/DC_Web/AG11.png)
 
 #### **Preview Surat**
     
 Pada tab **Preview**, ditampilkan _preview_ surat yang sudah dibuat. _Preview_ surat disesuaikan dengan template berdasarkan jenis surat
 
-![gambar](DocumentControl/DC_Web/02MM09.png)
+![gambar](DocumentControl/DC_Web/AG12.png)
 
 #### **Detail Surat**
     
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat
 
-![gambar](DocumentControl/DC_Web/02MM10.png)
+![gambar](DocumentControl/DC_Web/AG13.png)
 
 #### **Tracking Surat**
    
 Pada tab **Tracking**, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
-![gambar](DocumentControl/DC_Web/02MM11.png)
+![gambar](DocumentControl/DC_Web/AG14.png)
 
 #### **History Surat**
     
-Pada tab **History Surat**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](DocumentControl/DC_Web/02MM12.png)
+![gambar](DocumentControl/DC_Web/AG15.png)
 
