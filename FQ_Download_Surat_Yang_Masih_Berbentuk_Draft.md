@@ -9,17 +9,17 @@ Permasalahan ini terjadi ketika user akan mengunduh surat yang masih belum diset
 
 1.	Buka aplikasi **E-Corr**, klik menu **Draft/Sent item – Direct**.
 
-![gambar](FAQ/E36.jpg)
+![gambar](FAQ/FQ10.jpg.jpg)
 
 2.	Cari surat yang akan diunduh
 3.	Klik surat tersebut lalu pilih tab **Preview**.
 
-![gambar](FAQ/E37.jpg)
+![gambar](FAQ/FQ11.jpg)
 
 4.	Klik icon segitiga terbalik dipojok kanan bawah, lalu pilih **Download a Copy**.
 
-![gambar](FAQ/E38.jpg)
+![gambar](FAQ/FQ12.jpg)
 
 5.	Dokumen sudah berhasil diunduh dan tersimpan pada local PC client
 
-![gambar](FAQ/E39.jpg)
+![gambar](FAQ/FQ13.jpg)

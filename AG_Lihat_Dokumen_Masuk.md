@@ -11,6 +11,6 @@ Berikut ini terdapat video yang menjelaskan langkah-langkah sebagai sekretaris u
 
 1. Klik menu **Document - Control** dan pilih submenu **Inbox** - **Direct/Disposition**
 
-![gambar](DocumentControl/DC_Web/AG9.png)
+![gambar](DocumentControl/DC_Web/dc07.png)
 
 2. Sistem menampilkan dokumen masuk yang informasinya meliputi number, Agenda, from, about, type, last Modified dan secretary note.

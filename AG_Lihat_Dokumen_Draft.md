@@ -10,7 +10,7 @@ Langkah-langkah untuk melihat daftar dokumen draft via Web adalah sebagai beriku
 
 1. Klik menu **Document** dan pilih submenu **Control** **Inbox/Draft/Sent Items/Rejected/Archive** lalu pilih menu **Direct**
 
-![gambar](DocumentControl/DC_Web/AG7.png)
+![gambar](DocumentControl/DC_Web/DC05.png)
 
 2. Sistem menampilkan dokumen draft yang meliputi number, Agenda, from, about, type, last Modified dan secretary note.
 

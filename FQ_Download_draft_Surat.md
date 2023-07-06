@@ -2,20 +2,20 @@
 
 - Login ke **E-Corr** pilih Menu **Draft/Sent item – Direct**.
 
-![gambar](FAQ/D1.jpg)
+![gambar](FAQ/FQ06.jpg)
 
 - Pilih dan klik surat yang akan di download.
 
 - Setelah surat terbuka, klik tab **Preview** 
 
-![gambar](FAQ/D2.jpg)
+![gambar](FAQ/FQ07.jpg)
 
 - Klik **icon segitiga terbalik** dipojok kanan bawah, lalu pilih **Download a Copy**.
 
-![gambar](FAQ/D3.jpg)
+![gambar](FAQ/FQ08.jpg)
 
 - Dokumen sudah berhasil terdownload.
 
-![gambar](FAQ/D4.jpg)
+![gambar](FAQ/FQ09.jpg)
 
 <font size>
