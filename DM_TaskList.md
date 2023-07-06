@@ -66,7 +66,7 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai beri
 
 1.    Pilih menu **Master** kemudian **Mails** dan pilih submenu **_Task list_**
 
-![gambar](DataMaster/SC_DataMaster/DM24.jpg)
+![gambar](DataMaster/SC_DataMaster/DM24.jpg) 
 
 2.    Klik checklist pada _task list_ yang akan dihapus kemudian klik tombol **Delete Task List**
 
