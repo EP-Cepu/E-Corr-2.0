@@ -78,6 +78,6 @@ Langkah - langkah untuk pengelolaan _mapping_ sekretaris via Web adalah sebagai 
 
 4. Klik tombol **Yes** untuk menghapus _secretary mapping_
 
-![gambar](DataMaster/SC_DataMaster/02DM109.png)
+![gambar](DataMaster/SC_DataMaster/DM93.png)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar _secretary mapping_
