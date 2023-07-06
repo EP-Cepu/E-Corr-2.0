@@ -31,7 +31,7 @@ Langkah - langkah untuk menyetujui pengajuan nomor via Web adalah sebagai beriku
 
 4. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu "**Document - Control**" dengan status **Close** dan  pada role admin E-Corr. Sedangkan untuk role sekretaris tersimpan di menu "**Document - Control**"  dengan status **Close**
 =======
-![gambar](DocumentControl/DC_Web/dc20.png)
+![gambar](DocumentControl/DC_Web/DC20.png)
 
 
 4. Sistem berhasil menyimpan perubahan dan nomor offline yang disetujui akan tampil di menu "**Document - Control**" dengan status **Close** dan  pada role admin E-Corr. Sedangkan untuk role sekretaris tersimpan di menu "**Document - Control**"  dengan status **Close**
