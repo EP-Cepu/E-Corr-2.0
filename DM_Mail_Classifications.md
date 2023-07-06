@@ -15,13 +15,13 @@ Langkah - langkah untuk pengelolaan klasifikasi surat via Web adalah sebagai ber
 
 #### **Mencari Klasifikasi surat**
 
-1.    Pilih menu **Master** dan pilih submenu **Mail Classification**
+1.    Pilih menu **Master** Kemudian pilih **Mails** dan pilih submenu **Mail Classification**
 
-![gambar](DataMaster/SC_DataMaster/02DM31.png)
+![gambar](DataMaster/SC_DataMaster/DM22.jpg)
 
 2.    Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](DataMaster/SC_DataMaster/02DM32.png)
+![gambar](DataMaster/SC_DataMaster/DM23.jpg)
 
 #### **Menambah Klasifikasi Surat**
 
