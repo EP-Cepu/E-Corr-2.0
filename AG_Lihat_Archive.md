@@ -10,6 +10,6 @@ Langkah-langkah untuk melihat daftar dokumen Archive via Web adalah sebagai beri
 
 1. Klik menu **Document** dan pilih submenu **Control - Archive**
 
-![gambar](DocumentControl/DC_Web/AG4.png)
+![gambar](DocumentControl/DC_Web/dc02.png)
 
 2. Sistem menampilkan dokumen archive yang informasinya meliputi number, Agenda, from, about, type, last Modified dan secretary note

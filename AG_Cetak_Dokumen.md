@@ -10,7 +10,7 @@ Langkah-langkah untuk filter data surat pada agenda kendali via Web adalah sebag
 
 1. Klik menu **Document** dan pilih **Control** kemudian pilih **Inbox/Draft/Sent Items/Rejected/Archive**
 
-![gambar](DocumentControl/DC_Web/DC1.png)
+![gambar](DocumentControl/DC_Web/DC01.png)
 
 2. Klik titik tiga kemudian pilih **Inbox/Draft/Sent Items/Rejected/Archive** untuk melakukan filter informasi data surat pada agenda kendali
 

@@ -10,33 +10,33 @@ Langkah - langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar d
 
 1. Klik menu **Document** dan pilih **Control**, Kemudian pilih **Dokumen Inbox/ Dokumen Sent items/ Dokumen Disposition**
 
-![gambar](DocumentControl/DC_Web/AG9.png)
+![gambar](DocumentControl/DC_Web/DC08.png)
 
 2. Klik salah satu surat yang akan dilihat detailnya
 
-![gambar](DocumentControl/DC_Web/02MM08.png)
+![gambar](DocumentControl/DC_Web/DC09.png)
 
 #### **Preview Surat**
     
 Pada tab **Preview**, ditampilkan _preview_ surat yang sudah dibuat. _Preview_ surat disesuaikan dengan template berdasarkan jenis surat
 
-![gambar](DocumentControl/DC_Web/02MM09.png)
+![gambar](DocumentControl/DC_Web/DC10.png)
 
 #### **Detail Surat**
     
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat
 
-![gambar](DocumentControl/DC_Web/02MM10.png)
+![gambar](DocumentControl/DC_Web/DC09.png)
 
 #### **Tracking Surat**
    
 Pada tab **Tracking**, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
-![gambar](DocumentControl/DC_Web/02MM11.png)
+![gambar](DocumentControl/DC_Web/DC11.png)
 
 #### **History Surat**
     
 Pada tab **History Surat**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](DocumentControl/DC_Web/02MM12.png)
+![gambar](DocumentControl/DC_Web/DC12.png)
 
