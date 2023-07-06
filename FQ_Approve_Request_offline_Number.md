@@ -6,12 +6,12 @@ Setelah mengetahui email user yang request, berikut langkah-langkah untuk melaku
 
 1. Buka Aplikasi E-Corr, lalu klik Menu **Document > Offline Numbers**. Maka akan tampil list Request Offline Number dengan status **Open**.
 
-![gambar](FAQ/01ARON.png)
+![gambar](FAQ/FQ18.jpg)
 
 2. Klik salah satu request offline number tersebut, kemudian akan muncul form Detail Offline number. Lalu pilih tab Detail, silakan scroll ke bawah maka akan terdapat informasi list offline number yang perlu ditindaklanjuti.
 
-![gambar](FAQ/02ARON.png)
+![gambar](FAQ/FQ19.jpg)
 
 3. Klik Approve. Setelah itu pastikan statusnya berubah menjadi Closed.
 
-![gambar](FAQ/03ARON.png)
+![gambar](FAQ/FQ20.jpg)
