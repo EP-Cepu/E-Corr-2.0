@@ -34,31 +34,3 @@ Langkah-langkah untuk melakukan custom disposisi fax masuk Web adalah sebagai be
 ![gambar](FaxMasuk/FM_WEB/Customdispo05.png) 
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah-langkah untuk Custom Disposisi fax masuk via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Inbox - Direct** dan pilih berlabel **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Android/Customdisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/Customdisposisi/02A02.png)
-
-2. Pilih fax masuk yang akan didisposisikan kemudian pilih icon **Option**
-
-![gambar](FaxMasuk/FM_Android/Customdisposisi/02A03.png) 
-
-3. Klik tombol **Disposition**
-
-![gambar](FaxMasuk/FM_Android/Customdisposisi/02A04.png)
-
-4. Sistem menampilkan form disposisi. Klik icon **“+”**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](FaxMasuk/FM_Android/Customdisposisi/02A07.png)
-
-5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
-
-![gambar](FaxMasuk/FM_Android/Customdisposisi/02A08.png)
-
-6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same All Comment** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi dan _user_ dapat menambahkan attachment di kolom **Attachment**. Klik **Save**  menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
-
-![gambar](FaxMasuk/FM_Android/Customdisposisi/02A09.png)
-

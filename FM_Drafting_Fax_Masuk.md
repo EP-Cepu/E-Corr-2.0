@@ -25,23 +25,3 @@ Langkah-langkah untuk melakukan drafting fax masuk via Web adalah sebagai beriku
 
 ![gambar](FaxMasuk/FM_WEB/DraftFM04.png) 
 
-
-## **E-Corr Versi Android dan iOS**
-
-Langkah-langkah untuk drafting fax masuk adalah sebagai berikut :
-
-1. Klik menu **Draft- Direct** dan pilih berlabel **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Android/DraftFM/02A01.png) ![gambar](FaxMasuk/FM_Android/DraftFM/02A02.png) 
-
-2. Pilih fax masuk yang akan diubah. Pilih icon **Option** kemudian klik **Modify Document**
-
-![gambar](FaxMasuk/FM_Android/DraftFM/02A03.png) ![gambar](FaxMasuk/FM_Android/DraftFM/02A04.png)
-
-3. Sistem akan menampilkan _form_ **Edit Fax Masuk** lakukan edit yang ingin dilakukan perubahan.
-
-![gambar](FaxMasuk/FM_Android/DraftFM/02A05.png)
-![gambar](FaxMasuk/FM_Android/DraftFM/02A06.png)
-
-4. Lakukan perubahan pada _form_. Klik **Send Documet** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Direct”** berlabel Fax Masuk.
-   

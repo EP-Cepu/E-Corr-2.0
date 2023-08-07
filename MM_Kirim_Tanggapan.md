@@ -29,22 +29,3 @@ Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Web adalah s
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
 
-
-## **E-Corr Versi Android & IOS**
-
-Langkah-langkah untuk Mengirim tanggapan disposisi memorandum via Teams adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Disposition**
-
-![gambar](Memorandum/MM_Android/Tanggapdisposisi/02MM-05.png)
-
-2. Pilih memorandum yang akan diselesaikan kemudian pilih icon **Option**
-
-![gambar](Memorandum/MM_Android/Tanggapdisposisi/02MM-06.png) 
-
-3. Pilih **Send Response** kemudian Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Send**.
-
-![gambar](Memorandum/MM_Android/Tanggapdisposisi/02MM-07.png) 
-![gambar](Memorandum/MM_Android/Tanggapdisposisi/02MM-08.png)
-
-4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.

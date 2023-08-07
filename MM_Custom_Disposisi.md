@@ -34,30 +34,3 @@ Langkah-langkah untuk melakukan Custom disposisi memorandum via Web adalah sebag
 ![gambar](Memorandum/MM_Web/MM-65.png)
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah-langkah untuk Custom disposisi Memorandum via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih label **Memorandum**
-
-![gambar](Memorandum/MM_Android/Customdisposisi/02A01.png) ![gambar](Memorandum/MM_Android/Customdisposisi/02A02.png)
-
-2. Pilih memorandum yang akan didisposisikan kemudian pilih icon **Option**
-
-![gambar](Memorandum/MM_Android/Customdisposisi/02A03.png) ![gambar](Memorandum/MM_Android/Customdisposisi/02A04.png)
-
-3. Klik tombol **Disposisi** kemudian sistem akan menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](Memorandum/MM_Android/Customdisposisi/02A05.png) ![gambar](Memorandum/MM_Android/Customdisposisi/02A06.png)
-
-4. Sistem menampilkan form disposisi. Klik icon “+” pada field **Forward To**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](Memorandum/MM_Android/Customdisposisi/02A07.png)
-
-5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
-
-![gambar](Memorandum/MM_Android/Customdisposisi/02A08.png)
-
-6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Save Comment For All Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save a draft** untuk menyimpan perubahan dan klik **Send disposition** untuk mengirim disposisi.
-
-![gambar](Memorandum/MM_Android/Customdisposisi/02A09.png)

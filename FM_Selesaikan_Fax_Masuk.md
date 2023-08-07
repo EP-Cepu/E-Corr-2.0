@@ -28,19 +28,3 @@ Langkah-langkah untuk menyelesaikan fax masuk via Web adalah sebagai berikut :
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah-langkah untuk menyelesaikan fax masuk via Android adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih label **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Android/SelesaiFM/A01.png) ![gambar](FaxMasuk/FM_Android/SelesaiFM/A02.png)
-
-2. Pilih fax masuk yang akan diselesaikan kemudian pilih icon **Option**
-
-![gambar](FaxMasuk/FM_Android/SelesaiFM/A03.png) ![gambar](FaxMasuk/FM_Android/SelesaiFM/A04.png)
-![gambar](FaxMasuk/FM_Android/SelesaiFM/02A04.png)
-
-4. Pilih tombol **Finish** kemudian sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
-
-![gambar](FaxMasuk/FM_Android/SelesaiFM/A05.png)

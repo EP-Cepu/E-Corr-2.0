@@ -20,17 +20,3 @@ Langkah - langkah untuk menonaktifkan SPPTH via Web adalah sebagai berikut :
 3. SPPTH yang sudah tidak aktif akan tersimpan di menu "**Sent Item - Direct**" *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu "**Inbox**".
 
 
-
-## **E-Corr Versi Mobile (Android & iOS)**
-
-Langkah - langkah untuk menonaktifkan SPPTH via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih surat yang berlabel **SPPTH** yang akan dinon-aktifkan.
-
-![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/02A01.jpg) ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/02A02.jpg)
-
-2. Pilih _icon_ **Option** kemudian pilih **Disable**.
-
-![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/02A03.jpg) ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/02A04.jpg)
-
-3. SPPTH yang sudah tidak aktif akan tersimpan di menu “**Sent Item**" _approver_. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu “**Inbox**”.

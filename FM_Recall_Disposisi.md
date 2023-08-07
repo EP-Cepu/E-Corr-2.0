@@ -19,21 +19,3 @@ Langkah - langkah untuk melakukan recall disposisi fax masuk via Web adalah seba
 
 3. Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
-
-
-## **E-Corr Versi Android dan iOS**
-
-Langkah-langkah untuk Recaall Fax masuk via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Sent Item - Disposisi** dan pilih berlabel fax Masuk 
-
-![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A02.png)
-
-2. Pilih fax masuk yang akan di-_recall_ ,pada **Detail** pilih icon **Option** kemudian **_Recall_.**
-
-![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A03.png) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A04.png)
-
-3. Sistem menampilkan pop up **Recall** lalu klik **Recall Disposisi** kemudian Fax masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi
-
-
-

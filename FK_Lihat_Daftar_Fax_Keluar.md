@@ -15,11 +15,4 @@ Langkah - langkah untuk melihat daftar fax keluar via Web adalah sebagai berikut
 ![gambar](FaxKeluar/FK_Web/FK14.png)
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk melihat daftar fax keluar via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih berlabel **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Android/DaftarFK/02A01.png) ![gambar](FaxKeluar/FK_Android/DaftarFK/02A02.png)
 

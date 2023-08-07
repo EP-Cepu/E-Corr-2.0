@@ -19,14 +19,3 @@ Langkah - langkah untuk melihat dokumen surat keluar via Web adalah sebagai beri
 
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk melihat daftar dokumem Memorandum via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Archive** pilih berlabel **Surat Keluar**
-   
-![gambar](Archive/AR_Android/FM/02A01.jpg) 
-
-![gambar](Archive/AR_Android/FM/02A02.jpg)
-
-2.  Sistem menampilkan dokumen surat keluar yang tersimpan di menu Archive

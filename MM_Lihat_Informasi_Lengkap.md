@@ -39,39 +39,3 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 ![gambar](Memorandum/MM_Web/MM-27.png)
 
 
-
-## **E-Corr Versi Android IOS**
-
-Langkah-langkah untuk melihat informasi memorandum via Android adalah sebagai berikut :
-
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Android/Infomemo/02MM-11.png)
-![gambar](Memorandum/MM_Android/Infomemo/02MM-12.png) 
-
-### Detail Memorandum
-
-Pilih salah satu memorandum yang akan dilihat informasinya kemudian  Detail memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
-
-![gambar](Memorandum/MM_Android/Infomemo/02MM-13.png)  
-
-### Preview Memorandum
-
-Pada tombol **Preview** ditampilkan _preview_ memorandum yang sudah dibuat. _Preview_ memorandum disesuaikan dengan template berdasarkan jenis surat
-
-![gambar](Memorandum/MM_Android/Infomemo/02MM-18.png) 
-
-
-### Tracking Memorandum
-
-Pada tab **Tracking**, ditampilkan role memorandum yang terdapat informasi user, Jabatan dan tindakan.
-
-![gambar](Memorandum/MM_Android/Infomemo/02MM-14.png) 
-![gambar](Memorandum/MM_Android/Infomemo/02MM-15.png) 
-
-### History Memorandum
-
-Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](Memorandum/MM_Android/Infomemo/02MM-16.png)
-![gambar](Memorandum/MM_Android/Infomemo/02MM-17.png)

@@ -18,11 +18,5 @@ Langkah - langkah untuk melihat daftar SP3S via Web adalah sebagai berikut
 
 ![gambar](SP3S/SP3S_Web/SP35.png)
 
-## **E-Corr Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk melihat daftar SP3S via Android yaitu :
-
-1. Klik menu **Inbox / Draft / Sent Item** lalu pilih **Direct** kemudian pilih surat yang berlabel **SP3S**
-
-![gambar](SP3S/SP3S_Android/DaftarSP3S/02A01.jpg) ![gambar](SP3S/SP3S_Android/DaftarSP3S/02A02.jpg)
 

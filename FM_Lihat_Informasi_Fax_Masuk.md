@@ -40,33 +40,5 @@ Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jaba
 ![gambar](FaxMasuk/FM_WEB/History01.png) 
 
 
-## **E-Corr Versi Android dan iOS**
 
-Langkah-langkah untuk melihat informasi fax masuk adalah sebagai berikut :
-
-1. Klik menu **Inbox/Draft/Outbox** dan pilih label **Fax masuk**
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02A01.png) ![gambar](FaxMasuk/FM_Android/InfoFM/02A02.png)
-
-2. Pilih salah satu fax masuk yang akan dilihat informasinya
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02A02.png)
-
-#### **Detail Fax Masuk**
-
-Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02D01.png)
-
-#### **Preview Fax Masuk**
-
-Pada tab **Preview**, ditampilkan _preview_ fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02P01.png) ![gambar](FaxMasuk/FM_Android/InfoFM/P02.jpg)
-
-#### **History Fax Masuk**
-
-Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02H01.png) ![gambar](FaxMasuk/FM_Android/InfoFM/02H02.png)
 

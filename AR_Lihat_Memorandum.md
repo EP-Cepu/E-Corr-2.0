@@ -19,16 +19,3 @@ Langkah - langkah untuk melihat dokumen memorandum via Web adalah sebagai beriku
 
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk melihat daftar dokumem Memorandum via Android dan iOS adalah sebagai berikut :
-
-
-1. Klik menu **Archive** pilih berlabel **Memorandum**
-   
-![gambar](Archive/AR_Android/FM/02A01.jpg) 
-
-![gambar](Archive/AR_Android/FM/02A02.jpg)
-
-2. Sistem menampilkan dokumen memorandum yang tersimpan di menu Archive
-

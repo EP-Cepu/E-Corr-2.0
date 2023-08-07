@@ -52,33 +52,4 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 1. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Sent Item - Direct"**
 
 
-## **E-Corr Versi Android**
-
-Langkah-langkah untuk menambah Memorandum adalah sebagai berikut :
-
-1. 	Klik icon **(+)** untuk membuat memorandum
-
-![gambar](Memorandum/MM_Android/Tambahmemo/02MM-49.png)
-
-2. Pilih jenis surat “**Memorandum**”
-   
-![gambar](Memorandum/MM_Android/Tambahmemo/02MM-50.png)
-
-3. Isi _form_ tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi _form_nya yaitu **Save memorandum**, **Send Memorandum**dan **Save as Template Memorandum.**
-
-![gambar](Memorandum/MM_Android/Tambahmemo/02MM-51.png) 
-![gambar](Memorandum/MM_Android/Tambahmemo/02MM-52.png) 
-
-### Simpan Memorandum
-
-Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
-
-1. Isi _form_ memorandum kemudian klik **Save Mail**
-
-![gambar](Memorandum/MM_Android/Tambahmemo/02MM-52.png) 
-![gambar](Memorandum/MM_Android/Tambahmemo/02MM-53.png)
-
-2. Sistem akan menyimpan perubahaan dan memorandum akan tersimpan di menu **Draft-Memorandum**
-
-
 

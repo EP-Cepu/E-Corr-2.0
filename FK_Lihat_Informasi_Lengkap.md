@@ -34,34 +34,3 @@ Pada tab **History**, ditampilkan riwayat fax keluar yang terdapat informasi jab
 
 ![gambar](FaxKeluar/FK_Web/FK18.png)
 
-
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk melihat informasi via Android dan iOS adalah sebagai berikut:
-
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih berlabel **Fax Keluar** Pilih salah satu fax keluar yang akan dilihat informasinya
-
-![gambar](FaxKeluar/FK_Android/InfoFK/02A01.png) 
-![gambar](FaxKeluar/FK_Android/InfoFK/02A02.png)
-
-**Detail Fax Keluar**
-
-Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
-
-![gambar](FaxKeluar/FK_Android/InfoFK/02D01.png)
-
-**Preview Fax Keluar**
-
-Pada tab **Preview**, ditampilkan _preview_ fax keluar yang sudah dibuat. _Preview_ fax keluar disesuaikan dengan template berdasarkan jenis surat.
-
-![gambar](FaxKeluar/FK_Android/InfoFK/02P01.png)
-![gambar](FaxKeluar/FK_IOS/FK-23.2.png)
-
-**History Fax Keluar**
-
-Pada tab **History**, ditampilkan riwayat fax keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](FaxKeluar/FK_Android/InfoFK/02H01.png) 
-![gambar](FaxKeluar/FK_Android/InfoFK/02H02.png)
-
-

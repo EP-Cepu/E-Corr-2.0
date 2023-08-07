@@ -28,28 +28,3 @@ Langkah - langkah untuk Save as template via Web adalah sebagai berikut :
 
 
 
-## **E-Corr Versi Mobile (Android & iOS)**
-
-Langkah – langkah untuk save as template via Mobile (Android & iOS) adalah sebagai berikut : 
-
-1. 	Isi _form_ surat keluar dan klik **Next** lalu klik **Save as Template**
-
-![gambar](SuratKeluar/SK_Android/TempSK/02A01.png) ![gambar](SuratKeluar/SK_Android/TempSK/02A02.png) ![gambar](SuratKeluar/SK_Android/TempSK/02A03.png) 
-
-2. Surat keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft – Surat Keluar”** Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Surat Keluar**” kemudian pilih _template_ yang akan digunakan
-   
-![gambar](SuratKeluar/SK_Android/TempSK/02A04.png)
-![gambar](SuratKeluar/SK_Android/TempSK/02A11.png) 
-
-3. Klik tombol **Option**, pilih **Use Template** untuk melanjutkan edit surat
-   
-![gambar](SuratKeluar/SK_Android/TempSK/02A05.png) ![gambar](SuratKeluar/SK_Android/TempSK/02A06.png) 
-
-4. Sistem akan menampilkan form **use template** kemudian klik **Next** setelah melakukan perubahan
-
-![gambar](SuratKeluar/SK_Android/TempSK/02A07.png) ![gambar](SuratKeluar/SK_Android/TempSK/02A08.png)
-
-5. klik **Save as Draft** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Surat Keluar”.**
-
-![gambar](SuratKeluar/SK_Android/TempSK/02A09.png) ![gambar](SuratKeluar/SK_Android/TempSK/02A10.png)
-

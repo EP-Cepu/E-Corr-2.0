@@ -33,20 +33,3 @@ Langkah - langkah untuk menyelesaikan disposisi via Web adalah sebagai berikut :
 
 
 
-## **E-Corr Versi Mobile (Android & iOS)**
-
-Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah sebagai berikut:
-
-1. Klik menu **Draft** lalu pilih **Disposisi** kemudian pilih surat yang berlabel **Surat Masuk** yang akan dilihat informasinya
-
-![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A01.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A001.jpg) 
-
-2. Pada menu detail terdapat **Option** lalu pilih **Finish** 
-
- ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A03.jpg) 
-
-3. Pilih tombol **Finish** kemudian sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar disposisi kemudian klik **Send**
-
-![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A05.jpg) !  
-
-4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Sent Item-disposisi

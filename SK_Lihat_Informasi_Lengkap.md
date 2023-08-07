@@ -40,36 +40,3 @@ Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi j
 ![gambar](SuratKeluar/SK_Web/SK27.png)
 
 
-
-## **E-Corr Versi Mobile (Android & iOS)**
-
-Langkah-langkah untuk melihat informasi surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
-
-1. 	Klik menu **Inbox/Draft/Sent Item** dan pilih  label **Surat Keluar.**
-   
-![gambar](SuratKeluar/SK_Android/InfoSK/02A01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02A02.png)
-
-**Detail Surat Keluar**
-
-Klik pada salah satu surat untuk melihat Detail surat keluar, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02D01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02D02.png)
-
-**Preview Surat Keluar**
-
-Pada tombol **Preview**, ditampilkan _preview_ surat keluar yang sudah dibuat. _Preview_ surat keluar disesuaikan dengan template berdasarkan jenis surat.
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02P01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02P02.png)
-
-**History Surat Keluar**
-
-Pada pilihan **History**, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02H01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02H02.png)
-
-**Tracking Surat Keluar**
-
-Pada pilihan **Tracking**, ditampilkan tracking surat keluar yang terdapat informasi user, Jabatan dan tindakan.
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02T01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02T02.png)
-

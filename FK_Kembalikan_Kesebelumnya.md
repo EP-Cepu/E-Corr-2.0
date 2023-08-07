@@ -23,22 +23,3 @@
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**
 
 
-
-## **E-Corr Versi Android dan iOS**
-
-
-Langkah - langkah untuk kembalikan kesebelumnya via Android dan iOS adalah sebagai berikut:
-
-1. Klik menu **Inbox** dan pilih Label **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Android/KembaliFK/02A01.png) ![gambar](FaxKeluar/FK_Android/KembaliFK/02A02.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option**
-
-![gambar](FaxKeluar/FK_Android/KembaliFK/02A03.png) ![gambar](FaxKeluar/FK_Android/KembaliFK/02A04.png)
-
-3. Klik tombol **Revise to Previous** kemudian sistem menampilkan pop up dan user mengisi komentar lalu klik **Send**
-
-![gambar](FaxKeluar/FK_Android/KembaliFK/02A05.png) ![gambar](FaxKeluar/FK_Android/KembaliFK/02A06.png)
-
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**

@@ -74,35 +74,3 @@ Langkah - langkah untuk mengirim surat keluar adalah sebagai berikut
 2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **"Sent Item - Surat Keluar"**
 
 
-## **E-Corr Versi Mobile (Android & iOS)**
-
-Langkah - langkah untuk menambah surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
-
-1. Klik tanda **(+)** pada surat keluar
-   
-![gambar](SuratKeluar/SK_Android/TambahSK/02A01.png)
-
-2. Pilih jenis surat “**Surat Keluar**” lalu klik **Next**
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A02.png) 
-
-3. Isi _form_ tambah surat keluar lalu klik tombol **Next**. Terdapat beberapa aksi untuk menindaklanjuti surat keluar yang sudah diisi yaitu **Save as draft**, **Save as Template**, dan **Send document**
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A03.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A04.png) ![gambar](SuratKeluar/SK_Android/TambahSK/02A05.png) ![gambar](SuratKeluar/SK_Android/TambahSK/02A06.png)![gambar](SuratKeluar/SK_Android/TambahSK/02A07.png)  ![gambar](SuratKeluar/SK_Android/TambahSK/02A08.png)
-
-**Simpan Surat Keluar**
-
-Langkah – langkah untuk menyimpan surat keluar adalah sebagai berikut.
-
-1. Isi _form_ surat keluar kemudian klik **Save**
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A03.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A04.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A05.png)
-
-2. Surat keluar akan tersimpan di menu **Draft - Direct** label **Surat Keluar** 
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A09.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A10.png)
-

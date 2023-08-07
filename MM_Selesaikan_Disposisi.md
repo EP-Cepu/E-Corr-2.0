@@ -30,23 +30,3 @@ Langkah-langkah untuk menyelesaikan disposisi memorandum via Web adalah sebagai 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
 
-
-## **E-Corr Versi Android & IOS**
-
-Langkah-langkah untuk menyelesaikan disposisi memorandum via Android adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Disposisi**
-
-![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-40.png)
-
-2. Pilih memorandum yang akan diselesaikan kemudian pilih icon **Titik Tiga**
-
-![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-41.png)
-![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-42.png) 
-
-3. Pilih button **Finish** kemudian sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
-
-![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-43.png) 
-![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-44.png)
-
-4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi

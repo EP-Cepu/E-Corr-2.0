@@ -22,23 +22,6 @@
 4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan terhapus dari **Draf - Direct** dan akan tersimpan di menu **“Rejected”** berlabel Fax Keluar.
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk tolak fax keluar via Android dan iOS adalah sebagai berikut:
-
-1. Klik menu **Inbox-Draft** dan pilih berlable **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Android/TolakFK/02A1.png) ![gambar](FaxKeluar/FK_Android/TolakFK/02AA1.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option**
-
- ![gambar](FaxKeluar/FK_Android/TolakFK/02A01.png) ![gambar](FaxKeluar/FK_Android/TolakFK/02A02.png)
-
-3. Klik tombol **Reject Document** kemudian sistem menampilkan pop up dan user mengisi komentar lalu klik **Send**
-
-![gambar](FaxKeluar/FK_Android/TolakFK/02A03.png) 
-
-5. Sistem berhasil menyimpan perubahan fax keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- berlabel Fax Keluar”** user penolak pada label “**Rejected”**
 
 
 

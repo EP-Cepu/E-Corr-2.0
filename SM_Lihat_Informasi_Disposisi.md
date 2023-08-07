@@ -46,31 +46,4 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 
 
-## E-Corr Versi Mobile (Android & iOS)
-
-Langkah - langkah untuk melihat informasi disposisi surat masuk via Android adalah sebagai berikut :
-
-1. Klik menu **Draft** lalu **Disposisi** dan pilih surat yang berlabel **Surat Masuk** kemudian pilih salah satu disposisi surat masuk yang akan dilihat informasinya
-
-![gambar](SuratMasuk/SM_Android/Informasidisposisi/02A01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02A02.jpg)
-
-#### **Preview Disposisi Surat Masuk**
-
-Pada bagian detail **Surat Masuk** terdapat **Option** untuk melakukan **Preview** disposisi surat masuk.
-
-![gambar](SuratMasuk/SM_Android/Informasidisposisi/02P01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02A05.png)
-
-#### **Detail Disposisi Surat Masuk**
-
-Pada tab **Detail**, terdapat seluruh informasi surat masuk
-
-![gambar](SuratMasuk/SM_Android/Informasidisposisi/02D01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02D02.jpg)
-
-#### **Preview Lembar Penerus**
-
-Pada Option **Detail Disposition**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh
-pejabat penerima disposisi
-
-![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL02.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL03.jpg)
-
 

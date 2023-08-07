@@ -16,12 +16,3 @@ Langkah - langkah untuk melihat daftar surat keluar via Web adalah sebagai berik
 ![gambar](SuratKeluar/SK_Web/SK22.png)
 
 
-
-## **E-Corr Versi Mobile (Android & iOS)**
-
-Langkah - langkah untuk melihat daftar surat keluar via Mobile(Android & iOS) adalah sebagai berikut :
-
-1. Klik menu **Inbox/ Draft/ Sent Item** dan pilih surat berlabel **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Android/DaftarSK/02A01.png) ![gambar](SuratKeluar/SK_Android/DaftarSK/02A02.png)
-

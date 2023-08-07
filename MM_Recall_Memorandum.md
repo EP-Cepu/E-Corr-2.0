@@ -22,20 +22,3 @@ Langkah - langkah untuk melakukan recall disposisi memorandum via Web adalah seb
 ![gambar](Memorandum/MM_Web/MM-76.png)
 
 
-
-## **E-Corr Versi Android & IOS**
-
-Langkah-langkah untuk Recall Memorandum via Android adalah sebagai berikut :
-
-1. Klik menu **Sent Item** dan pilih tab **Disposisi**
-
-![gambar](Memorandum/MM_Android/Recallmemo/02MM-26.png) 
-![gambar](Memorandum/MM_Android/Recallmemo/02MM-27.png)
-
-2. Pilih memorandum yang akan di-_recall_ kemudian klik ikon **titik tiga** di **Detail** lalu pilih **_Recall_**. makan akan muncul popup konfirmasi dan pilih **Recall**
-
-![gambar](Memorandum/MM_Android/Recallmemo/02MM-28.png) 
-![gambar](Memorandum/MM_Android/Recallmemo/02MM-29.png) 
-![gambar](Memorandum/MM_Android/Recallmemo/02MM-30.png)
-
-3. Memorandum yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penarik disposisi

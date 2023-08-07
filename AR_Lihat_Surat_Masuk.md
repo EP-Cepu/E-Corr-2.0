@@ -19,15 +19,4 @@ Langkah - langkah untuk melihat dokumen surat masuk via Web adalah sebagai berik
 
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Archive** pilih Berlabel **Surat Masuk**
-   
-![gambar](Archive/AR_Android/FM/02A01.jpg) 
-
-![gambar](Archive/AR_Android/FM/02A02.jpg)
-
-2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 

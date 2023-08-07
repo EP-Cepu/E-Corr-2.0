@@ -25,23 +25,3 @@ Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah seba
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Direct** dan penerima pengembalian memorandum akan menerima memorandum di menu **Draft - Direct**
 
-
-## **E-Corr Versi Android & IOS**
-
-Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Android adalah sebagai berikut :
-
-1. Klik menu **Draft** dan pilih label **Memorandum**
-
-![gambar](Memorandum/MM_Android/Kembalimemo/02A01.png) ![gambar](Memorandum/MM_Android/Kembalimemo/02A02.png)
-
-2. Pilih memorandum yang akan ditindak lanjuti.
-
-![gambar](Memorandum/MM_Android/Kembalimemo/02A03.png)
-
-3. Klik tombol **Edit** -- **Returent to Previous** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](Memorandum/MM_Android/Kembalimemo/02A04.png)
-![gambar](Memorandum/MM_Android/Kembalimemo/02A05.png)
-![gambar](Memorandum/MM_Android/Kembalimemo/02A06.png)
-
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item- Direct** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - dan berlabel memorandum**

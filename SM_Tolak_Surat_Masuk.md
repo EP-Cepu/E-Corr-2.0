@@ -26,17 +26,3 @@ Langkah-langkah untuk menolak surat masuk via Web adalah sebagai berikut:
 
 5.    Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan di menu “**Rejected – Surat Masuk”** user penolak dengan label **Rejected**
 
-
-## **E-Corr Versi (Android & iOS)**
-
-Langkah-langkah untuk menolak surat masuk adalah sebagai berikut.
-
-1. Klik menu **Inbox** lalu **Direct** dan pilih surat yang berlabel **Surat Masuk** , kemudian Pilih surat masuk yang akan di Reject
-   
-![gambar](SuratMasuk/SM_Android/TolakSM/02A01.jp) ![gambar](SuratMasuk/SM_Android/TolakSM/02A02.jpg)
-
-3. Pada detail kli Option lalu pilih **Reject Document** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan reject surat masuk kemudian klik **Send**
-   
-![gambar](SuratMasuk/SM_Android/TolakSM/02A03.jpg) ![gambar](SuratMasuk/SM_Android/TolakSM/02A04.jpg)
-
-4. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan dimenu **Rejected**

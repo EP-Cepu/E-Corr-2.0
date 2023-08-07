@@ -34,30 +34,3 @@ Berikut ini tutorial yang menjelaskan langkah-langkah untuk mengesahkan surat ke
 7. Surat keluar yang sudah disetujui akan tersimpan di menu **"Sent Item - Surat Keluar"** pengirim
 
 
-
-## **E-Corr Versi Mobile (Android & iOS)**
-
-Langkah-langkah untuk mengesahkan surat keluar via Mobile (Android & iOS) adalah sebagai berikut:
-
-1. Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Android/NomorSK/02A01.png) ![gambar](SuratKeluar/SK_Android/NomorSK/02A02.png)
-
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
-
-![gambar](SuratKeluar/SK_Android/NomorSK/02A03.png) ![gambar](SuratKeluar/SK_Android/NomorSK/02A04.png)
-
-3. Pilih tombol **Sign document**
-
-![gambar](SuratKeluar/SK_Android/NomorSK/02A05.png)
-
-4. Sistem akan menampilkan form Signing Documents kemudian klik **Next**
-   
-![gambar](SuratKeluar/SK_Android/NomorSK/02A06.png)
-
-5. Kemudian isikan **NIK** dan **PassPhrase** pada form E-Corr kemudian klik **Next**
-   
-![gambar](SuratKeluar/SK_Android/NomorSK/02A07.png)
-
-Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
-

@@ -18,14 +18,3 @@ Langkah - langkah untuk melihat daftar dokumem Fax keluar via Web adalah sebagai
  2. Sistem menampilkan dokumen fax masuk yang tersimpan di menu Archive
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk melihat daftar dokumem Fax keluar via Android dan iOS adalah sebagai berikut :
-
-1. Klik menu **Archive** pilih submenu **Fax Keluar**
-   
-![gambar](Archive/AR_Android/FK/02A01.jpg) 
-
-![gambar](Archive/AR_Android/FK/02A02.jpg)
-
-2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive

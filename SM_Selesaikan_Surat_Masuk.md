@@ -29,18 +29,3 @@ Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 
 
 
-
-## **E-Corr Versi (Android & iOS)**
-
-Langkah - langkah untuk menyelesaikan surat masuk menu via Android adalah sebagai berikut :
-
-1. 	Klik menu **Inbox** lalu **Direct** dan pilih surat yang berlabel **Surat masuk**
-
-![gambar](SuratMasuk/SM_Android/SelesaiSM/02A01.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/02A02.jpg)
-
-2. 	Pilih surat masuk yang akan diselesaikan kemudian pilih **Option** kemudian klik **Finish** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan kemudian klik **Send**
-
-
-![gambar](SuratMasuk/SM_Android/SelesaiSM/A02.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/02A03.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/02A04.jpg)
-
-4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Sent Item - Direct - Surat Masuk**.

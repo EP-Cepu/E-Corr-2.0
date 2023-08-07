@@ -15,15 +15,6 @@ langkah untuk melihat daftar memorandum via Web adalah sebagai berikut
 ![gambar](Memorandum/MM_Web/MM-28.png)
 
 
-## **E-Corr Versi Android & IOS**
-
-Langkah-langkah untuk melihat daftar memorandum via Android adalah sebagai berikut :
-
-1. Klik menu **Inbox/Draft/Sent Items** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_Android/Daftarmemo/02MM-09.png) 
-![gambar](Memorandum/MM_Android/Daftarmemo/02MM-10.png) 
-
 
 
 

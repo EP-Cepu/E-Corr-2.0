@@ -28,30 +28,3 @@
 
 
 
-## **E-Corr Versi Android dan iOS**
-
-Langkah - langkah untuk mengesahkan fax keluar via Android dan iOS adalah sebagai berikut:
-
-1. Klik menu **Draft - Direct** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Android/NomorFK/02A01.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A02.png) 
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Sign Document**
-
-![gambar](FaxKeluar/FK_Android/NomorFK/02A04.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A05.png)  
-
-3. Pilih tombol **button** kemudian **Sign Document**
-   
-![gambar](FaxKeluar/FK_Android/NomorFK/02A06.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A07.png) 
-
-4. Sistem akan menampilkan form Validation of Digital Signature
-   
-![gambar](FaxKeluar/FK_Android/NomorFK/02A08.png)
-
-5. Kemudian isikan NIK dan PassPhrase pada form E-Corr kemudian klik **Send**
-   
-![gambar](FaxKeluar/FK_Android/NomorFK/02A09.png)
-
-6. Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Direct”** berlabel Fax Keluar pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Direct”** berlabel Fax Keluar penerima
-
-
