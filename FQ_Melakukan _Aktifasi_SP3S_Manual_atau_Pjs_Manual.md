@@ -1,6 +1,6 @@
 <font size="3">
 
-Permasalahan tersebut terjadi karena faktor user melakukan created SP3S secara manual atau tidak created SP3S secara online di E-Corr 2.0, sehingga setting Pjs secara otomatis belum terdapat di P-offiice 2.0, untuk mengaktifkan SP3S tersebut harus dilakukan secara manual dengan melakukan setting di aplikasi Idaman terlebih dahulu
+Permasalahan tersebut terjadi karena faktor user melakukan created SP3S secara manual atau tidak created SP3S secara online di E-Corr 2.0, sehingga setting Pjs secara otomatis belum terdapat di E-Corr 2.0, untuk mengaktifkan SP3S tersebut harus dilakukan secara manual dengan melakukan setting di aplikasi Idaman terlebih dahulu
 
 - Untuk mengatasi pemasalahaan tersebut user harus melakukan setting aktivasi Pjs secara manual di Idaman. Berikut ini langkah – langkah mengaktifkan SP3S manual di Idaman: 
 
